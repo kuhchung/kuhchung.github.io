@@ -1,7 +1,8 @@
 # Hunter’s Notes - Deviljho
 
-Goabie's weapon recommendations: Lance, Medium Bowgun, Greatsword
-Anti-recommendations: Longsword, SnS
+Goabie's weapon recommendations: Lance, Medium Bowgun, Greatsword  
+Anti-recommendations: Longsword, SnS  
+Elemental weakness: Dragon, then thunder
 
 TODO: picture
 TODO: Flavor text
