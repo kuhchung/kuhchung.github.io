@@ -1,6 +1,7 @@
 # Hunter’s Notes - Deviljho
 
-Goabie's effective weapon recommendations in no particular order: Lance, Medium Bowgun, Greatsword
+Goabie's weapon recommendations: Lance, Medium Bowgun, Greatsword
+Anti-recommendations: Longsword, SnS
 
 TODO: picture
 TODO: Flavor text
