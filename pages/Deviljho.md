@@ -27,6 +27,8 @@ Evade lancing is _the_ classic way to fight Deviljho. It really shows off the po
 
 If you want to evade lance it and someone is bringing a longsword, just sigh and switch to bowgun.
 
+When Deviljho is exhausted, if he hits you with a swipe from his drooling mouth, you are going to be afflicted with defense down. This can be counteracted by eating an adamant seed. You can also just ignore it and keep on fighting.
+
 He gains dragonbreath when raged. This does not require evasion+1 to dodge through.
 
 His roar does not require evasion+1 to dodge either. Actually, most of his attacks do not _require_ it, but evasion unlocks some easier timings. His hipcheck, if you are too far at the end of his attack animation, cannot be evaded properly for example.
