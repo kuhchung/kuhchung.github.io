@@ -8,7 +8,7 @@ TODO: Add Rathalos flavor text entry
 
 Rage tells: Speed up, fire in mouth
 
-Starts in area 2 of Deserted Island in Double Trouble
+Starts in area 2 of Deserted Island in Double Trouble  
 Starts in area 7 of Deserted Island if alone
 
 TODO: Starts in Volcano where? But really, hunting him there sucks. Don’t do it.
