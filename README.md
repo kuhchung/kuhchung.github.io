@@ -1,4 +1,4 @@
-# Monster-Hunter-Tri---Goabie-Guide
+# Monster Hunter Tri - Goabie's Guide
 Just an idiot's random musings on Monster Hunter Tri
 
 Hi! I'm playing on the Monster Hunter Tri Server Project as Goabie. This is my guide for new and returning players, of which we do not have enough of. Please join us!
