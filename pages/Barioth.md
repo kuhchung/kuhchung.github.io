@@ -1,5 +1,7 @@
 # Hunter's Notes - Barioth
 
+Goabie's effective weapon recommendations: Hammer
+
 TODO: Barioth picture
 
 TODO: Barioth flavor text
