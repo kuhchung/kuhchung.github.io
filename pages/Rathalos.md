@@ -1,6 +1,6 @@
 # Hunter’s Notes - Rathalos
 
-Goabie's effective weapon recommendations: Hammer, Greatsword, Longsword  
+Goabie's weapon recommendations: Hammer, Greatsword, Longsword  
 Elemental weakness: Thunder and Dragon
 
 TODO: Link videos demonstrating flash bombing
