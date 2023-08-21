@@ -1,6 +1,6 @@
 # Hunter's Notes - Barioth
 
-Goabie's effective weapon recommendations: Hammer
+Goabie's effective weapon recommendations: Hammer  
 Elemental weakness: Fire, then thunder
 
 TODO: Barioth picture
