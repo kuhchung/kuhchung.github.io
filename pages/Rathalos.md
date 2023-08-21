@@ -25,7 +25,7 @@ How to flash bomb Rathalos:
 
 In Low Rank, you can just place large barrel bombs and detonate when he's coming back down from a vertical fly. That will probably stagger him out of the air.
 
-When raged, it is not safe to be overlapping his body. You _will_ eat a jumpback fireball.
+When raged, it is not safe to be overlapping his body when he is about to make his next movement. You _will_ eat a jumpback fireball.
 
 Like all monster tailwhips, you can evade through his without evasion+1.
 
