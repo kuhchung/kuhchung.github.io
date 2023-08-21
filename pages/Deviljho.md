@@ -1,5 +1,7 @@
 # Hunter’s Notes - Deviljho
 
+Goabie's effective weapon recommendations in no particular order: Lance, Medium Bowgun, Greatsword
+
 TODO: picture
 TODO: Flavor text
 
@@ -18,6 +20,8 @@ If Jho eats a spiked meat and suffers the status effect, after he breaks free, i
 Put the pitfall trap at a sleeping Jho's chin so that he can wake up, rage, then fall into the pit. DO NOT PIT HIM UNRAGED.
 
 The safest way to get past his enormously wide head-tail sweep is RIGHT THROUGH THE MIDDLE. Go underneath and between his legs! If you're well positioned, you can just walk through. Otherwise, roll forward past the head.
+
+Evade lancing is _the_ classic way to fight Deviljho. It really shows off the power of evasion+1 and lance mobility and ability to stick close and be aggressive at all times. Every single one of Deviljho's attacks is easily dodged with evasion+1.
 
 If you want to evade lance it and someone is bringing a longsword, just sigh and switch to bowgun.
 
