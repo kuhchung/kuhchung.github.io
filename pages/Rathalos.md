@@ -1,5 +1,7 @@
 # Hunter’s Notes - Rathalos
 
+Goabie's effective weapon recommendations: Hammer, Greatsword, Longsword
+
 TODO: Link videos demonstrating flash bombing
 
 TODO: Add Rathalos image
