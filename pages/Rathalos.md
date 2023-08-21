@@ -27,3 +27,7 @@ In Low Rank, you can just place large barrel bombs and detonate when he's coming
 When raged, it is not safe to be overlapping his body. You _will_ eat a jumpback fireball.
 
 Like all monster tailwhips, you can evade through his without evasion+1.
+
+Standard turnapound. Stand behind Rathalos, and release the superpound as he begins his first turn.
+
+When knocked out and going for triple pounds, make sure not to stand under the wing that is up. Go to where the wing is down.
