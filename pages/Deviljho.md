@@ -2,7 +2,7 @@
 
 Goabie's weapon recommendations: Lance, Medium Bowgun, Greatsword  
 Anti-recommendations: Longsword, SnS  
-Elemental weakness: Dragon, then thunder
+Elemental weakness: Dragon or Thunder
 
 TODO: picture
 TODO: Flavor text
