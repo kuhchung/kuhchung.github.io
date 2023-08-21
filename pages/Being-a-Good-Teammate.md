@@ -45,5 +45,7 @@ The difference between a good and bad teammate is night and day. Here’s how yo
 * If teammates are whaling on a disabled monster, roll out of your charged superpound and go for a triple. Don't superpound your teammates! 
 * Tripping your teammates with your status weapon during your disable
     * You got a paralyze. Great! Now let your team work and don't trip them. Prepare to place a trap, or flash bomb, or find an unoccupied area to hit it, or just chill. We don't need your green sharpness Shadowbinder damage while you trip your lancers or SnS hitters.
+* Fire pellet ammo in a group
+    * Or crag
 * Afk mining during a hunt
     * For gods sake don't come on a hunt to volcano in leather+ and go on a solo harvest tour. This is the worst offense.
