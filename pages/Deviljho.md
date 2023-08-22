@@ -35,4 +35,5 @@ His roar does not require evasion+1 to dodge either. Actually, most of his attac
 
 ## WORLD EATER SPECIFIC
 
-If you set off smoke bombs and place a drugged meat, he will 100% (?) go for it. This only works for World Eater for whatever reason.
+If you set off smoke bombs and place a drugged meat while he hasn't noticed anyone, he will 100% (?) go for it. This only works for World Eater for whatever reason.
+I've seen it glitch out with two drugged meats placed. He seems to go for one, then stops and moves to the other, and then doesn't perform the eating animation af.ter all. So only place one.
