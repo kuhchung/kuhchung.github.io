@@ -32,3 +32,7 @@ When Deviljho is exhausted, if he hits you with a swipe from his drooling mouth,
 He gains dragonbreath when raged. This does not require evasion+1 to dodge through.
 
 His roar does not require evasion+1 to dodge either. Actually, most of his attacks do not _require_ it, but evasion unlocks some easier timings. His hipcheck, if you are too far at the end of his attack animation, cannot be evaded properly for example.
+
+## WORLD EATER SPECIFIC
+
+If you set off smoke bombs and place a drugged meat, he will 100% (?) go for it. This only works for World Eater for whatever reason.
