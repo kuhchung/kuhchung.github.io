@@ -15,4 +15,4 @@ These have been independently tested and confirmed.
     * This thing prevents tripping, but only for 15 seconds. Duration cannot be overwritten/extended by adamant seed, sorry. Armor S II does not work either.
 * Might Pill
     * The biggest consumable attack buff in the game. This lasts 15 seconds. Eat this and eat a might seed while the pill is still active to extend it to 3 minutes (5 minutes with Lasting Power.) 
-
+* Stat Atk Up and Felyne Specialist stack.
