@@ -2,7 +2,7 @@
 
 Welcome to my armory! This is a compilation of useful loadouts that I either discovered or was given. If you're looking for a functional set, look no further!
 
-My goal for all of these sets is to *not* dictate what talismans you should use, whenever possible. Greatsword users, beware. You're gonna need a tali.
+My goal for all of these sets is to *not* dictate what talismans you must use, whenever possible. Greatsword users, beware. You're gonna need a tali.
 
 By the way, Helios and Selene are the male and female armor made of Ceadeus parts. Use whatever applies for your character's gender.
 
@@ -54,7 +54,7 @@ Selene+ Vambraces
 Selene Coil  
 Vangis Greaves - OOO  
 
-Total: Handicraft14, Hearing15, Att1
+Total: Handicraft14, Hearing15, Attack1
 
 This is *the* high grade earplugs loadout. If you want a headless one though...
 
@@ -119,7 +119,7 @@ Vangis Greaves - OOO (element4)
 
 Total: Handicraft15, Element9, Attack9
 
-I'd rather use a standard sharpness/earplugs mix, but that's me. With a 2 slot weapon and attack god talisman (Attack7 OO), you can get AuL.
+I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and attack god talisman (Attack7 OO), you can get AuL. Don't forget to finish off the Element9 and Attack9 by adding the corresponding decos either in your weapon or your talisman.
 
 ---
 
