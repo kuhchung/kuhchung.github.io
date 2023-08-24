@@ -274,12 +274,12 @@ For all of the above pierce gunning sets, the waist and leggings are up to you! 
 ### Normal Meme
 Normal S Boost, Normal S All Up
 
-Chaos Wing - Jhen Cannon O - Aquamatic "Needler" - O
-Agnaktor+ Cap
-Agnaktor+ Vest - O
-Agnaktor+ Guards - OOO
-Agnaktor+ Coat - OOO
-None
+Chaos Wing - Jhen Cannon O - Aquamatic "Needler" - O  or Vulcannon
+Agnaktor+ Cap  
+Agnaktor+ Vest - O  
+Agnaktor+ Guards - OOO  
+Agnaktor+ Coat - OOO  
+None  
 
 Total: NormalS Up10, Normal S+10
 
@@ -292,12 +292,12 @@ Sorry, Normal shot is sort of a meme. It's kind of good vs Qurupeco.
 ### Elemental Rapid Fire Bonus Shot
 Element Atk Up, Bonus Shot
 
-Rathling+ Gun - Rathling+ Gun O - Rathling+ Gun OO
-None
-Lagiacrus+ Vest - OOO (element4)
-Escadora Arma - O (rapid fire1)
-Lagiacrus+ Coat - OO
-Lagiacrus+ Leggings - O
+Rathling+ Gun - Rathling+ Gun O - Rathling+ Gun OO  
+None  
+Lagiacrus+ Vest - OOO (element4)  
+Escadora Arma - O (rapid fire1)  
+Lagiacrus+ Coat - OO  
+Lagiacrus+ Leggings - O  
 
 Total: Rapid Fire10, Elemental10
 
@@ -309,12 +309,12 @@ For the head piece, you could wear Barrage Earring (meh), or any earring of your
 ### Ghost Rider Rapid Fire Bonus Shot
 Element Atk Up, Bonus Shot, Evasion Up
 
-Chaos Wing - Rathling+ Gun O - Rathling+ Gun OO
-Skull Mask
-Lagiacrus+ Vest - OOO (element4)
-Escadora Arma - O (evade dist1)
-Escadora Force - OO (evade dist1, evade dist1)
-Escadora Scala - O (evade dist1)
+Chaos Wing - Rathling+ Gun O - Rathling+ Gun OO  
+Skull Mask  
+Lagiacrus+ Vest - OOO (element4)  
+Escadora Arma - O (evade dist1)  
+Escadora Force - OO (evade dist1, evade dist1)  
+Escadora Scala - O (evade dist1)  
 
 Total: Elemental10, Evade Dist15, Rapid Fire10
 
@@ -323,7 +323,7 @@ We get more raw on the gun, and Evasion Up is there to make up for the lack of m
 ---
 
 ### Low Rank Lagi
-<img style="float:right" src="images/low-rank-lagi-gunner.png" height="300" width=300" /><span style="padding-left:10px"/><img style="float:none:" src="images/low-rank-lagi-gunner-skills.png" height="300" width="300"/>
+<img style="float:right;" src="images/low-rank-lagi-gunner.png" height="300" width=300" /> <span style="padding-left:10px"/> <img style="float:none;" src="images/low-rank-lagi-gunner-skills.png" height="300" width="300"/>
 Normal S Boost, Element Atk Up, Olympic Swimmer, Status Atk Down
 
 Lagiacrus Cap - OO  
