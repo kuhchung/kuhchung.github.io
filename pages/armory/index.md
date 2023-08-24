@@ -322,7 +322,7 @@ We get more raw on the gun, and Evasion Up is there to make up for the lack of m
 ---
 
 ### Low Rank Lagi
-<img style="float:right" src="images/low-rank-lagi-gunner.png" height="150" width="150"/><img src="images/low-rank-lagi-gunner-skills.png" height="150" width="150"/>
+<img style="float:right" src="images/low-rank-lagi-gunner.png" height="300" width=300" /><img style="float:none:" src="images/low-rank-lagi-gunner-skills.png" height="300" width="300"/>
 Normal S Boost, Element Atk Up, Olympic Swimmer, Status Atk Down
 
 Lagiacrus Cap - OO  
