@@ -320,6 +320,8 @@ Total: Elemental10, Evade Dist15, Rapid Fire10
 
 We get more raw on the gun, and Evasion Up is there to make up for the lack of mobility with the HBG. It's actually pretty fun.
 
+The listed guns are for rapid firing fire shots. I find the other elemental shots bad/useless, but you can just switch the barrel and stock to find ones that load the ammo type you want.
+
 ---
 
 ### Low Rank Lagi
