@@ -325,7 +325,10 @@ The listed guns are for rapid firing fire shots. I find the other elemental shot
 ---
 
 ### Low Rank Lagi
-<img style="float:right; padding-right:10px;" src="images/low-rank-lagi-gunner.png" height="300" width=500" /> <img style="float:none;" src="images/low-rank-lagi-gunner-skills.png" height="300" width="500"/>  
+<p float="left">
+<img src="images/low-rank-lagi-gunner.png" width="48%">
+<img src="images/low-rank-lagi-gunner-skills.png" width="48%">
+<p float="left">
 Normal S Boost, Element Atk Up, Olympic Swimmer, Status Atk Down
 
 Lagiacrus Cap - OO  
