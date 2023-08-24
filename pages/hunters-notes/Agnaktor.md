@@ -1,6 +1,6 @@
 # Hunter’s Notes - Agnaktor
 
-Goabie’s Weapon Recommendations: Medium Bowgun, LS, Lance, SnS
+Goabie’s Weapon Recommendations: Medium Bowgun, LS, Lance, SnS  
 Elemental weakness: Water
 
 TODO: picture
