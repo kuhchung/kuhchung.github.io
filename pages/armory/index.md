@@ -274,7 +274,7 @@ For all of the above pierce gunning sets, the waist and leggings are up to you! 
 ### Normal Meme
 Normal S Boost, Normal S All Up
 
-Chaos Wing - Jhen Cannon O - Aquamatic "Needler" - O  or Vulcannon
+Chaos Wing - Jhen Cannon O - Aquamatic "Needler" - O  or Vulcannon  
 Agnaktor+ Cap  
 Agnaktor+ Vest - O  
 Agnaktor+ Guards - OOO  
