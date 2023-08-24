@@ -73,7 +73,7 @@ Total: Handicraft15, Hearing17
 
 You can swap the HR greaves for the LR greaves if you want.  
 
-Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and some variety of earplugs. When I first reach HR51, these are the first sets I make, and I improvise until I can refine them into Endgame Standard or Endgame HGE.
+Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and some variety of earplugs. When I first reach HR51, these are the first sets I make by mixing whatever Vangis and Helios I have, and I improvise until I can refine them into Endgame Standard or Endgame HGE.
 
 ---
 
