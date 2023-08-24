@@ -1,8 +1,0 @@
-#!/bin/bash
-
-echo "## Contents" ; echo ; 
-cat index.md | grep '^## ' | grep -v Contents | sed 's/^## //' | 
-  while read -r title ; do 
-    link=$(echo $title | tr 'A-Z ' 'a-z-') ; 
-    echo "- [$title](#$link)" ; 
-    done
