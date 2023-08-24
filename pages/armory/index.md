@@ -63,7 +63,7 @@ This is *the* high grade earplugs loadout. If you want a headless one though...
 ### Endgame Scuffed High Grade Earplugs
 Sharpness+1, High Grade Earplugs
 
-None
+None  
 Selene+ Helm  
 Selene+ Mail  
 Selene Coil  
