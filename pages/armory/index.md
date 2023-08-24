@@ -230,7 +230,7 @@ Gobul+ Leggings - OOO
 
 Total: PierceS Up10, Pierce S+10, Expert4
 
-This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation.  You can slot it however you like and use whatever talisman you want. If you want evasion, use barioth+ waist and an evasion talisman.
+This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation.  You can slot it however you like and use whatever talisman you want. If you want evasion, use Barioth+ Coat, Barioth Leggings, and an evasion talisman.
 
 If you don't have/can't get a Stout Horn for the chest piece, the low rank Diablos Vest is only one point worse than the high rank one.
 
@@ -250,7 +250,7 @@ Gobul+ Leggings - OOO (expert5)
 
 Total: PierceS Up10, Pierce S+16, Expert15
 
-This gun loads 8 pierce2 rounds and fires at 0.8 range with no deviation. Use whatever talisman you want. Like above, if you want evasion, use barioth+ waist.
+This gun loads 8 pierce2 rounds and fires at 0.8 range with no deviation. Use whatever talisman you want. Like above, if you want evasion, swap the bottom pieces and use an appropriate talisman.
 
 Also like above, substitue low rank chest if you need to.
 
@@ -262,6 +262,6 @@ This gun wants to fire straight through the longest part of the body. Fire strai
 The same as above, but change the gun parts to  
 Chaos Wing - Devil's Grin O - Blizzard Cannon
 
-Note that this gun has a folding frame so it is very immobile. It is used in World Eater speedruns, but can also be used freestyle in that fight. Its range is 0.96 so you can fire a little more comfortably vs the big guy, but Whether or not it's better than just firing regular old 0.8 range bullets with a medium bowgun is probably up to you.
+Note that this gun has a folding frame so it is very immobile. It is used in World Eater speedruns, but can also be used freestyle in that fight. Its range is 0.96 so you can fire a little more comfortably vs the big guy, but whether or not it's better than just firing regular old 0.8 range bullets with a medium bowgun probably depends on the player.
 
-For all of the above pierce gunning sets, the waist and leggings are up to you! For evasion, use Barioth+ Coat and Barioth- Leggings. For adrenaline, use Barroth+ Coat and Barroth+ Leggings, or when Black Leather Pants is in the game, use that.
+For all of the above pierce gunning sets, the waist and leggings are flexible! For evasion, use Barioth+ Coat and Barioth- Leggings. For adrenaline, use Barroth+ Coat and Barroth+ Leggings, or when Black Leather Pants is in the game, use that.
