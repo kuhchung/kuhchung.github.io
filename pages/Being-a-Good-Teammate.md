@@ -42,8 +42,9 @@ The difference between a good and bad teammate is night and day. Here’s how yo
     * Unless you seriously know what you are doing, just don’t ever do this. It even launches teammates behind you.
 * Lance charge
     * Same as the GS upswing. By the way, on land, this isn't even faster than running.
-* If teammates are whaling on a disabled monster, roll out of your charged superpound and go for a triple. Don't superpound your teammates! 
-* Tripping your teammates with your status weapon during your disable
+* Superpound grouped teammates
+   * If teammates are whaling on a disabled monster, roll out of your charged superpound and go for a triple. Don't superpound your teammates! 
+* Trip your teammates with your status weapon during your disable
     * You got a paralyze. Great! Now let your team work and don't trip them. Prepare to place a trap, or flash bomb, or find an unoccupied area to hit it, or just chill. We don't need your green sharpness Shadowbinder damage while you trip your lancers or SnS hitters.
 * Fire pellet ammo in a group
     * Or crag
