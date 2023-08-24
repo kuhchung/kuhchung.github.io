@@ -265,3 +265,74 @@ Chaos Wing - Devil's Grin O - Blizzard Cannon
 Note that this gun has a folding frame so it is very immobile. It is used in World Eater speedruns, but can also be used freestyle in that fight. Its range is 0.96 so you can fire a little more comfortably vs the big guy, but Whether or not it's better than just firing regular old 0.8 range bullets with a medium bowgun is probably up to you.
 
 For all of the above pierce gunning sets, the waist and leggings are up to you! For evasion, use Barioth+ Coat and Barioth- Leggings. For adrenaline, use Barroth+ Coat and Barroth+ Leggings, or when Black Leather Pants is in the game, use that.
+
+---
+
+## Normal and Elemental Gunning
+
+### Normal Meme
+Normal S Boost, Normal S All Up
+
+Chaos Wing - Jhen Cannon O - Aquamatic "Needler" - O
+Agnaktor+ Cap
+Agnaktor+ Vest - O
+Agnaktor+ Guards - OOO
+Agnaktor+ Coat - OOO
+None
+
+Total: NormalS Up10, Normal S+10
+
+Look, no pants!
+
+Sorry, Normal shot is sort of a meme. It's kind of good vs Qurupeco.
+
+---
+
+### Elemental Rapid Fire Bonus Shot
+Element Atk Up, Bonus Shot
+
+Rathling+ Gun - Rathling+ Gun O - Rathling+ Gun OO
+None
+Lagiacrus+ Vest - OOO (element4)
+Escadora Arma - O (rapid fire1)
+Lagiacrus+ Coat - OO
+Lagiacrus+ Leggings - O
+
+Total: Rapid Fire10, Elemental10
+
+For the head piece, you could wear Barrage Earring (meh), or any earring of your choice, or Barroth+ Helm/Cap and a potential talisman. Or whatever you want!
+
+---
+
+
+### Ghost Rider Rapid Fire Bonus Shot
+Element Atk Up, Bonus Shot, Evasion Up
+
+Chaos Wing - Rathling+ Gun O - Rathling+ Gun OO
+Skull Mask
+Lagiacrus+ Vest - OOO (element4)
+Escadora Arma - O (evade dist1)
+Escadora Force - OO (evade dist1, evade dist1)
+Escadora Scala - O (evade dist1)
+
+Total: Elemental10, Evade Dist15, Rapid Fire10
+
+We get more raw on the gun, and Evasion Up is there to make up for the lack of mobility with the HBG. It's actually pretty fun.
+
+---
+
+### Low Rank Lagi
+![LR Lagi](images/low-rank-lagi-gunner.png) ![LR Lagi Gunner Skills](images/low-rank-lagi-gunner-skills.png)  
+Normal S Boost, Element Atk Up, Olympic Swimmer, Status Atk Down
+
+Lagiacrus Cap - OO  
+Lagiacrus Vest - O  
+Lagiacrus Guards - OO  
+Lagiacrus Coat - OO  
+Lagiacrus Leggings - OO  
+
+Low Rank elemental gunning goodness. Lagiacrus is so flexible.
+
+---
+
+
