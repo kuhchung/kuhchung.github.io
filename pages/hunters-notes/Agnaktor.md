@@ -1,6 +1,6 @@
 # Hunter’s Notes - Agnaktor
 
-Goabie’s Weapon Recommendations: Medium Bowgun, LS, Lance, SnS
+Goabie’s Weapon Recommendations: Medium Bowgun, LS, Lance, SnS  
 Elemental weakness: Water
 
 TODO: picture
@@ -24,6 +24,6 @@ A nice flashbomb opening is at the very end of his world laser.
 
 Be ready to change direction if Agnaktor rushes you with a lava surf! He tracks and homes in on your movement in an instant, but if you just flip 180 degrees and hard turn around as soon as he begins his approach, he will be locked into your old trajectory and miss you completely.
 
-Turnapound \
+Turnapound
 - Start completely flush and perpendicular with his hind leg, release as he turns. The upswing hits the hind leg and the pound hits the, you guessed it, head.
 

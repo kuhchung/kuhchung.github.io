@@ -2,7 +2,7 @@
 
 Welcome to my armory! This is a compilation of useful loadouts that I either discovered or was given. If you're looking for a functional set, look no further!
 
-My goal for all of these sets is to *not* dictate what talismans you should use, whenever possible. Greatsword users, beware. You're gonna need a tali.
+My goal for all of these sets is to *not* dictate what talismans you must use, whenever possible. Greatsword users, beware. You're gonna need a tali.
 
 By the way, Helios and Selene are the male and female armor made of Ceadeus parts. Use whatever applies for your character's gender.
 
@@ -54,7 +54,7 @@ Selene+ Vambraces
 Selene Coil  
 Vangis Greaves - OOO  
 
-Total: Handicraft14, Hearing15, Att1
+Total: Handicraft14, Hearing15, Attack1
 
 This is *the* high grade earplugs loadout. If you want a headless one though...
 
@@ -63,7 +63,7 @@ This is *the* high grade earplugs loadout. If you want a headless one though...
 ### Endgame Scuffed High Grade Earplugs
 Sharpness+1, High Grade Earplugs
 
-None
+None  
 Selene+ Helm  
 Selene+ Mail  
 Selene Coil  
@@ -73,7 +73,7 @@ Total: Handicraft15, Hearing17
 
 You can swap the HR greaves for the LR greaves if you want.  
 
-Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and some variety of earplugs. When I first reach HR51, these are the first sets I make, and I improvise until I can refine them into Endgame Standard or Endgame HGE.
+Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and some variety of earplugs. When I first reach HR51, these are the first sets I make by mixing whatever Vangis and Helios I have, and I improvise until I can refine them into Endgame Standard or Endgame HGE.
 
 ---
 
@@ -119,7 +119,7 @@ Vangis Greaves - OOO (element4)
 
 Total: Handicraft15, Element9, Attack9
 
-I'd rather use a standard sharpness/earplugs mix, but that's me. With a 2 slot weapon and attack god talisman (Attack7 OO), you can get AuL.
+I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and attack god talisman (Attack7 OO), you can get AuL. Don't forget to finish off the Element9 and Attack9 by adding the corresponding decos either in your weapon or your talisman.
 
 ---
 
@@ -230,11 +230,11 @@ Gobul+ Leggings - OOO
 
 Total: PierceS Up10, Pierce S+10, Expert4
 
-This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation.  You can slot it however you like and use whatever talisman you want. If you want evasion, use barioth+ waist and an evasion talisman.
+This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation.  You can slot it however you like and use whatever talisman you want. If you want evasion, use Barioth+ Coat, Barioth Leggings, and an evasion talisman.
 
 If you don't have/can't get a Stout Horn for the chest piece, the low rank Diablos Vest is only one point worse than the high rank one.
 
-I've named this gun the Uragaan smasher because it obliterates the poor guy. 60 Adrenaline Pierce 1 shots and probably some bombs will put one of them low enough to capture!
+I've named this gun the Uragaan smasher because it obliterates the poor guy. In the Advanced quest Heroes Wanted, 60 Adrenaline Pierce 1 shots and probably some bombs will put one of them low enough to capture!
 
 ---
 
@@ -250,7 +250,7 @@ Gobul+ Leggings - OOO (expert5)
 
 Total: PierceS Up10, Pierce S+16, Expert15
 
-This gun loads 8 pierce2 rounds and fires at 0.8 range with no deviation. Use whatever talisman you want. Like above, if you want evasion, use barioth+ waist.
+This gun loads 8 pierce2 rounds and fires at 0.8 range with no deviation. Use whatever talisman you want. Like above, if you want evasion, swap the bottom pieces and use an appropriate talisman.
 
 Also like above, substitue low rank chest if you need to.
 
@@ -262,7 +262,7 @@ This gun wants to fire straight through the longest part of the body. Fire strai
 The same as above, but change the gun parts to  
 Chaos Wing - Devil's Grin O - Blizzard Cannon
 
-Note that this gun has a folding frame so it is very immobile. It is used in World Eater speedruns, but can also be used freestyle in that fight. Its range is 0.96 so you can fire a little more comfortably vs the big guy, but Whether or not it's better than just firing regular old 0.8 range bullets with a medium bowgun is probably up to you.
+Note that this gun has a folding frame so it is very immobile. It is used in World Eater speedruns, but can also be used freestyle in that fight. Its range is 0.96 so you can fire a little more comfortably vs the big guy, but whether or not it's better than just firing regular old 0.8 range bullets with a medium bowgun probably depends on the player.
 
 For all of the above pierce gunning sets, the waist and leggings are up to you! For evasion, use Barioth+ Coat and Barioth- Leggings. For adrenaline, use Barroth+ Coat and Barroth+ Leggings, or when Black Leather Pants is in the game, use that.
 
@@ -334,5 +334,4 @@ Lagiacrus Leggings - OO
 Low Rank elemental gunning goodness. Lagiacrus is so flexible.
 
 ---
-
 
