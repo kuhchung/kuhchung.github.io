@@ -66,7 +66,7 @@ Available Slots:  OOO x2; (Talisman); (Weapon)
 Selene/Helios Helm+ | OOO  
 Selene/Helios Mail+  
 Vangis Vambraces  
-Selene/Helios Coil 
+Selene/Helios Coil  
 Vangis Greaves | OOO  
 
 Total:  Handicraft +14, Hearing +15, Attack +1  
