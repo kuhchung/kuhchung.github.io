@@ -21,13 +21,14 @@ My goal for all of these sets is to *not* dictate what talismans you must use, w
 <img src="images/endgame-standard-earplugs-skills.png" width="48%">
 <p float="left">
 Active Skills:  Sharpness +1, Earplugs  
+  
 Available Slots:  OOO x2; (Talisman); (Weapon)  
   
-Selene/Helios Helm+ | OOO  
-Selene/Helios Mail+  
-Vangis Vambraces  
-Selene/Helios Coil+ | OOO  
-Selene/Helios Greaves+  
+<img src="images/MH3icon-1-Head.png" width="16px"> Selene/Helios Helm+ | OOO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves+  
 
 Total:  Handicraft +15, Hearing +10, Attack +5  
 
@@ -41,13 +42,14 @@ It seems natural to get to at least AuS, but the customization is entirely up to
 <img src="images/endgame-standard-earplugs-2-skills.png" width="48%">
 <p float="left">
 Active Skills:  Sharpness +1, Earplugs  
+  
 Available Slots:  OOO x2; (Talisman); (Weapon)
 
-Selene/Helios Helm+ | OOO  
-Selene/Helios Mail+  
-Vangis Vambraces  
-Selene/Helios Coil  
-Vangis Greaves | OOO  
+<img src="images/MH3icon-1-Head.png" width="16px"> Selene/Helios Helm+ | OOO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO  
 
 Total:  Handicraft +14, Hearing +10, Attack +6  
 
@@ -61,13 +63,14 @@ Another way to achieve the same loadout as above. The Attack +6 goes really well
 <img src="images/endgame-hge-skills.png" width="48%">
 <p float="left">
 Active Skills:  (Sharpness +1), High Grade Earplugs  
+  
 Available Slots:  OOO x2; (Talisman); (Weapon)
 
-Selene/Helios Helm+ | OOO  
-Selene/Helios Mail+  
-Vangis Vambraces  
-Selene/Helios Coil  
-Vangis Greaves | OOO  
+<img src="images/MH3icon-1-Head.png" width="16px"> Selene/Helios Helm+ | OOO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO  
 
 Total:  Handicraft +14, Hearing +15, Attack +1  
 
@@ -78,14 +81,19 @@ If you want a headless one though...
 ---
 
 ### Endgame Scuffed High Grade Earplugs
+<p float="left">
+<img src="images/endgame-scuffed-high-grade-earplugs.png" width="48%">
+<img src="images/endgame-scuffed-high-grade-earplugs-skills.png" width="48%">
+<p float="left">
 Active Skills:  Sharpness +1, High Grade Earplugs  
-Available Slots:  (Helm); (Talisman); (Weapon)  
+  
+Available Slots:  (Helm); (Talisman); (Weapon)
 
-None  
-Selene/Helios Mail+  
-Selene/Helios Vambraces+  
-Selene/Helios Coil  
-Selene/Helios Greaves(+) 
+<img src="images/MH3icon-1-Head.png" width="16px"> None  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Selene/Helios Vambraces+  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves(+) 
 
 Total:  Handicraft +15/+16, Hearing +17/+16  
 
@@ -96,14 +104,18 @@ Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and
 ---
 
 ### Endgame Standard No Earplugs
+<p float="left">
+<img src="images/endgame-standard-no-earplugs.png" width="48%">
+<p float="left">
 Active Skills:  Sharpness +1, Attack Up (M), Autotracker, Raise Hunger  
+  
 Available Slots:  OOO x1; (Talisman); (Weapon)
 
-Vangis Helm  
-Vangis Mail  
-Vangis Vambraces  
-Vangis Coil  
-Vangis Greaves | OOO  
+<img src="images/MH3icon-1-Head.png" width="16px"> Vangis Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Vangis Mail  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Vangis Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO  
 
 Total:  Handicraft +15, Psychic +15, Attack +15  
 
@@ -112,14 +124,18 @@ Yes, this is just full Deviljho. Not many slots to work with. However, if you're
 ---
 
 ### Endgame Standard No Earplugs Flexible
-Active Skills:  (Sharpness +1), Attack Up S, Detect  
-Available Slots:  OOO x2; (Talisman); (Weapon)
-
-Vangis Helm  
-Vangis Mail  
-Vangis Vambraces  
-Selene/Helios Coil+ | OOO  
-Vangis Greaves | OOO  
+<p float="left">
+<img src="images/endgame-standard-no-earplugs-flexible.png" width="48%">
+<p float="left">
+Active Skills: (Sharpness +1), Attack Up S, Detect  
+  
+Available Slots: OOO x2; (Talisman); (Weapon)  
+  
+<img src="images/MH3icon-1-Head.png" width="16px"> Vangis Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Vangis Mail  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO  
 
 Total:  Handicraft +14, Psychic +12, Attack +12  
 
@@ -133,14 +149,15 @@ If you're looking for an evade lancer set, this is it!
 <img src="images/elemental-enjoyer.png" width="48%">
 <img src="images/elemental-enjoyer-skills.png" width="48%">
 <p float="left">
-Active Skills:  Sharpness +1, (Element Atk Up), (Attack Up (X))  
+Active Skills:  Sharpness +1, (Element Atk Up), (Attack Up (X))    
+  
 Available Slots: (Talisman); (Weapon)
 
-Vangis Helm  
-Lagiacrus Mail+ | OOO (Element 4)  
-Vangis Vambraces  
-Selene/Helios Coil+ | OOO (Handicraft 4)  
-Vangis Greaves | OOO (Element 4)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Vangis Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Mail+ | OOO (Element 4)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO (Handicraft 4)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Element 4)  
 
 Total:  Handicraft +15, Element +9, Attack +9  
 
@@ -155,13 +172,13 @@ I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and
 <p float="left">
 Active Skills:  Sharpness +1, Guard +1, Speed Sharpen
 
-1-Slot Weapon | O (Handicraft 1)  
-Vangis Helm  
-Vangis Mail  
-Steel Vambraces+ | O (Sharpener 2)  
-Steel Coil+ | O (Guard 1)  
-Vangis Greaves | OOO (Handicraft 4)  
-Talisman: Any O or better (Handicraft 1)
+<img src="images/MH3icon-Lance.png" width="16px"> 1-Slot Weapon | O (Handicraft 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Vangis Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Vangis Mail  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Steel Vambraces+ | O (Sharpener 2)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Steel Coil+ | O (Guard 1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Handicraft 4)  
+Talisman: Any with (O) or better (Handicraft 1)
 
 Total:  Handicraft +15, Guard +10, Sharpener +10, Attack +7
 
@@ -170,14 +187,18 @@ This is what I have for Guard Lancing that doesn't require a Guard skill in the 
 ---
 
 ### Alloy+ is Bae
+<p float="left">
+<img src="images/alloy+is-bae.png" width="48%">
+<p float="left">
 Active Skills:  Critical Eye +2, Trapmaster, Sharpener  
+  
 Available Slots:  OO x4; (Talisman); (Weapon)
 
-Alloy Helm+ | OO  
-Alloy Mail+ | OO  
-Alloy Vambraces+ | OO  
-Alloy Coil+ | OO  
-Alloy Greaves+  
+<img src="images/MH3icon-1-Head.png" width="16px"> Alloy Helm+ | OO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Alloy Mail+ | OO  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Alloy Vambraces+ | OO  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Coil+ | OO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Alloy Greaves+  
 
 Total:  Expert +15, Sharpener +10, SpeedSetup +10  
 
@@ -198,12 +219,12 @@ Okay, these require Crit Draw talismans. I warned you!
 <p float="left">
 Active Skills:  Sharpness +1, Focus, Critical Draw, Earplugs
 
-Weapon:  Anguish (P) | O (Handicraft 1)  
-Baggi Helm+ | OOO (FastCharge 4)  
-Selene/Helios Mail+  
-Diablos Vambraces+ | OOO (FastCharge 4)  
-Vangis Coil  
-Selene Greaves+  
+<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O (Handicraft 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Baggi Helm+ | OOO (FastCharge 4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces+ | OOO (FastCharge 4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Vangis Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene Greaves+  
 Talisman:  Crit Draw +7 O or better
 
 Total:  Handicraft +15, Crit Draw +10, FastCharge +10, Hearing +10
@@ -215,14 +236,17 @@ If you have Crit Draw +6 OO, you can do the following for higher defense...
 ---
 
 ### Endgame GS Standard Redux
+<p float="left">
+<img src="images/endgame-gs-standard-redux.png" width="48%">
+<p float="left">
 Active Skills:  Sharpness +1, Earplugs, Critical Draw, Focus
 
-Anguish (P) | O (Crit Draw 1)  
-Selene/Helios Helm+ | OOO (FastCharge 4)  
-Selene/Helios Mail+  
-Hinata/Yamato Kote+ | OOO (FastCharge 4)  
-Selene/Helios Coil  
-Vangis Greaves | OOO (Handicraft 4)  
+<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O (Crit Draw 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Selene/Helios Helm+ | OOO (FastCharge 4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Hinata/Yamato Kote+ | OOO (FastCharge 4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Handicraft 4)  
 Talisman:  Crit Draw +6 OO (Crit Draw 3)  
 
 Total:  Handicraft +15, Crit Draw +10, FastCharge +10, Hearing +10
@@ -231,19 +255,19 @@ Style! Note that this costs a Stout Horn for your decoration.
 
 ---
 
-### Endgame GS Standard no earplugs
+### Endgame GS Standard No Earplugs
 <p float="left">
 <img src="images/endgame-gs-no-earplugs.png" width="48%">
 <img src="images/endgame-gs-no-earplugs-skills.png" width="48%">
 <p float="left">
 Active Skills:  Sharpness+1, Critical Draw, Focus, C+10
 
-Anguish (P) | O (Handicraft 1)  
-Baggi Helm+ | OOO (FastCharge 4)  
-Selene/Helios Mail+  
-Diablos Vambraces+ | OOO (FastCharge 4)  
-Selene/Helios Coil+ | OOO (Handicraft 4)  
-Vangis Greaves | OOO (Crit Draw 3, Handicraft 1)  
+<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O (Handicraft 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Baggi Helm+ | OOO (FastCharge 4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces+ | OOO (FastCharge 4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO (Handicraft 4)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Crit Draw 3, Handicraft 1)  
 Talisman: Crit Draw +5/+6, C+10
 
 Total: Handicraft +15, Crit Draw +10, FastCharge +10, C+10
@@ -255,14 +279,18 @@ If your talisman is Crit Draw 6, then you don't have to blow a stout horn for th
 ---
 
 ### Punishing Meme
+<p float="left">
+<img src="images/punishing-meme.png" width="48%">
+<img src="images/punishing-meme-skills.png" width="48%">
+<p float="left">
 Active Skills:  Sharpness +1, Critical Draw, Punishing Draw, Earplugs
 
-Anguish (P) | O (Hearing 1)  
-Damascus Helm | OOO (PunishDraw 4)  
-Selene Mail+  
-Diablos Vambraces+ | OOO (PunishDraw 4)  
-Vangis Coil  
-Selene Greaves  
+<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O (Hearing 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Damascus Helm | OOO (PunishDraw 4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene Mail+  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Diablos Vambraces+ | OOO (PunishDraw 4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Vangis Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene Greaves  
 Talisman: Crit Draw +7 O or better
 
 Total:  Handicraft +15, Crit Draw +10, PunishDraw +10, Hearing +10
@@ -279,15 +307,15 @@ If you're into that sort of thing.
 <img src="images/dev-ura-smasher-skills.png" width="48%">
 <p float="left">
 
-Active Skills:  Pierce Boost, Pierce S Lvl 1 Up, Critical Eye +X  
+Active Skills:  Pierce Boost, Pierce S Lvl 1 Up, Critical Eye +X, Element Atk Down  
 Available Slots:  O x1, OO x2, OOO x2; (Talisman)
 
-Thundacrus Rex - Barrozooka O - Thundacrus OO  
-Diablos Cap+  
-Diablos Vest+  
-Diablos Guards+ | OOO  
-Alloy Coat+ | OO  
-Gobul Leggings+ | OOO
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px">  Barrozooka O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Thundacrus OO  
+<img src="images/MH3icon-1-Head.png" width="16px"> Diablos Cap+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Diablos Vest+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Guards+ | OOO  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Coat+ | OO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Gobul Leggings+ | OOO
 
 Total: PierceS Up +10, Pierce S+ +10, Expert +4  
 
@@ -300,14 +328,18 @@ I've named this gun the Uragaan smasher because it obliterates the poor guy. In 
 ---
 
 ### Straight Shooters
-Active Skills:  Pierce S Boost, Pierce S All Up, Critical Eye 2  
+<p float="left">
+<img src="images/straight-shooters.png" width="48%">
+<img src="images/straight-shooters-skills.png" width="48%">
+<p float="left">
+Active Skills:  Pierce S Boost, Pierce S All Up, Critical Eye 2, Element Atk Down  
 
-Thundacrus Rex - Devil's Grin O (Expert 1) - Thundacrus Rex OO (PierceS+ 3)  
-Diablos Cap+  
-Diablos Vest+  
-Diablos Guards+ | OOO (Expert 5)  
-Alloy Coat+ | OO (Pierce S+ 3)  
-Gobul Leggings+ | OOO (Expert 5)  
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Devil's Grin O (Expert 1) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Thundacrus Rex OO (PierceS+ 3)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Diablos Cap+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Diablos Vest+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Guards+ | OOO (Expert 5)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Coat+ | OO (Pierce S+ 3)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Gobul Leggings+ | OOO (Expert 5)  
 
 Total: PierceS Up +10, Pierce S+ +16, Expert +15
 
@@ -320,8 +352,11 @@ This gun wants to fire straight through the longest part of the body. Fire strai
 ---
 
 ### World Eater Gun
+<p float="left">
+<img src="images/world-eater-gun.png" width="48%">
+<p float="left">
 The same as above, but change the gun parts to  
-Chaos Wing - Devil's Grin O - Blizzard Cannon
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Chaos Wing | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Devil's Grin O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Blizzard Cannon
 
 Note that this gun has a folding frame so it is very immobile. It is used in World Eater speedruns, but can also be used freestyle in that fight. Its range is 0.96 so you can fire a little more comfortably vs the big guy, but whether or not it's better than just firing regular old 0.8 range bullets with a medium bowgun probably depends on the player.
 
@@ -332,15 +367,21 @@ For all of the above pierce gunning sets, the waist and leggings are up to you! 
 ## Normal and Elemental Gunning
 
 ### Normal Meme
+<p float="left">
+<img src="images/normal-meme+.png" width="32%">
+<img src="images/normal-meme-skills+.png" width="32%">
+<img src="images/normal-meme+back.png" width="32%">
+<p float="left">
 Active Skills:  Normal S Boost, Normal S All Up  
+  
 Available Slots:  O x3, OOO x2; (Legs); (Talisman)
 
-Chaos Wing - Jhen Cannon O - Aquamatic "Needler" - O  or Vulcannon  
-Agnaktor Cap+  
-Agnaktor Vest+ | O  
-Agnaktor Guards+ | OOO  
-Agnaktor Coat+ | OOO  
-None  
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Chaos Wing | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Jhen Cannon O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Aquamatic "Needler" O; or Vulcannon  
+<img src="images/MH3icon-1-Head.png" width="16px"> Agnaktor Cap+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Agnaktor Vest+ | O  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Agnaktor Guards+ | OOO  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Agnaktor Coat+ | OOO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> None  
 
 Total: Normal S Up +10, Normal S+ +10
 
@@ -351,15 +392,20 @@ Sorry, Normal shot is sort of a meme. It's kind of good vs Qurupeco.
 ---
 
 ### Elemental Rapid Fire Bonus Shot
-Active Skills:  Element Atk Up, Bonus Shot
+<p float="left">
+<img src="images/elemental-rapid-fire-bonus-shot.png" width="48%">
+<img src="images/elemental-rapid-fire-bonush-shot-skills+.png" width="48%">
+<p float="left">
+Active Skills:  Element Atk Up, Bonus Shot  
+  
 Available Slots:  O x2, OO x2; (Head); (Talisman)
 
-Rathling Gun+ - Rathling Gun+ O - Rathling Gun+ OO  
-None  
-Lagiacrus Vest+ | OOO (Element 4)  
-Escadora Arma | O (Rapid Fire 1)  
-Lagiacrus Coat+ | OO  
-Lagiacrus Leggings+ | O  
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Rathling Gun+ | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Rathling Gun+ O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Rathling Gun+ OO  
+<img src="images/MH3icon-1-Head.png" width="16px"> None  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+ | OOO (Element 4)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Escadora Arma | O (Rapid Fire 1)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Lagiacrus Coat+ | OO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Lagiacrus Leggings+ | O  
 
 Total: Rapid Fire +10, Elemental +10
 
@@ -368,15 +414,21 @@ For the head piece, you could wear Barrage Earring (meh), or any earring of your
 ---
 
 ### Ghost Rider Rapid Fire Bonus Shot
+<p float="left">
+<img src="images/ghost-rider-rapid-fire-bonus-shot.png" width="32%">
+<img src="images/ghost-rider-rapid-fire-bonus-shot-skills.png" width="32%">
+<img src="images/ghost-rider-rapid-fire-bonus-shot-back.png" width="32%">
+<p float="left">
 Active Skills:  Element Atk Up, Bonus Shot, Evasion Up  
+  
 Available Slots:  O x1, OO x1; (Talisman)
 
-Chaos Wing - Rathling Gun+ O - Rathling Gun+ OO  
-Skull Mask  
-Lagiacrus Vest+ | OOO (Element 4)  
-Escadora Arma | O (Evade Dist 1)  
-Escadora Force | OO (Evade Dist 1, Evade Dist 1)  
-Escadora Scala | O (Evade Dist 1)  
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Chaos Wing | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Rathling Gun+ O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Rathling Gun+ OO  
+<img src="images/MH3icon-1-Head.png" width="16px"> Skull Mask  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+ | OOO (Element 4)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Escadora Arma | O (Evade Dist 1)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Escadora Force | OO (Evade Dist 1, Evade Dist 1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Escadora Scala | O (Evade Dist 1)  
 
 Total: Elemental +10, Evade Dist +15, Rapid Fire +10
 
@@ -387,14 +439,19 @@ The listed guns are for rapid firing fire shots. I find the other elemental shot
 ---
 
 ### Deep Fried Alatreon
+<p float="left">
+<img src="images/deep-fried-alatreon-front.png" width="32%">
+<img src="images/deep-fried-alatreon-skills+.png" width="32%">
+<img src="images/deep-fried-alatreon-3-4th.png" width="32%">
+<p float="left">
 Active Skills:  Load Up, Recoil Down 3, Clust S All Up
 
-Rathling Gun+ - Rathling Gun+ O (Clust S+ 1) - Agnablaster OO (Recoil 1, Recoil 1)  
-Barrage Earring  
-Amagi/Mutsu Muneate+ | O (Recoil 1)  
-Uragaan Guards+ | OOO (Recoil 4)  
-Uragaan Coat+ | O (Recoil 1)  
-Amagi/Mutsu Hakama+  
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Rathling Gun+ | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px">  Rathling Gun+ O (Clust S+ 1) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Agnablaster OO (Recoil 1, Recoil 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Barrage Earring  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Amagi/Mutsu Muneate+ | O (Recoil 1)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Uragaan Guards+ | OOO (Recoil 4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+ | O (Recoil 1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Amagi/Mutsu Hakama+  
 Talisman: Clust S +6 or better  
 
 Total: Loading +15, Clust S+ +15, Recoil +20
@@ -408,11 +465,12 @@ Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
 ---
 
 ### Status Gunning
-Use Thundacrus Rex - Light Bowgun/Jhen Cannon (O) - Chaos Wing. Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up.  You don't need Status Atk Up.
+Use <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Light Bowgun/Jhen Cannon (O) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Chaos Wing. Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up.  You don't need Status Atk Up.
 
 Full Uragaan+ meets these requirements.
 
 Active Skills:  Defense Up (S), Recoil Down +2, Bombardier, Slow Eater
+
 Available Slots:  O x3(/4), OOO x2; (Talisman)
 
 ---
@@ -425,14 +483,19 @@ In my opinion, if you run paralyze, then trapmaster is mandatory.
 If you run sleep, bombardier is mandatory.
 
 ### Blast Earring, anyone?
+<p float="left">
+<img src="images/blast-earring-anyone+.png" width="48%">
+<img src="images/blast-earring-anyone-skills+.png" width="48%">
+<p float="left">
 Active Skills:  Status Atk Up, Trapmaster, Razor Sharp  
+  
 Available Slots:  (Head); (Weapon); (Talisman)
 
-None  
-Alloy Mail+ | OO (SpeedSetup 2, Sharpness 1)  
-Alloy Vambraces+ | OO (SpeedSetup 2, SpeedSetup 2)  
-Bnahabra Coil+ | O (Status 1)  
-Bnahabra Greaves+ | O (Status 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> None  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Alloy Mail+ | OO (SpeedSetup 2, Sharpness 1)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Alloy Vambraces+ | OO (SpeedSetup 2, SpeedSetup 2)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Bnahabra Faulds+ | O (Status 1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Bnahabra Greaves+ | O (Status 1)  
 
 Total: Sharpness +10, Status +10, SpeedSetup +10
 
@@ -441,14 +504,19 @@ Plenty of room to add other skills of your choice.
 ---
 
 ### Blast Earring, anyone? Lance Remix
+<p float="left">
+<img src="images/blast-earring-anyone-lance-remix.png" width="48%">
+<img src="images/blast-earring-anyone-lance-remix-skills+.png" width="48%">
+<p float="left">
 Active Skills:  Status Atk Up, Razor Sharp, Guard +1  
+  
 Available Slots:  O x3; (Head); (Weapon); (Talisman)
 
-None  
-Agnaktor Mail+ | O  
-Steel Vambraces+ | O  
-Bnahabra Coil+ | O  
-Bnahabra Boots  
+<img src="images/MH3icon-1-Head.png" width="16px"> None  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Agnaktor Mail+ | O  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Steel Vambraces+ | O  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Bnahabra Faulds+ | O  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Bnahabra Boots  
 
 Total: Sharpness +9, Status +10, Guard +10
 
@@ -461,15 +529,16 @@ For people who like guard lancing. Note the Bnah boots are low rank!
 <img src="images/who-needs-blast-earring.png" width="48%">
 <img src="images/who-needs-blast-earring-skills.png" width="48%">
 <p float="left">
-Active Skills:  Status Atk Up, Razor Sharp, Bombardier  
+Active Skills:  Status Atk Up, Razor Sharp, Bombardier 
+  
 Available Slots:  OO x1, OOO x1; (Talisman)
 
-Morpheus Knife | OO  
-Uragaan Helm+ | O (Bombardier 2)  
-Uragaan Mail+ | O (Sharpness 1)  
-Uragaan Vambraces+ | OOO  
-Bnahabra Coil+ | O (Status 1)  
-Bnahabra Greaves+ | O (Status 1)  
+<img src="images/MH3icon-Sword_and_Shield.png" width="16px"> Morpheus Knife | OO  
+<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Helm+ | O (Bombardier 2)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Uragaan Mail+ | O (Sharpness 1)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Uragaan Vambraces+ | OOO  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Bnahabra Faulds+ | O (Status 1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Bnahabra Greaves+ | O (Status 1)  
 
 Total:  Bombardier +8, Status +10, Sharpness +10
 
@@ -485,13 +554,14 @@ If you have Bomb Boost +5 SpeedSetup +10 tali, you can even leave off the Uragaa
 <img src="images/low-rank-lagi-gunner-skills.png" width="48%">
 <p float="left">
 Active Skills:  Normal S Boost, Element Atk Up, Olympic Swimmer, Status Atk Down  
+  
 Available Slots:  O x1, OO x4; (Weapon); (Talisman)
 
-Lagiacrus Cap | OO  
-Lagiacrus Vest | O  
-Lagiacrus Guards | OO  
-Lagiacrus Coat | OO  
-Lagiacrus Leggings | OO  
+<img src="images/MH3icon-1-Head.png" width="16px"> Lagiacrus Cap | OO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest | O  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Lagiacrus Guards | OO  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Lagiacrus Coat | OO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Lagiacrus Leggings | OO  
 
 Low Rank elemental gunning goodness. Lagiacrus is so flexible.
 
