@@ -23,11 +23,11 @@ My goal for all of these sets is to *not* dictate what talismans you must use, w
 Active Skills:  Sharpness +1, Earplugs  
 Available Slots:  OOO x2; (Talisman); (Weapon)  
   
-Selene/Helios Helm+ | OOO  
-Selene/Helios Mail+  
-Vangis Vambraces  
-Selene/Helios Coil+ | OOO  
-Selene/Helios Greaves+  
+<img src="images/MH3icon-1-Head.png" width="18px"> Selene/Helios Helm+ | OOO  
+<img src="images/MH3icon-2-Chest.png" width="18px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="18px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="18px"> Selene/Helios Coil+ | OOO  
+<img src="images/MH3icon-5-Legs.png" width="18px"> Selene/Helios Greaves+  
 
 Total:  Handicraft +15, Hearing +10, Attack +5  
 
