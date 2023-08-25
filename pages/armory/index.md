@@ -9,7 +9,7 @@ By the way, Helios and Selene are the male and female armor made of Ceadeus part
 ## Contents
 
 - [General Melee Sets](#general-melee-sets)
-- [Greatsword Sets](#greatsword-sets)
+- [Great Sword Sets](#great-sword-sets)
 - [Pierce Gunning](#pierce-gunning)
 - [Normal and Elemental Gunning](#normal-and-elemental-gunning)
 - [Status Melee Sets](#status-melee-sets)
@@ -22,17 +22,18 @@ By the way, Helios and Selene are the male and female armor made of Ceadeus part
 <img src="images/endgame-standard-earplugs.png" width="48%">
 <img src="images/endgame-standard-earplugs-skills.png" width="48%">
 <p float="left">
-Sharpness+1, Earplugs
-
-Selene+ Helm - OOO  
-Selene+ Mail  
+Active Skills:  Sharpness +1, Earplugs  
+Available Slots:  OOO x2; (Talisman); (Weapon)  
+  
+Selene/Helios Helm+ | OOO  
+Selene/Helios Mail+  
 Vangis Vambraces  
-Selene+ Coil - OOO  
-Selene+ Greaves  
+Selene/Helios Coil+ | OOO  
+Selene/Helios Greaves+  
 
-Total: Handicraft15, Hearing10, Attack5
+Total:  Handicraft +15, Hearing +10, Attack +5  
 
-It seems natural to get to at least AuS, but the customization is entirely up to you. A common favorite loadout of mine is Sharpness+1, Earplugs, AuS, Trapmaster, Sharpener. That would require a SpeedSetup10 OO or comparable talisman.
+It seems natural to get to at least AuS, but the customization is entirely up to you. A common favorite loadout of mine is Sharpness +1, Earplugs, AuS, Trapmaster, Sharpener. That would require a SpeedSetup +10 OO or comparable talisman.
 
 ---
 
@@ -41,17 +42,18 @@ It seems natural to get to at least AuS, but the customization is entirely up to
 <img src="images/endgame-standard-earplugs-2.png" width="48%">
 <img src="images/endgame-standard-earplugs-2-skills.png" width="48%">
 <p float="left">
-Sharpness+1, Earplugs
+Active Skills:  Sharpness +1, Earplugs  
+Available Slots:  OOO x2; (Talisman); (Weapon)
 
-Selene+ Helm - OOO  
-Selene+ Mail  
+Selene/Helios Helm+ | OOO  
+Selene/Helios Mail+  
 Vangis Vambraces  
-Selene Coil  
-Vangis Greaves - OOO  
+Selene/Helios Coil  
+Vangis Greaves | OOO  
 
-Total: Handicraft14, Hearing10, Attack6
+Total:  Handicraft +14, Hearing +10, Attack +6  
 
-Another way to achieve the same loadout as above. The Attack6 goes really well with a Queen talisman that has C+10 Atk+3 O.
+Another way to achieve the same loadout as above. The Attack +6 goes really well with a Queen talisman that has C+10 Atk+3 O.
 
 ---
 
@@ -60,15 +62,16 @@ Another way to achieve the same loadout as above. The Attack6 goes really well w
 <img src="images/endgame-hge.png" width="48%">
 <img src="images/endgame-hge-skills.png" width="48%">
 <p float="left">
-Sharpness+1, High Grade Earplugs
+Active Skills:  (Sharpness +1), High Grade Earplugs  
+Available Slots:  OOO x2; (Talisman); (Weapon)
 
-Selene+ Helm - OOO  
-Selene+ Mail  
-Selene+ Vambraces  
-Selene Coil  
-Vangis Greaves - OOO  
+Selene/Helios Helm+ | OOO  
+Selene/Helios Mail+  
+Vangis Vambraces  
+Selene/Helios Coil 
+Vangis Greaves | OOO  
 
-Total: Handicraft14, Hearing15, Attack1
+Total:  Handicraft +14, Hearing +15, Attack +1  
 
 This is *the* high grade earplugs loadout. Put the handicraft deco in the weapon slot if you can.
 
@@ -77,15 +80,16 @@ If you want a headless one though...
 ---
 
 ### Endgame Scuffed High Grade Earplugs
-Sharpness+1, High Grade Earplugs
+Active Skills:  Sharpness +1, High Grade Earplugs  
+Available Slots:  (Helm); (Talisman); (Weapon)  
 
 None  
-Selene+ Helm  
-Selene+ Mail  
-Selene Coil  
-Selene+ Greaves  
+Selene/Helios Mail+  
+Selene/Helios Vambraces+  
+Selene/Helios Coil  
+Selene/Helios Greaves(+) 
 
-Total: Handicraft15, Hearing17
+Total:  Handicraft +15/+16, Hearing +17/+16  
 
 You can swap the HR greaves for the LR greaves if you want.  
 
@@ -94,30 +98,32 @@ Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and
 ---
 
 ### Endgame Standard No Earplugs
-Sharpness+1, Attack Up M, Autotracker
+Active Skills:  Sharpness +1, Attack Up (M), Autotracker, Raise Hunger  
+Available Slots:  OOO x1; (Talisman); (Weapon)
 
 Vangis Helm  
 Vangis Mail  
 Vangis Vambraces  
 Vangis Coil  
-Vangis Greaves - OOO  
+Vangis Greaves | OOO  
 
-Total: Handicraft15, Psychic15, Attack15
+Total:  Handicraft +15, Psychic +15, Attack +15  
 
 Yes, this is just full Deviljho. Not many slots to work with. However, if you're willing to lose some Attack, you can get...
 
 ---
 
 ### Endgame Standard No Earplugs Flexible
-Sharpness+1, Attack Up S, Detect
+Active Skills:  (Sharpness +1), Attack Up S, Detect  
+Available Slots:  OOO x2; (Talisman); (Weapon)
 
 Vangis Helm  
 Vangis Mail  
 Vangis Vambraces  
-Selene+ Coil - OOO  
-Vangis Greaves - OOO  
+Selene/Helios Coil+ | OOO  
+Vangis Greaves | OOO  
 
-Total: Handicraft14, Psychic12, Attack12
+Total:  Handicraft +14, Psychic +12, Attack +12  
 
 In my opinion, losing one level of attack is worth being able to gem in other stuff, like both sharpener and trapmaster just as an example. Also useful is guard, evasion, dung bomb expert, or whatever.  
 If you're looking for an evade lancer set, this is it!
@@ -129,17 +135,18 @@ If you're looking for an evade lancer set, this is it!
 <img src="images/elemental-enjoyer.png" width="48%">
 <img src="images/elemental-enjoyer-skills.png" width="48%">
 <p float="left">
-Sharpness+1, Element Atk Up, Attack Up X
+Active Skills:  Sharpness +1, (Element Atk Up), (Attack Up (X))  
+Available Slots: (Talisman); (Weapon)
 
 Vangis Helm  
-Lagiacrus+ Mail - OOO (element4)  
+Lagiacrus Mail+ | OOO (Element 4)  
 Vangis Vambraces  
-Helios+ Coil - OOO (handicraft4)  
-Vangis Greaves - OOO (element4)  
+Selene/Helios Coil+ | OOO (Handicraft 4)  
+Vangis Greaves | OOO (Element 4)  
 
-Total: Handicraft15, Element9, Attack9
+Total:  Handicraft +15, Element +9, Attack +9  
 
-I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and attack god talisman (Attack7 OO), you can get AuL. Don't forget to finish off the Element9 and Attack9 by adding the corresponding decos either in your weapon or your talisman.
+I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and attack god talisman (Attack +7 OO), you can get AuL. Don't forget to finish off the Element +9 and Attack +9 by adding the corresponding decos either in your weapon or your talisman.
 
 ---
 
@@ -148,80 +155,81 @@ I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and
 <img src="images/steel-guard-lancing.png" width="48%">
 <img src="images/steel-guard-lancing-skills.png" width="48%">
 <p float="left">
+Active Skills:  Sharpness +1, Guard +1, Speed Sharpen
 
-Sharpness+1, Guard+1, Speed Sharpen
-
-1 slot weapon - O (handicraft1)  
+1-Slot Weapon | O (Handicraft 1)  
 Vangis Helm  
 Vangis Mail  
-Steel+ Vambraces - O (sharpener2)  
-Steel+ Coil - O (guard1)  
-Vangis Greaves - OOO (handicraft4)  
+Steel Vambraces+ | O (Sharpener 2)  
+Steel Coil+ | O (Guard 1)  
+Vangis Greaves | OOO (Handicraft 4)  
+Talisman: Any O or better (Handicraft 1)
 
-Handicraft 14, Guard10, Sharpener10, Attack7
+Total:  Handicraft +15, Guard +10, Sharpener +10, Attack +7
 
-This is what I have for guard lancing that doesn't require a guard skill in the talisman. You need one more handicraft point in the tali. Funny enough, C+10 Atk+3 O fits extremely well into this set once more to tack on another C skill as well as AuS, but that is not at all mandatory. 
+This is what I have for Guard Lancing that doesn't require a Guard skill in the talisman. You need one more Handicraft point in the tali. Funny enough, C+10 Atk+3 O fits extremely well into this set once more to tack on another C skill as well as AuS, but that is not at all mandatory. 
 
 ---
 
-### Alloy is Bae
-Critical Eye 2, Trapmaster, Sharpener
+### Alloy+ is Bae
+Active Skills:  Critical Eye +2, Trapmaster, Sharpener  
+Available Slots:  OO x4; (Talisman); (Weapon)
 
-Alloy+ Helm - OO  
-Alloy+ Mail - OO  
-Alloy+ Vambraces - OO  
-Alloy+ Coil - OO  
-Alloy+ Greaves  
+Alloy Helm+ | OO  
+Alloy Mail+ | OO  
+Alloy Vambraces+ | OO  
+Alloy Coil+ | OO  
+Alloy Greaves+  
 
-Total: Expert15, Sharpener10, SpeedSetup10
+Total:  Expert +15, Sharpener +10, SpeedSetup +10  
 
-Useful for weapons that don't benefit much from Sharpness+1, such as Flame Tempest and Reaver "Calamity".  
-Since Alloy+ already has the best C skills in the game, I just shove attack3 gems into everything, but obviously it's up to you.  
+Useful for weapons that don't benefit much from Sharpness +1, such as Flame Tempest and Reaver "Calamity".  
+Since Alloy+ already has the best C skills in the game, I just shove Attack 3 gems into everything, but obviously it's up to you.  
 Notably, this is available as soon as you unlock HR31! It's a very good progression set.
 
 ---
 
-## Greatsword Sets
+## Great Sword Sets
 
-Okay, these require critical draw talismans. I warned you!
+Okay, these require Crit Draw talismans. I warned you!
 
 ### Endgame GS Standard
 <p float="left">
 <img src="images/endgame-gs-standard.png" width="48%">
 <img src="images/endgame-gs-standard-skills.png" width="48%">
 <p float="left">
-Sharpness+1, Earplugs, Critical Draw, Focus
+Active Skills:  Sharpness +1, Focus, Critical Draw, Earplugs
 
-Anguish P - O (handicraft1)  
-Baggi+ Helm - OOO (fastcharge4)  
-Selene+ Mail  
-Diablos+ Vambraces - OOO (fastcharge4)  
+Weapon:  Anguish (P) | O (Handicraft 1)  
+Baggi Helm+ | OOO (FastCharge 4)  
+Selene/Helios Mail+  
+Diablos Vambraces+ | OOO (FastCharge 4)  
 Vangis Coil  
-Selene+ Greaves  
-Talisman - Crit Draw7 O or better
+Selene Greaves+  
+Talisman:  Crit Draw +7 O or better
 
-Total: Handicraft15, Critical Draw10, Focus10, Hearing10
+Total:  Handicraft +15, Crit Draw +10, FastCharge +10, Hearing +10
 
-If your critical draw talisman is only 7, you could use the very expensive and inferior Alatreon Revolution. If you don't have THAT, then you can use low rank Selene Greaves and not run earplugs.
+If your Critical Draw talisman is only 7, you could use the very expensive and inferior Alatreon Revolution. If you don't have THAT, then you can use low rank Selene Greaves and not run earplugs.
 
-If you have Crit Draw6 OO, you can do the following for higher defense...
+If you have Crit Draw +6 OO, you can do the following for higher defense...
 
 ---
 
 ### Endgame GS Standard Redux
-Sharpness+1, Earplugs, Critical Draw, Focus
+Active Skills:  Sharpness +1, Earplugs, Critical Draw, Focus
 
-Anguish P - O (crit draw1)  
-Selene+ Helm - OOO (fastcharge4)  
-Selene+ Mail  
-Hinata+ Kote - OOO (fastcharge4)  
-Selene Coil  
-Vangis Greaves - OOO (handicraft4)  
-Talisman - Crit Draw6 OO (crit draw3)  
+Anguish (P) | O (Crit Draw 1)  
+Selene/Helios Helm+ | OOO (FastCharge 4)  
+Selene/Helios Mail+  
+Hinata/Yamato Kote+ | OOO (FastCharge 4)  
+Selene/Helios Coil  
+Vangis Greaves | OOO (Handicraft 4)  
+Talisman:  Crit Draw +6 OO (Crit Draw 3)  
 
-Total: Handicraft15, Critical Draw10, Focus10, Hearing10
+Total:  Handicraft +15, Crit Draw +10, FastCharge +10, Hearing +10
 
-Style! Note that this costs a stout horn for your decoration.
+Style! Note that this costs a Stout Horn for your decoration.
 
 ---
 
@@ -230,17 +238,17 @@ Style! Note that this costs a stout horn for your decoration.
 <img src="images/endgame-gs-no-earplugs.png" width="48%">
 <img src="images/endgame-gs-no-earplugs-skills.png" width="48%">
 <p float="left">
-Sharpness+1, Critical Draw, Focus, C+10
+Active Skills:  Sharpness+1, Critical Draw, Focus, C+10
 
-Anguish P - O (handicraft1)  
-Baggi+ Helm - OOO (fastcharge4)  
-Selene+ Mail  
-Diablos+ Vambraces - OOO (fastcharge4)  
-Selene+ Coil - OOO (handicraft4)  
-Vangis Greaves - OOO (crit draw3, handicraft1)  
-Talisman: Crit Draw5/6, C+10
+Anguish (P) | O (Handicraft 1)  
+Baggi Helm+ | OOO (FastCharge 4)  
+Selene/Helios Mail+  
+Diablos Vambraces+ | OOO (FastCharge 4)  
+Selene/Helios Coil+ | OOO (Handicraft 4)  
+Vangis Greaves | OOO (Crit Draw 3, Handicraft 1)  
+Talisman: Crit Draw +5/+6, C+10
 
-Total: Handicraft15, Critical Draw10, Focus10, C10
+Total: Handicraft +15, Crit Draw +10, FastCharge +10, C+10
 
 For when earplugs don't help. I've seen Item Use Up and Capture Guru as the most useful C skills in this set.
 
@@ -249,17 +257,17 @@ If your talisman is Crit Draw 6, then you don't have to blow a stout horn for th
 ---
 
 ### Punishing Meme
-Sharpness+1, Critical Draw, Punishing Draw, Earplugs
+Active Skills:  Sharpness +1, Critical Draw, Punishing Draw, Earplugs
 
-Anguish P - O (hearing1)  
-Damascus Helm - OOO (punishdraw4)  
-Selene+ Mail  
-Diablos+ Vambraces - OOO (punishdraw4)  
+Anguish (P) | O (Hearing 1)  
+Damascus Helm | OOO (PunishDraw 4)  
+Selene Mail+  
+Diablos Vambraces+ | OOO (PunishDraw 4)  
 Vangis Coil  
 Selene Greaves  
-Talisman: Crit Draw7 O or better
+Talisman: Crit Draw +7 O or better
 
-Total: Handicraft15, Critical Draw10, Punishing Draw10, Hearing10
+Total:  Handicraft +15, Crit Draw +10, PunishDraw +10, Hearing +10
 
 If you're into that sort of thing.
 
@@ -273,38 +281,39 @@ If you're into that sort of thing.
 <img src="images/dev-ura-smasher-skills.png" width="48%">
 <p float="left">
 
-Pierce Boost, Pierce S Lvl 1 Up, Critical Eye X
+Active Skills:  Pierce Boost, Pierce S Lvl 1 Up, Critical Eye +X  
+Available Slots:  O x1, OO x2, OOO x2; (Talisman)
 
 Thundacrus Rex - Barrozooka O - Thundacrus OO  
-Diablos+ Cap  
-Diablos+ Vest  
-Diablos+ Guards - OOO  
-Alloy+ Coat - OO  
-Gobul+ Leggings - OOO
+Diablos Cap+  
+Diablos Vest+  
+Diablos Guards+ | OOO  
+Alloy Coat+ | OO  
+Gobul Leggings+ | OOO
 
-Total: PierceS Up10, Pierce S+10, Expert4
+Total: PierceS Up +10, Pierce S+ +10, Expert +4  
 
-This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation. The build above is prepared to gem in Critical Eye, the superior damage option for pierce shots. Otherwise, you can slot it however you like and use whatever talisman you want. If you want evasion, use Barioth+ Coat, Barioth Leggings, and an evasion talisman. Or if you're playing with Adrenaline, go with the Barroth+ like I did in the screenshot until we can get Black Leather Pants.
+This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation. The build above is prepared to gem in Critical Eye, the superior damage option for pierce shots. Otherwise, you can slot it however you like and use whatever talisman you want. If you want evasion, use Barioth Coat+ (OOO), Barioth Leggings, and an evasion talisman. Or if you're playing with Adrenaline, go with the Barroth+ like I did in the screenshot until we can get Black Leather Pants.
 
 If you don't have/can't get a Stout Horn for the chest piece, the low rank Diablos Vest is only one point worse than the high rank one.
 
-I've named this gun the Uragaan smasher because it obliterates the poor guy. In the Advanced quest Heroes Wanted, 60 Adrenaline Pierce 1 shots and probably some bombs will put one of them low enough to capture!
+I've named this gun the Uragaan smasher because it obliterates the poor guy. In the Advanced quest Heroes Wanted, 60 Adrenaline Pierce S Lv1 shots and probably some bombs will put one of them low enough to capture!
 
 ---
 
 ### Straight Shooters
-Pierce Boost, Pierce S All Up, Critical Eye 2
+Active Skills:  Pierce S Boost, Pierce S All Up, Critical Eye 2  
 
-Thundacrus Rex - Devil's Grin O (expert1) - Thundacrus Rex OO (PierceS+3)  
-Diablos+ Cap  
-Diablos+ Vest  
-Diablos+ Guards - OOO (expert5)  
-Alloy+ Coat - OO (PierceS+3)  
-Gobul+ Leggings - OOO (expert5)  
+Thundacrus Rex - Devil's Grin O (Expert 1) - Thundacrus Rex OO (PierceS+ 3)  
+Diablos Cap+  
+Diablos Vest+  
+Diablos Guards+ | OOO (Expert 5)  
+Alloy Coat+ | OO (Pierce S+ 3)  
+Gobul Leggings+ | OOO (Expert 5)  
 
-Total: PierceS Up10, Pierce S+16, Expert15
+Total: PierceS Up +10, Pierce S+ +16, Expert +15
 
-This gun loads 8 pierce2 rounds and fires at 0.8 range with no deviation. Use whatever talisman you want. Like above, if you want evasion, swap the bottom pieces and use an appropriate talisman.
+This gun loads 8 Pierce S Lv2 rounds and fires at 0.8 range with no deviation. Use whatever talisman you want. Like above, if you want evasion, swap the bottom pieces and/or use an appropriate talisman.
 
 Also like above, substitue low rank chest if you need to.
 
@@ -325,16 +334,17 @@ For all of the above pierce gunning sets, the waist and leggings are up to you! 
 ## Normal and Elemental Gunning
 
 ### Normal Meme
-Normal S Boost, Normal S All Up
+Active Skills:  Normal S Boost, Normal S All Up  
+Available Slots:  O x3, OOO x2; (Legs); (Talisman)
 
 Chaos Wing - Jhen Cannon O - Aquamatic "Needler" - O  or Vulcannon  
-Agnaktor+ Cap  
-Agnaktor+ Vest - O  
-Agnaktor+ Guards - OOO  
-Agnaktor+ Coat - OOO  
+Agnaktor Cap+  
+Agnaktor Vest+ | O  
+Agnaktor Guards+ | OOO  
+Agnaktor Coat+ | OOO  
 None  
 
-Total: NormalS Up10, Normal S+10
+Total: Normal S Up +10, Normal S+ +10
 
 Look, no pants!
 
@@ -343,33 +353,34 @@ Sorry, Normal shot is sort of a meme. It's kind of good vs Qurupeco.
 ---
 
 ### Elemental Rapid Fire Bonus Shot
-Element Atk Up, Bonus Shot
+Active Skills:  Element Atk Up, Bonus Shot
+Available Slots:  O x2, OO x2; (Head); (Talisman)
 
-Rathling+ Gun - Rathling+ Gun O - Rathling+ Gun OO  
+Rathling Gun+ - Rathling Gun+ O - Rathling Gun+ OO  
 None  
-Lagiacrus+ Vest - OOO (element4)  
-Escadora Arma - O (rapid fire1)  
-Lagiacrus+ Coat - OO  
-Lagiacrus+ Leggings - O  
+Lagiacrus Vest+ | OOO (Element 4)  
+Escadora Arma | O (Rapid Fire 1)  
+Lagiacrus Coat+ | OO  
+Lagiacrus Leggings+ | O  
 
-Total: Rapid Fire10, Elemental10
+Total: Rapid Fire +10, Elemental +10
 
-For the head piece, you could wear Barrage Earring (meh), or any earring of your choice, or Barroth+ Helm/Cap and a potential talisman. Or whatever you want!
+For the head piece, you could wear Barrage Earring (meh), or any earring of your choice, or Barroth Helm+/Cap+ and a potential talisman. Or whatever you want!
 
 ---
 
-
 ### Ghost Rider Rapid Fire Bonus Shot
-Element Atk Up, Bonus Shot, Evasion Up
+Active Skills:  Element Atk Up, Bonus Shot, Evasion Up  
+Available Slots:  O x1, OO x1; (Talisman)
 
-Chaos Wing - Rathling+ Gun O - Rathling+ Gun OO  
+Chaos Wing - Rathling Gun+ O - Rathling Gun+ OO  
 Skull Mask  
-Lagiacrus+ Vest - OOO (element4)  
-Escadora Arma - O (evade dist1)  
-Escadora Force - OO (evade dist1, evade dist1)  
-Escadora Scala - O (evade dist1)  
+Lagiacrus Vest+ | OOO (Element 4)  
+Escadora Arma | O (Evade Dist 1)  
+Escadora Force | OO (Evade Dist 1, Evade Dist 1)  
+Escadora Scala | O (Evade Dist 1)  
 
-Total: Elemental10, Evade Dist15, Rapid Fire10
+Total: Elemental +10, Evade Dist +15, Rapid Fire +10
 
 We get more raw on the gun, and Evasion Up is there to make up for the lack of mobility with the HBG. It's actually pretty fun.
 
@@ -378,30 +389,33 @@ The listed guns are for rapid firing fire shots. I find the other elemental shot
 ---
 
 ### Deep Fried Alatreon
-Load Up, Recoil Down 3, Clust S All Up
+Active Skills:  Load Up, Recoil Down 3, Clust S All Up
 
-Rathling Gun+ - Rathling Gun+ O (clust S+1) - Agnablaster OO (recoil1, recoil1)  
+Rathling Gun+ - Rathling Gun+ O (Clust S+ 1) - Agnablaster OO (Recoil 1, Recoil 1)  
 Barrage Earring  
-Amagi+ Muneate - O (recoil1)  
-Uragaan+ Guards - OOO (recoil4)  
-Uragaan+ Coat - O (recoil1)  
-Amagi+ Hakama  
-Talisman: Clust6 or better  
+Amagi/Mutsu Muneate+ | O (Recoil 1)  
+Uragaan Guards+ | OOO (Recoil 4)  
+Uragaan Coat+ | O (Recoil 1)  
+Amagi/Mutsu Hakama+  
+Talisman: Clust S +6 or better  
 
-Total: Loading15, Clust S+15, Recoil20
+Total: Loading +15, Clust S+ +15, Recoil +20
 
-Alatreon abuse gun, loading 5 clust2 and firing with no recoil. If you have Clust god (Clust S+7 OO), you can gem in bombardier too.
+Alatreon abuse gun, loading 5 Clust S Lv2 and firing with no recoil. If you have Clust god (Clust S+ +7 OO), you can gem in bombardier too.
 
-Honestly, there's probably a cheaper way to make this without requiring a clust6 talisman. The key takeaway is, this is the gun you *must* use, and the armor skills you are aiming for are Clust S All Up and Recoil Down 3. If you do not have Barrage Earring, that is fine; just load 4 Clust2 shot instead of 5.
+Honestly, there's probably a cheaper way to make this without requiring a Clust S +6 talisman. The key takeaway is, this is the gun you *must* use, and the armor skills you are aiming for are Clust S All Up and Recoil Down 3. If you do not have Barrage Earring, that is fine; just load 4 Clust S Lv 2 shot instead of 5.
 
 Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
 
 ---
 
 ### Status Gunning
-Use Thundacrus Rex - Jhen Cannon/Light Bowgun - Chaos Wing. Get Recoil Down+2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up.  You don't need Status Atk Up.
+Use Thundacrus Rex - Light Bowgun/Jhen Cannon (O) - Chaos Wing. Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up.  You don't need Status Atk Up.
 
 Full Uragaan+ meets these requirements.
+
+Active Skills:  Defense Up (S), Recoil Down +2, Bombardier, Slow Eater
+Available Slots:  O x3(/4), OOO x2; (Talisman)
 
 ---
 
@@ -413,30 +427,32 @@ In my opinion, if you run paralyze, then trapmaster is mandatory.
 If you run sleep, bombardier is mandatory.
 
 ### Blast Earring, anyone?
-Status Atk Up, Trapmaster, Razor Sharp
+Active Skills:  Status Atk Up, Trapmaster, Razor Sharp  
+Available Slots:  (Head); (Weapon); (Talisman)
 
 None  
-Alloy+ Mail - OO (speedsetup2, sharpness1)  
-Alloy+ Vambraces - OO (speedsetup2, speedsetup2)  
-Bnahabra+ Coil - O (status1)  
-Bnahabra+ Greaves - O (status1)  
+Alloy Mail+ | OO (SpeedSetup 2, Sharpness 1)  
+Alloy Vambraces+ | OO (SpeedSetup 2, SpeedSetup 2)  
+Bnahabra Coil+ | O (Status 1)  
+Bnahabra Greaves+ | O (Status 1)  
 
-Total: Sharpness10, Status10, SpeedSetup10
+Total: Sharpness +10, Status +10, SpeedSetup +10
 
 Plenty of room to add other skills of your choice.
 
 ---
 
 ### Blast Earring, anyone? Lance Remix
-Status Atk Up, Razor Sharp, Guard+1
+Active Skills:  Status Atk Up, Razor Sharp, Guard +1  
+Available Slots:  O x3; (Head); (Weapon); (Talisman)
 
 None  
-Agnaktor+ Mail - O  
-Steel+ Vambraces - O  
-Bnahabra+ Coil - O  
-Bnahabra- Boots  
+Agnaktor Mail+ | O  
+Steel Vambraces+ | O  
+Bnahabra Coil+ | O  
+Bnahabra Boots  
 
-Total: Sharpness9, Status10, Guard10
+Total: Sharpness +9, Status +10, Guard +10
 
 For people who like guard lancing. Note the Bnah boots are low rank!
 
@@ -447,20 +463,21 @@ For people who like guard lancing. Note the Bnah boots are low rank!
 <img src="images/who-needs-blast-earring.png" width="48%">
 <img src="images/who-needs-blast-earring-skills.png" width="48%">
 <p float="left">
-Status Atk Up, Razor Sharp, Bombardier
+Active Skills:  Status Atk Up, Razor Sharp, Bombardier  
+Available Slots:  OO x1, OOO x1; (Talisman)
 
-Morpheus Knife - OO  
-Uragaan+ Helm - O (bombardier2)  
-Uragaan+ Mail - O (sharpness1)  
-Uragaan+ Vambraces - OOO  
-Bnahabra+ Coil - O (status1)  
-Bnahabra+ Greaves - O (status1)  
+Morpheus Knife | OO  
+Uragaan Helm+ | O (Bombardier 2)  
+Uragaan Mail+ | O (Sharpness 1)  
+Uragaan Vambraces+ | OOO  
+Bnahabra Coil+ | O (Status 1)  
+Bnahabra Greaves+ | O (Status 1)  
 
-Bombardier8, Status10, Sharpness10
+Total:  Bombardier +8, Status +10, Sharpness +10
 
 There are still five slots left in the armor, and I haven't even included a talisman here. Put in the bomb boost gem to make sure you reach Bombardier.
 
-If you have Bomb Boost+5 SpeedSetup+10 tali, you can even leave off the Uragaan+ helm.
+If you have Bomb Boost +5 SpeedSetup +10 tali, you can even leave off the Uragaan Helm+.
 
 ---
 
@@ -469,13 +486,14 @@ If you have Bomb Boost+5 SpeedSetup+10 tali, you can even leave off the Uragaan+
 <img src="images/low-rank-lagi-gunner.png" width="48%">
 <img src="images/low-rank-lagi-gunner-skills.png" width="48%">
 <p float="left">
-Normal S Boost, Element Atk Up, Olympic Swimmer, Status Atk Down
+Active Skills:  Normal S Boost, Element Atk Up, Olympic Swimmer, Status Atk Down  
+Available Slots:  O x1, OO x4; (Weapon); (Talisman)
 
-Lagiacrus Cap - OO  
-Lagiacrus Vest - O  
-Lagiacrus Guards - OO  
-Lagiacrus Coat - OO  
-Lagiacrus Leggings - OO  
+Lagiacrus Cap | OO  
+Lagiacrus Vest | O  
+Lagiacrus Guards | OO  
+Lagiacrus Coat | OO  
+Lagiacrus Leggings | OO  
 
 Low Rank elemental gunning goodness. Lagiacrus is so flexible.
 
