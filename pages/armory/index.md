@@ -248,9 +248,9 @@ Talisman: Crit Draw +5/+6, C+10
 
 Total: Handicraft +15, Crit Draw +10, FastCharge +10, C+10
 
-For when earplugs don't help. I've seen Item Use Up and Capture Guru as the most useful C skills in this set.
+For when earplugs don't help. I've seen Item Use Up and Capture Guru as the most useful C skills on the talisman.
 
-If your talisman is Crit Draw 6, then you don't have to blow a stout horn for the decoration.
+If your talisman is Crit Draw 6, then you don't have to blow a stout horn for the decoration. Just use two Crit Draw 1 decorations instead.
 
 ---
 
