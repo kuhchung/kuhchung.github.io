@@ -10,6 +10,7 @@ My goal for all of these sets is to *not* dictate what talismans you must use, w
 - [Great Sword Sets](#great-sword-sets)
 - [Pierce Gunning](#pierce-gunning)
 - [Normal and Elemental Gunning](#normal-and-elemental-gunning)
+- [Status Gunning](#status-gunning)
 - [Status Melee Sets](#status-melee-sets)
 
 
@@ -464,7 +465,7 @@ Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
 
 ---
 
-### Status Gunning
+## Status Gunning
 Use <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Light Bowgun/Jhen Cannon (O) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Chaos Wing. Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up.  You don't need Status Atk Up.
 
 Full Uragaan+ meets these requirements.
