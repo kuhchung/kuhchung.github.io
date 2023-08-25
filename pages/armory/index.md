@@ -361,7 +361,9 @@ Total: Loading15, Clust S+15, Recoil20
 
 Alatreon abuse gun, loading 5 clust2 and firing with no recoil. If you have Clust god (Clust S+7 OO), you can gem in bombardier too.
 
-Honestly, there's probably a cheaper way to make this without requiring a clust6 talisman. The key takeaway is, this is the gun you *must* use, and the armor skills you are aiming for are Clust S All Up and Recoil Down 3. If you do not have Barrage Earring, that is fine. Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
+Honestly, there's probably a cheaper way to make this without requiring a clust6 talisman. The key takeaway is, this is the gun you *must* use, and the armor skills you are aiming for are Clust S All Up and Recoil Down 3. If you do not have Barrage Earring, that is fine; just load 4 Clust2 shot instead of 5.
+
+Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
 
 ---
 
