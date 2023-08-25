@@ -12,6 +12,7 @@ By the way, Helios and Selene are the male and female armor made of Ceadeus part
 - [Greatsword Sets](#greatsword-sets)
 - [Pierce Gunning](#pierce-gunning)
 - [Normal and Elemental Gunning](#normal-and-elemental-gunning)
+- [Status Melee Sets](#status-melee-sets)
 
 
 ## General Melee Sets
@@ -121,6 +122,27 @@ Vangis Greaves - OOO (element4)
 Total: Handicraft15, Element9, Attack9
 
 I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and attack god talisman (Attack7 OO), you can get AuL. Don't forget to finish off the Element9 and Attack9 by adding the corresponding decos either in your weapon or your talisman.
+
+---
+
+### Steel Guard Lancing
+<p float="left">
+<img src="images/steel-guard-lancing.png" width="48%">
+<img src="images/steel-guard-lancing-skills.png" width="48%">
+<p float="left">
+
+Sharpness+1, Guard+1, Speed Sharpen
+
+1 slot weapon - O (handicraft1)  
+Vangis Helm  
+Vangis Mail  
+Steel+ Vambraces - O (sharpener2)  
+Steel+ Coil - O (guard1)  
+Vangis Greaves - OOO (handicraft4)  
+
+Handicraft 14, Guard10, Sharpener10, Attack7
+
+This is what I have for guard lancing that doesn't require a guard skill in the talisman. You need one more handicraft point in the tali. Funny enough, C+10 Atk+3 O fits extremely well into this set once more to tack on another C skill as well as AuS, but that is not at all mandatory. 
 
 ---
 
@@ -321,6 +343,88 @@ Total: Elemental10, Evade Dist15, Rapid Fire10
 We get more raw on the gun, and Evasion Up is there to make up for the lack of mobility with the HBG. It's actually pretty fun.
 
 The listed guns are for rapid firing fire shots. I find the other elemental shots bad/useless, but you can just switch the barrel and stock to find ones that load the ammo type you want.
+
+---
+
+### Deep Fried Alatreon
+Load Up, Recoil Down 3, Clust S All Up
+
+Rathling Gun+ - Rathling Gun+ O (clust S+1) - Agnablaster OO (recoil1, recoil1)  
+Barrage Earring  
+Amagi+ Muneate - O (recoil1)  
+Uragaan+ Guards - OOO (recoil4)  
+Uragaan+ Coat - O (recoil1)  
+Amagi+ Hakama  
+Talisman: Clust6 or better  
+
+Total: Loading15, Clust S+15, Recoil20
+
+Alatreon abuse gun, loading 5 clust2 and firing with no recoil. If you have Clust god (Clust S+7 OO), you can gem in bombardier too.
+
+Honestly, there's probably a cheaper way to make this without requiring a clust6 talisman. The key takeaway is, this is the gun you *must* use, and the armor skills you are aiming for are Clust S All Up and Recoil Down 3. If you do not have Barrage Earring, that is fine. Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
+
+---
+
+### Status Gunning
+Use Thundacrus Rex - Jhen Cannon/Light Bowgun - Chaos Wing. Get Recoil Down+2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up.  You don't need Status Atk Up.
+
+Full Uragaan+ meets these requirements.
+
+---
+
+## Status Melee Sets
+
+Note: These are very, very flexible. Mine are just some simple examples.
+
+### Blast Earring, anyone?
+Status Atk Up, Trapmaster, Razor Sharp
+
+None  
+Alloy+ Mail - OO (speedsetup2, sharpness1)  
+Alloy+ Vambraces - OO (speedsetup2, speedsetup2)  
+Bnahabra+ Coil - O (status1)  
+Bnahabra+ Greaves - O (status1)  
+
+Total: Sharpness10, Status10, SpeedSetup10
+
+Plenty of room to add other skills of your choice.
+
+---
+
+### Blast Earring, anyone?
+Status Atk Up, Razor Sharp, Guard+1
+
+None  
+Agnaktor+ Mail - O  
+Steel+ Vambraces - O  
+Bnahabra+ Coil - O  
+Bnahabra- Boots  
+
+Total: Sharpness9, Status10, Guard10
+
+For people who like guard lancing. Note the Bnah boots are low rank!
+
+---
+
+### Who Needs Blast Earring?
+<p float="left">
+<img src="images/who-needs-blast-earring.png" width="48%">
+<img src="images/who-needs-blast-earring-skills.png" width="48%">
+<p float="left">
+Status Atk Up, Razor Sharp, Bombardier
+
+Morpheus Knife - OO  
+Uragaan+ Helm - O (bombardier2)  
+Uragaan+ Mail - O (sharpness1)  
+Uragaan+ Vambraces - OOO  
+Bnahabra+ Coil - O (status1)  
+Bnahabra+ Greaves - O (status1)  
+
+Bombardier8, Status10, Sharpness10
+
+There are still five slots left in the armor, and I haven't even included a talisman here. Put in the bomb boost gem to make sure you reach Bombardier.
+
+If you have Bomb Boost+5 SpeedSetup+10 tali, you can even leave off the Uragaan+ helm.
 
 ---
 
