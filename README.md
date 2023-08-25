@@ -18,3 +18,7 @@ Good external references:
 [Melee Damage Formula](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/59207)  
 [Bowgun Damage Formula](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/59704)  
 [MH Tri stilltruth Mega Compendium](http://web.archive.org/web/20130407144830/http://mhtri.stilltruth.com/monsters.php)  (Wayback link... not 100% functional anymore sadly.)
+
+## Credits
+Thanks to my longstanding suffering friend Esti for a ton of work on the Armory  
+For any questions or feedback, please contact kuhchung on Discord
