@@ -70,7 +70,9 @@ Vangis Greaves - OOO
 
 Total: Handicraft14, Hearing15, Attack1
 
-This is *the* high grade earplugs loadout. If you want a headless one though...
+This is *the* high grade earplugs loadout. Put the handicraft deco in the weapon slot if you can.
+
+If you want a headless one though...
 
 ---
 
