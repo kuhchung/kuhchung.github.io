@@ -1,6 +1,7 @@
 ## Uragaan
 
-Goabie’s Weapon Recommendations: Medium Bowgun, Lance (Guard), SnS
+Goabie’s Weapon Recommendations: Medium Bowgun, Lance (Guard), SnS  
+Elemental weakness: Dragon and Water
 
 Rage tells: Speedup, black smoke from nose
 
