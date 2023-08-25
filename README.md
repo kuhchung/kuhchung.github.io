@@ -7,12 +7,14 @@ After returning to the game after a whole decade, I found myself relearning thin
 
 Let's do this!
 
+## Articles
 [Be a good teammate](pages/Being-a-Good-Teammate.md)  
 [Random mechanics about the game](pages/Misc.md)  
 [My notes on monsters](pages/hunters-notes)  
 
 If you want to look at armor sets I've collated, [here they are.](pages/armory/index.md)
 
+## Resources
 Good external references:  
 [Quest Reward guide](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/60448)  
 [Melee Damage Formula](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/59207)  
