@@ -18,6 +18,10 @@ By the way, Helios and Selene are the male and female armor made of Ceadeus part
 ## General Melee Sets
 
 ### Endgame Standard Earplugs
+<p float="left">
+<img src="images/endgame-standard-earplugs.png" width="48%">
+<img src="images/endgame-standard-earplugs-skills.png" width="48%">
+<p float="left">
 Sharpness+1, Earplugs
 
 Selene+ Helm - OOO  
@@ -33,6 +37,10 @@ It seems natural to get to at least AuS, but the customization is entirely up to
 ---
 
 ### Endgame Standard Earplugs 2
+<p float="left">
+<img src="images/endgame-standard-earplugs-2.png" width="48%">
+<img src="images/endgame-standard-earplugs-2-skills.png" width="48%">
+<p float="left">
 Sharpness+1, Earplugs
 
 Selene+ Helm - OOO  
@@ -48,6 +56,10 @@ Another way to achieve the same loadout as above. The Attack6 goes really well w
 ---
 
 ### Endgame High Grade Earplugs
+<p float="left">
+<img src="images/endgame-hge.png" width="48%">
+<img src="images/endgame-hge-skills.png" width="48%">
+<p float="left">
 Sharpness+1, High Grade Earplugs
 
 Selene+ Helm - OOO  
@@ -111,6 +123,10 @@ If you're looking for an evade lancer set, this is it!
 ---
 
 ### Elemental Enjoyers
+<p float="left">
+<img src="images/elemental-enjoyer.png" width="48%">
+<img src="images/elemental-enjoyer-skills.png" width="48%">
+<p float="left">
 Sharpness+1, Element Atk Up, Attack Up X
 
 Vangis Helm  
