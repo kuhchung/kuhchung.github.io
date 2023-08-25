@@ -376,6 +376,9 @@ Full Uragaan+ meets these requirements.
 
 Note: These are very, very flexible. Mine are just some simple examples.
 
+In my opinion, if you run paralyze, then trapmaster is mandatory.  
+If you run sleep, bombardier is mandatory.
+
 ### Blast Earring, anyone?
 Status Atk Up, Trapmaster, Razor Sharp
 
@@ -391,7 +394,7 @@ Plenty of room to add other skills of your choice.
 
 ---
 
-### Blast Earring, anyone?
+### Blast Earring, anyone? Lance Remix
 Status Atk Up, Razor Sharp, Guard+1
 
 None  
