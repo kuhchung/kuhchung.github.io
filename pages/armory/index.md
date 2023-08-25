@@ -4,8 +4,6 @@ Welcome to my armory! This is a compilation of useful loadouts that I either dis
 
 My goal for all of these sets is to *not* dictate what talismans you must use, whenever possible. Greatsword users, beware. You're gonna need a tali.
 
-By the way, Helios and Selene are the male and female armor made of Ceadeus parts. Use whatever applies for your character's gender.
-
 ## Contents
 
 - [General Melee Sets](#general-melee-sets)
