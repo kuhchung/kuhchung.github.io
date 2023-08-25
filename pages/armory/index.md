@@ -346,7 +346,7 @@ Total: PierceS Up +10, Pierce S+ +16, Expert +15
 
 This gun loads 8 Pierce S Lv2 rounds and fires at 0.8 range with no deviation. Use whatever talisman you want. Like above, if you want evasion, swap the bottom pieces and/or use an appropriate talisman.
 
-Also like above, substitue low rank chest if you need to.
+Also like above, substitute low rank chest if you need to.
 
 This gun wants to fire straight through the longest part of the body. Fire straight into Deviljho or Agnaktor's face and thru the body, for example.
 
