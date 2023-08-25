@@ -253,7 +253,7 @@ Gobul+ Leggings - OOO
 
 Total: PierceS Up10, Pierce S+10, Expert4
 
-This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation.  You can slot it however you like and use whatever talisman you want. If you want evasion, use Barioth+ Coat, Barioth Leggings, and an evasion talisman.
+This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation. The build above is prepared to gem in Critical Eye, the superior damage option for pierce shots. Otherwise, you can slot it however you like and use whatever talisman you want. If you want evasion, use Barioth+ Coat, Barioth Leggings, and an evasion talisman.
 
 If you don't have/can't get a Stout Horn for the chest piece, the low rank Diablos Vest is only one point worse than the high rank one.
 
