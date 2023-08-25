@@ -184,6 +184,10 @@ Notably, this is available as soon as you unlock HR31! It's a very good progress
 Okay, these require critical draw talismans. I warned you!
 
 ### Endgame GS Standard
+<p float="left">
+<img src="images/endgame-gs-standard.png" width="48%">
+<img src="images/endgame-gs-standard-skills.png" width="48%">
+<p float="left">
 Sharpness+1, Earplugs, Critical Draw, Focus
 
 Anguish P - O (handicraft1)  
@@ -220,6 +224,10 @@ Style! Note that this costs a stout horn for your decoration.
 ---
 
 ### Endgame GS Standard no earplugs
+<p float="left">
+<img src="images/endgame-gs-no-earplugs.png" width="48%">
+<img src="images/endgame-gs-no-earplugs-skills.png" width="48%">
+<p float="left">
 Sharpness+1, Critical Draw, Focus, C+10
 
 Anguish P - O (handicraft1)  
