@@ -13,7 +13,7 @@ Let's do this!
 
 If you want to look at armor sets I've collated, [here they are.](pages/armory/index.md)
 
-Good external references:
+Good external references:  
 [Quest Reward guide](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/60448)  
 [Melee Damage Formula](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/59207)  
 [Bowgun Damage Formula](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/59704)  
