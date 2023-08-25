@@ -268,6 +268,11 @@ If you're into that sort of thing.
 ## Pierce Gunning
 
 ### Deviating Uragaan Smasher
+<p float="left">
+<img src="images/dev-ura-smasher.png" width="48%">
+<img src="images/dev-ura-smasher-skills.png" width="48%">
+<p float="left">
+
 Pierce Boost, Pierce S Lvl 1 Up, Critical Eye X
 
 Thundacrus Rex - Barrozooka O - Thundacrus OO  
