@@ -16,3 +16,9 @@ These have been independently tested and confirmed.
 * Might Pill
     * The biggest consumable attack buff in the game. This lasts 15 seconds. Eat this and eat a might seed while the pill is still active to extend it to 3 minutes (5 minutes with Lasting Power.) 
 * Stat Atk Up and Felyne Specialist stack.
+* Duping items (legitimately and for great profit!)
+    * This requires two players.
+    * Any item that is lower than RARE4 can be given to another player.
+    * So find the useful consumables in your box and start giving them to a friend! Mega Nutrients, Sonic Bombs, Nets, Flash Bombs, Bomb Casings... there are so many great consumables.
+    * When you're done, quit the game and do not save :)
+    * Make sure the item receiver *does* save. Otherwise, they owe you a coke. I don't make the rules.
