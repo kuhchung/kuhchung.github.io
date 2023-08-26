@@ -324,7 +324,7 @@ This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation. T
 
 If you don't have/can't get a Stout Horn for the chest piece, the low rank Diablos Vest is only one point worse than the high rank one.
 
-I've named this gun the Uragaan smasher because it obliterates the poor guy. In the Advanced quest Heroes Wanted, 60 Adrenaline Pierce S Lv1 shots and probably some bombs will put one of them low enough to capture!
+I've named this gun the Uragaan smasher because it obliterates the poor guy. In the Advanced quest Heroes Wanted, 60 Adrenaline Pierce S Lv1 shots and 2 Large Barrel Bomb+ will put one of them low enough to capture!
 
 ---
 
