@@ -11,6 +11,10 @@ Rage tells: BIG, RED, AND SPICY!
 
 Bring drugged meat and tinged meat. Bring Large Barrel Bomb+s.
 
+Deviljho rarely (almost never?) has two consecutive 90 degree turns in its moveset, like the Raths or Qurupeco. When he *does* do it, he is heading for some spiked meat. Do not stagger him out of it!
+
+If you *do* stagger him out of it, either on his way to eating or in the process of eating, he will never go for that meat again.
+
 Its best hitzone when unraged is the face. Its best hitzone when raged is the belly... by FAR. You want it raged.
 
 Shock trap duration is pitiful when raged. When exhausted, shock trap lasts forever (like with every other monster), and I find this the easiest way to farm tails.
