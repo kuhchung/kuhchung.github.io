@@ -1,4 +1,4 @@
-# Hunter’s Notes - Rathalos
+# <img src="icons/rathalos.png" width="32px"> Hunter’s Notes - Rathalos <img src="icons/rathalos.png" width="32px">
 <p float="left">
 <img src="images/rathalos.png" width="98%">
 <p float="left">  
