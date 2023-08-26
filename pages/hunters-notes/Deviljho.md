@@ -16,6 +16,8 @@ Deviljho rarely (never?) has two consecutive 90 degree turns in its moveset, lik
 
 If you *do* stagger him out of it, either on his way to eating or in the process of eating, he will never go for that meat again.
 
+Once he's eaten one type of meat, there's no point in feeding him any more of that type.
+
 This guy is just as active tired as he is raged. Very unique.
 
 ## Damage
