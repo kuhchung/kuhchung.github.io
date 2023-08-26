@@ -14,7 +14,7 @@ Bring drugged meat and tinged meat. Bring Large Barrel Bomb+s.
 ## On the subject of spiked meats
 Deviljho rarely (never?) has two consecutive 90 degree turns in its moveset, like the Raths or Qurupeco. But when he *does* do it, he is heading for some spiked meat. Do not stagger him out of it!
 
-If you *do* stagger him out of it, either on his way to eating or in the process of eating, he will never go for that meat again.
+If you *do* stagger him out of it, either on his way to eating or in the process of eating, he will never go for that specific piece of meat again.
 
 Once he's eaten one type of meat, there's no point in feeding him any more of that type.
 
@@ -47,7 +47,7 @@ When Deviljho is exhausted, if he hits you with a swipe from his drooling mouth,
 
 The dragon breath inflicts dragonblight.
 
-I don't like bringing status weapons to this fight. One sleep and one para via meat is enough, and the fight should be over soon. The para or sleep you inflict may prove meaningless when he eats.
+I don't like bringing status weapons to this fight. One sleep and one para via meat is enough, and the fight should be over soon. The para or sleep damage that you inflict may prove meaningless when he eats.
 
 ## WORLD EATER SPECIFIC
 
