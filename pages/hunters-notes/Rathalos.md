@@ -1,11 +1,12 @@
 # Hunter’s Notes - Rathalos
-
+<p float="left">
+<img src="images/rathalos.png" width="98%">
+<p float="left">  
 Goabie's weapon recommendations: Hammer, Greatsword, Longsword  
+  
 Elemental weakness: Thunder and Dragon
 
 TODO: Link videos demonstrating flash bombing
-
-TODO: Add Rathalos image
 
 TODO: Add Rathalos flavor text entry
 
