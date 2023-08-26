@@ -1,5 +1,7 @@
-## Uragaan
-
+## <img src="icons/uragaan.png" width="32px"> Uragaan <img src="icons/uragaan.png" width="32px">
+<p float="left">
+<img src="images/uragaan.png" width="98%">
+ <p float="left">
 Goabie’s Weapon Recommendations: Medium Bowgun, Lance (Guard), SnS  
 Elemental weakness: Dragon and Water
 

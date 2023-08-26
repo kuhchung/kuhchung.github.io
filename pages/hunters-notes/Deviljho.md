@@ -1,4 +1,4 @@
-# Hunter’s Notes - Deviljho
+# <img src="icons/deviljho.png" width="32px"> Hunter’s Notes - Deviljho <img src="icons/deviljho.png" width="32px">
 
 Goabie's weapon recommendations: Lance, Medium Bowgun, Greatsword  
 Anti-recommendations: Longsword, SnS, status weapons  

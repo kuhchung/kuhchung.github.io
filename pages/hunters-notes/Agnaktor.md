@@ -1,9 +1,12 @@
 # Hunter’s Notes - Agnaktor
-
+<p float="left">
+<img src="images/agnaktor-soft.png" width="48%">
+<img src="images/agnaktor-hard.png" width="48%">
+<p float="left">  
 Goabie’s Weapon Recommendations: Medium Bowgun, LS, Lance, SnS  
+  
 Elemental weakness: Water
 
-TODO: picture
 TODO: Flavor text
 
 Rage tells: Speedup, fire in mouth
