@@ -43,6 +43,10 @@ His roar does not require evasion+1 to dodge either. Actually, most of his attac
 ## Status effects
 When Deviljho is exhausted, if he hits you with a swipe from his drooling mouth, you are going to be afflicted with defense down. This can be counteracted by eating an adamant seed. You can also just ignore it and keep on fighting.
 
+The dragon breath inflicts dragonblight.
+
+I don't like bringing status weapons to this fight. One sleep and one para via meat is enough, and the fight should be over soon. The para or sleep you inflict may prove meaningless when he eats.
+
 ## WORLD EATER SPECIFIC
 
 If you set off smoke bombs and place a drugged meat while he hasn't noticed anyone, he will 100% (?) go for it. This only works for World Eater for whatever reason.
