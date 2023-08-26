@@ -42,6 +42,9 @@ When you score a KO, you have time for a triple, roll out, sheathe, then speedse
 ## Breaking the claws
 Breaking one of barioth’s claws may cause him to slip in future movements. His curved jumps are much less threatening now. If you break both, every jump, and every high air swooping lunge will be a guaranteed slip or spinout. He will also drop a shiny on the spinouts.
 
+## Trapping
+Barioth flies into the air after breaking a pitfall trap, which means a flash will stagger it to the floor. The downside is that he will be in flashed status and go crazy once he finally gets to his feet. At least you can use this time to sharpen or something.
+
 ## Turnapound
 Release the turnapound aiming at the 90 degree turn, not the 180! Remember, the superpound splash area is huge, so it is actually quite forgiving. If you are having trouble soloing barioth, this single tip will probably get you over the hurdle.
 
