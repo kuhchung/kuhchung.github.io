@@ -27,7 +27,7 @@ If Barioth is exhausted, he will almost always growl after every single movement
 
 ## Avoidance and Evasion
 
-On his swiping leap attacks, you can roll underneath the claw that's coming for you by dodging at the last moment. This does not require evasion+1.
+On his jumping claw swipe attacks, you can roll underneath the claw that's coming for you by dodging directly into and through it at the last moment. This does not require evasion+1.
 
 You can mash to get out of snowballed state. It takes more effort than mud, however. If barioth is about to wall leap, you can use his wind pressure to break free as well.
 
