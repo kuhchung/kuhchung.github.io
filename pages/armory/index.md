@@ -124,7 +124,7 @@ Yes, this is just full Deviljho. Not many slots to work with. However, if you're
 
 ---
 
-### Endgame Standard No Earplugs Flexible
+### Endgame Standard No Earplugs Flexible | Evade Lance
 <p float="left">
 <img src="images/endgame-standard-no-earplugs-flexible.png" width="48%">
 <p float="left">
