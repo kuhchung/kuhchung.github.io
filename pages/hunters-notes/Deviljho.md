@@ -9,6 +9,7 @@ TODO: Flavor text
 
 Rage tells: BIG, RED, AND SPICY!
 
+## Preparations
 Bring drugged meat and tinged meat. Bring Large Barrel Bomb+s.
 
 ## On the subject of spiked meats
