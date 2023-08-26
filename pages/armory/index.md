@@ -141,6 +141,7 @@ Available Slots: OOO x2; (Talisman); (Weapon)
 Total:  Handicraft +14, Psychic +12, Attack +12  
 
 In my opinion, losing one level of attack is worth being able to gem in other stuff, like both sharpener and trapmaster just as an example. Also useful is guard, evasion, dung bomb expert, or whatever.  
+
 If you're looking for an evade lancer set, this is it!
 
 ---
@@ -205,6 +206,7 @@ Total:  Expert +15, Sharpener +10, SpeedSetup +10
 
 Useful for weapons that don't benefit much from Sharpness +1, such as Flame Tempest and Reaver "Calamity".  
 Since Alloy+ already has the best C skills in the game, I just shove Attack 3 gems into everything, but obviously it's up to you.  
+
 Notably, this is available as soon as you unlock HR31! It's a very good progression set.
 
 ---
