@@ -7,19 +7,28 @@ TODO: Barioth picture
 
 TODO: Barioth flavor text
 
-Rage tells: Speedup, red eyes
+Rage tells: Speedup, red eyes, white smoke
 
-Climbing onto Barioth ledge
+## Climbing onto Barioth ledge
 
 * Hang on the wall and don't mantle up until Barioth commits to an attack. The only thing that can hit you while you're on the wall is his snowball. DO NOT SPAM CLIMB UP. Check both ways before crossing the street!
 
+## Barioth Movement
 When raged, if Barioth makes a curved leap, he will very likely lunge forward. Get out of the way. It is not your turn.
+
+On a head hit when raged, if he takes a giant stagger back (not a high stagger up), he is about to lunge and then turn into the person who staggered his head. This is a second superpound for a hammer or another charged attack for GS.
+
+If he does one jumping claw swipe, he can go immediately into another movement.
+
+If he does two or three conseuctive jumping claw swipes, he will always growl next.
+
+If Barioth is exhausted, he will almost always growl after every single movement.
+
+## Avoidance and Evasion
 
 On his swiping leap attacks, you can roll underneath the claw that's coming for you by dodging at the last moment. This does not require evasion+1.
 
 You can mash to get out of snowballed state. It takes more effort than mud, however. If barioth is about to wall leap, you can use his wind pressure to break free as well.
-
-On a head hit when raged, if he takes a giant stagger back (not a high stagger up), he is about to lunge and then turn into the person who staggered his head. This is a second superpound for a hammer or another charged attack for GS.
 
 His tailswipe is evadable, but only at maybe the final 40-50% of his length. The base of his tail, you cannot evade through.
 
