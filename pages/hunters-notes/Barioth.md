@@ -1,12 +1,10 @@
-# Hunter's Notes - Barioth
+# <img src="icons/barioth.png" width="32px"> Hunter's Notes - Barioth <img src="icons/barioth.png" width="32px">
 <p float="left">
 <img src="images/barioth.png" width="48%">
 <img src="images/barioth-roar.png" width="48%">
 <p float="left">  
 Goabie's weapon recommendations: Hammer  
 Elemental weakness: Fire, then thunder
-
-TODO: Barioth picture
 
 TODO: Barioth flavor text
 
