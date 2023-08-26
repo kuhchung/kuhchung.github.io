@@ -7,6 +7,8 @@ TODO: Barioth picture
 
 TODO: Barioth flavor text
 
+TODO: Flash bomb timings. But I generally don’t use this because he is very annoying in the flashed state.
+
 Rage tells: Speedup, red eyes, white smoke
 
 ## Climbing onto Barioth ledge
@@ -34,15 +36,11 @@ His tailswipe is evadable, but only at maybe the final 40-50% of his length. The
 Like many projectiles, you can shield advance with lance to swallow his ice ball.
 
 ## Bombing the wings after KO
-
-* This is probably just a weird me thing. I do it in offline.   \
+This is probably just a weird me thing. I do it in offline.   \
 When you score a KO, you have time for a triple, roll out, sheathe, then speedsetup LBB+ sbb LBB+ kind of far out to where the tip of his wing-claw points. This is how I break bari claws solo for the reward and to make him slip on leaps. If you time it right, this will trip him and you get another triple. 
 
 ## Breaking the claws
-
-* Breaking one of barioth’s claws may cause him to slip in future movements. His curved jumps are much less threatening now. If you break both, every jump, and every high air swooping lunge will be a guaranteed slip or spinout. He will also drop a shiny on the spinouts.
-
-TODO: Flash bomb timings. But I generally don’t use this because he is very annoying in the flashed state.
+Breaking one of barioth’s claws may cause him to slip in future movements. His curved jumps are much less threatening now. If you break both, every jump, and every high air swooping lunge will be a guaranteed slip or spinout. He will also drop a shiny on the spinouts.
 
 ## Turnapound
 Release the turnapound aiming at the 90 degree turn, not the 180! Remember, the superpound splash area is huge, so it is actually quite forgiving. If you are having trouble soloing barioth, this single tip will probably get you over the hurdle.
