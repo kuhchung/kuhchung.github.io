@@ -2,15 +2,17 @@
 <p float="left">
 <img src="images/rathalos.png" width="98%">
 <p float="left">  
-Goabie's weapon recommendations: Hammer, Greatsword, Longsword  
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="16px"> Hammer, <img src="icons/MH3icon-Great_Sword.png" width="16px"> Great Sword, Long Sword  
   
-Elemental weakness: Thunder and Dragon
+Elemental Weakness: <img src="icons/-status-Thunderblight.png" width="16px"> Thunder and <img src="icons/-status-Dragonblight.png" width="16px"> Dragon
+
+Afflictions:  <img src="icons/-status-Fireblight.png" width="16px"> / <img src="icons/-status-Severe_Fireblight.png" width="16px"> Fireblight, <img src="icons/-status-Poison.png" width="16px"> Poison
 
 TODO: Link videos demonstrating flash bombing
 
 TODO: Add Rathalos flavor text entry
 
-Rage tells: Speed up, fire in mouth
+Rage Tells: Speed up, fire in mouth
 
 Starts in area 2 of Deserted Island in Double Trouble  
 Starts in area 7 of Deserted Island if alone

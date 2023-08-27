@@ -4,14 +4,15 @@
 <img src="images/barioth-roar.png" width="48%">
 <p float="left">  
 
-Goabie's weapon recommendations: Hammer  
-Elemental weakness: Fire, then thunder
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="16px"> Hammer  
+Elemental Weakness: <img src="icons/-status-Fireblight.png" width="16px"> Fire, then <img src="icons/-status-Thunderblight.png" width="16px"> Thunder  
+Afflictions: <img src="icons/-status-Iceblight.png" width="16px"> / <img src="icons/-status-Severe_Iceblight.png" width="16px"> Iceblight, <img src="icons/-status-Snowman.png" width="16px"> Snowman
 
 TODO: Barioth flavor text
 
 TODO: Flash bomb timings. But I generally don’t use this because he is very annoying in the flashed state.
 
-Rage tells: Speedup, red eyes, white smoke
+Rage Tells: Speedup, red eyes, white smoke
 
 ## Climbing onto Barioth ledge
 Hang on the wall and don't mantle up until Barioth commits to an attack. The only thing that can hit you while you're on the wall is his snowball. DO NOT SPAM CLIMB UP. Check both ways before crossing the street!

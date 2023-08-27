@@ -1,13 +1,14 @@
 # <img src="icons/deviljho.png" width="32px"> Hunter’s Notes - Deviljho <img src="icons/deviljho.png" width="32px">
 
-Goabie's weapon recommendations: Lance, Medium Bowgun, Greatsword  
-Anti-recommendations: Longsword, SnS, status weapons  
-Elemental weakness: Dragon or Thunder
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="16px"> Lance, <img src="icons/MH3icon-Medium_Bowgun.png" width="16px"> Medium Bowgun, <img src="icons/MH3icon-Great_Sword.png" width="16px"> Great Sword  
+Anti-recommendations: <img src="icons/MH3icon-Long_Sword.png" width="16px"> Long Sword, <img src="icons/MH3icon-Sword_and_Shield.png" width="16px"> SnS, Status Weapons  
+Elemental Weakness: <img src="icons/-status-Dragonblight.png" width="16px"> Dragon or <img src="icons/-status-Thunderblight.png" width="16px"> Thunder  
+Afflictions: <img src="icons/-status-Defense_Down.png" width="16px"> Defence Down, <img src="icons/-status-Dragonblight.png" width="16px"> / <img src="icons/-status-Severe_Dragonblight.png" width="16px"> Dragonblight
 
 TODO: picture
 TODO: Flavor text
 
-Rage tells: BIG, RED, AND SPICY!
+Rage Tells: BIG, RED, AND SPICY!
 
 ## Preparations
 Bring drugged meat and tinged meat. Bring Large Barrel Bomb+s.

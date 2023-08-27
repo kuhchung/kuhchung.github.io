@@ -2,10 +2,11 @@
 <p float="left">
 <img src="images/uragaan.png" width="98%">
  <p float="left">
-Goabie’s Weapon Recommendations: Medium Bowgun, Lance (Guard), SnS  
-Elemental weakness: Dragon and Water
+Goabie’s Weapon Recommendations: <img src="icons/MH3icon-Medium_Bowgun.png" width="16px"> Medium Bowgun, <img src="icons/MH3icon-Lance.png" width="16px"> Lance (Guard), <img src="icons/MH3icon-Sword_and_Shield.png" width="16px"> SnS  
+Elemental Weakness: <img src="icons/-status-Dragonblight.png" width="16px"> Dragon and <img src="icons/-status-Waterblight.png" width="16px"> Water  
+Afflictions: <img src="icons/-status-Fireblight.png" width="16px"> / <img src="icons/-status-Severe_Fireblight.png" width="16px"> Fireblight, <img src="icons/-status-Sleep.png" width="16px"> Sleep
 
-Rage tells: Speedup, black smoke from nose
+Rage Tells: Speedup, black smoke from nose
 
 ## Trapping
 Pit into flash
