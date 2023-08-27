@@ -1,11 +1,13 @@
-# Hunter’s Notes - Agnaktor
+# <img src="icons/agnaktor.png" width="32px"> Hunter’s Notes - Agnaktor <img src="icons/agnaktor.png" width="32px">
 <p float="left">
 <img src="images/agnaktor-soft.png" width="48%">
 <img src="images/agnaktor-hard.png" width="48%">
 <p float="left">  
-Goabie’s Weapon Recommendations: Medium Bowgun, LS, Lance, SnS  
+Goabie’s Weapon Recommendations: <img src="icons/MH3icon-Medium_Bowgun.png" width="20px"> Medium Bowgun, <img src="icons/MH3icon-Long_Sword.png" width="20px"> LS, <img src="icons/MH3icon-Lance.png" width="20px"> Lance, <img src="icons/MH3icon-Sword_and_Shield.png" width="20px"> SnS  
   
-Elemental weakness: Water
+Elemental Weakness: Water <img src="icons/-status-Waterblight.png" width="20px">
+
+Afflictions: <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px"> Fire
 
 TODO: Flavor text
 

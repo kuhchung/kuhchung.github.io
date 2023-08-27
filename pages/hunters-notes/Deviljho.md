@@ -1,13 +1,14 @@
 # <img src="icons/deviljho.png" width="32px"> Hunter’s Notes - Deviljho <img src="icons/deviljho.png" width="32px">
 
-Goabie's weapon recommendations: Lance, Medium Bowgun, Greatsword  
-Anti-recommendations: Longsword, SnS, status weapons  
-Elemental weakness: Dragon or Thunder
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance, <img src="icons/MH3icon-Medium_Bowgun.png" width="20px"> Medium Bowgun, <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword  
+Anti-recommendations: <img src="icons/MH3icon-Long_Sword.png" width="20px"> Long Sword, <img src="icons/MH3icon-Sword_and_Shield.png" width="20px"> SnS, Status Weapons  
+Elemental Weakness: <img src="icons/-status-Dragonblight.png" width="20px"> Dragon or <img src="icons/-status-Thunderblight.png" width="20px"> Thunder  
+Afflictions: <img src="icons/-status-Defense_Down.png" width="20px"> Defence Down, <img src="icons/-status-Dragonblight.png" width="20px"> / <img src="icons/-status-Severe_Dragonblight.png" width="20px"> Dragonblight | Rock Attack; <img src="icons/-status-Waterblight.png" width="20px"> Waterblight (Flooded Forest), <img src="icons/-status-Iceblight.png" width="20px"> Iceblight (Tundra), <img src="icons/-status-Fireblight.png" width="20px"> Fireblight (Volcano).
 
 TODO: picture
 TODO: Flavor text
 
-Rage tells: BIG, RED, AND SPICY!
+Rage Tells: BIG, RED, AND SPICY!
 
 ## Preparations
 Bring drugged meat and tinged meat. Bring Large Barrel Bomb+s.

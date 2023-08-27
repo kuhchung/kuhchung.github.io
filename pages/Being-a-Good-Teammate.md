@@ -3,6 +3,27 @@
 The difference between a good and bad teammate is night and day. Here’s how you can be considerate and make the hunting experience more enjoyable for everyone, as well as completing a hunt faster!
 
 
+## DON’T
+
+
+
+* GS Upswing
+    * Unless you seriously know what you are doing, just don’t ever do this. It even launches teammates behind you.
+* Lance charge
+    * Same as the GS upswing. By the way, on land, this isn't even faster than running.
+* Shield Bash in the SnS combo
+    * Sensing a theme here? Besides, what does that 1 KO hit even do?
+* Superpound grouped teammates
+   * If teammates are whaling on a disabled monster, roll out of your charged superpound and go for a triple. Don't superpound your teammates!
+* Noob Carve
+   * You *don't* need to carve the tail as soon as the tail is cut! It is not going anywhere. Carve it when the monster zones, or when the hunt is over.  
+* Trip your teammates with your status weapon during your disable
+    * You got a paralyze. Great! Now let your team work and don't trip them. Prepare to place a trap, or flash bomb, or find an unoccupied area to hit it, or just chill. We don't need your green sharpness Shadowbinder damage while you trip your lancers or SnS hitters.
+* Fire pellet ammo in a group
+    * Or crag
+* Afk mining during a hunt
+    * For gods sake don't come on a hunt to volcano in leather+ and go on a solo harvest tour. This is the worst offense.
+
 ## DO
 
 
@@ -34,21 +55,3 @@ The difference between a good and bad teammate is night and day. Here’s how yo
     * Unless you’re doing some sort of specialized strategy (like some sort of specific speedrun attempt), general hunting parties do not want more than 1 hammer or a duplicated status weapon.
 
 
-## DON’T
-
-
-
-* GS Upswing
-    * Unless you seriously know what you are doing, just don’t ever do this. It even launches teammates behind you.
-* Lance charge
-    * Same as the GS upswing. By the way, on land, this isn't even faster than running.
-* Superpound grouped teammates
-   * If teammates are whaling on a disabled monster, roll out of your charged superpound and go for a triple. Don't superpound your teammates!
-* Noob Carve
-   * You *don't* need to carve the tail as soon as the tail is cut! It is not going anywhere. Carve it when the monster zones, or when the hunt is over.  
-* Trip your teammates with your status weapon during your disable
-    * You got a paralyze. Great! Now let your team work and don't trip them. Prepare to place a trap, or flash bomb, or find an unoccupied area to hit it, or just chill. We don't need your green sharpness Shadowbinder damage while you trip your lancers or SnS hitters.
-* Fire pellet ammo in a group
-    * Or crag
-* Afk mining during a hunt
-    * For gods sake don't come on a hunt to volcano in leather+ and go on a solo harvest tour. This is the worst offense.
