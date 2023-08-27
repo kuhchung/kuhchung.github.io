@@ -1,4 +1,4 @@
-# Hunter’s Notes - Agnaktor
+# <img src="icons/agnaktor.png" width="32px"> Hunter’s Notes - Agnaktor <img src="icons/agnaktor.png" width="32px">
 <p float="left">
 <img src="images/agnaktor-soft.png" width="48%">
 <img src="images/agnaktor-hard.png" width="48%">
