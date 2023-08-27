@@ -3,7 +3,7 @@
 <img src="images/agnaktor-soft.png" width="48%">
 <img src="images/agnaktor-hard.png" width="48%">
 <p float="left">  
-Goabie’s Weapon Recommendations: <img src="images/MH3icon-Medium_Bowgun.png" width="16px"> Medium Bowgun <img src="images/MH3icon-Medium_Bowgun.png" width="16px">, <img src="images/MH3icon-Long_Sword.png" width="16px"> LS <img src="images/MH3icon-Long_Sword.png" width="16px">, Lance <img src="images/MH3icon-Lance.png" width="16px">, <img src="images/MH3icon-Sword_and_Shield.png" width="16px"> SnS <img src="images/MH3icon-Sword_and_Shield.png" width="16px">  
+Goabie’s Weapon Recommendations: <img src="icons/MH3icon-Medium_Bowgun.png" width="16px"> Medium Bowgun <img src="icons/MH3icon-Medium_Bowgun.png" width="16px">, <img src="icons/MH3icon-Long_Sword.png" width="16px"> LS <img src="icons/MH3icon-Long_Sword.png" width="16px">, Lance <img src="icons/MH3icon-Lance.png" width="16px">, <img src="images/MH3icon-Sword_and_Shield.png" width="16px"> SnS <img src="icons/MH3icon-Sword_and_Shield.png" width="16px">  
   
 Elemental Weakness: Water <img src="icons/-status-Waterblight.png" width="16px">
 
