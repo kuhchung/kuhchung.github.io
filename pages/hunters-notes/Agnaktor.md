@@ -7,7 +7,7 @@ Goabie’s Weapon Recommendations: <img src="icons/MH3icon-Medium_Bowgun.png" wi
   
 Elemental Weakness: Water <img src="icons/-status-Waterblight.png" width="20px">
 
-Afflictions: Fire <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px">
+Afflictions: <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px"> Fire
 
 TODO: Flavor text
 
