@@ -11,15 +11,15 @@ I wanted to talk about how to get started in the early game to ease the journey.
 
 I know everyone's excited to play online, but I personally always like to start my journey in offline mode. Moga has one exclusive monster (Ceadeus) that you will need in the end, and two very important resources in the game can only be farmed efficiently here. So here we go!
 
-> Deserted Island Area 7
-> Always collect spider webs.
-> Spider webs make nets, which can be duped, but grabbing 2-3 every time you're going through area 7 of Deserted Island really adds up. I always gather the bug node that yields these spider webs or insect husks (boo.)
-> You can also trade for spider webs at the trading post in Loc Lac, but that requires a different annoying sidequest: carving bugs and ants for monster fluid. I prefer just whipping out the bug net.
+> Deserted Island Area 7  
+> Always collect spider webs.  
+> Spider webs make nets, which can be duped, but grabbing 2-3 every time you're going through area 7 of Deserted Island really adds up. I always gather the bug node that yields these spider webs or insect husks (boo.)  
+> You can also trade for spider webs at the trading post in Loc Lac, but that requires a different annoying sidequest: carving bugs and ants for monster fluid. I prefer just whipping out the bug net.  
 
 TODO: Picture of webs
 
-> Collect dung when convenient
-> If you're in area 8 (for example, capturing a Rathian), after the hunt is over, grab some dung from the poop pile. Dung is useful!
+> Collect dung when convenient  
+> If you're in area 8 (for example, capturing a Rathian), after the hunt is over, grab some dung from the poop pile. Dung is useful!  
 
 When you need resources or want to freehunt for the joy of it, grab more spider webs on every trip. I like to freehunt when the latest monster shows up in the forest, when it's herbivores breeding (Super Dung can only be gotten via freehunt this way), or when it's Abundant Commodities.
 
@@ -27,9 +27,9 @@ Capturing a boss monster yields some extra resources, but it may not be worth th
 
 Progress through the game fulfilling Junior's sidequests. When the Argosy Captain arrives, trade your rare commodities to upgrade the Fishing Fleet so that you unlock the location Moga Shallows.
 
-> Sandy Plains Area 1
-> White bug spots can spawn in this area. If they do, gather them!
-> They always fetch with thunderbugs (yay!) and gluehoppers (probably yay!)
+> Sandy Plains Area 1  
+> White bug spots can spawn in this area. If they do, gather them!  
+> They always fetch with thunderbugs (yay!) and gluehoppers (probably yay!)  
 
 TODO: Picture
 
@@ -46,10 +46,10 @@ Once you hit 4* Moga Village quests, you unlock the Tundra. Make sure to grab so
 
 At about this point, you should have some farms upgraded all the way (10 days) and probably 2 boats with access to Moga Shallows, as well as some commodities under your belt to trade. Here is what I do:
 
-- Set the Argosy Captain to visit only the farming location for the shortest journey.
-- When Fish Finder is on discount, trade all my common commodities to stockpile them! Even better if something of ours sells for extra value.
-- Plant Stormsender seeds with dung
-- Send your boats to Moga Shallows and use Fish Finder
+- Set the Argosy Captain to visit only the farming location for the shortest journey.  
+- When Fish Finder is on discount, trade all my common commodities to stockpile them! Even better if something of ours sells for extra value.  
+- Plant Stormsender seeds with dung  
+- Send your boats to Moga Shallows and use Fish Finder  
 
 The Stormsender seeds, you can just hit sell all to make a nice chunk of change - about 22,000 (TODO: double check, screenshot) zenny every cycle. Stormsenders aren't the highest selling item you can farm, but the resource to zenny efficiency can't be beat.
 
@@ -61,11 +61,11 @@ Now you should have regular zenny and resource income flowing in.
 
 Now that you aren't constantly going broke forging armors and weapons, it might be time to switch up the farm! The following items are very nice to have plenty of. I'm talking hundreds, maybe a little over a thousand.
 
-- Honey. Honey honey honey. Put these on 10 cycles with Bizzy Bees. Trade for Bizzy Bees. FARM HONEY.
-- Flashbugs (FLASH BOMBS!)
-- Godbugs (ingredient for Max Potion)
-- Might Seed 
-- Dragon Toadstool 
+- Honey. Honey honey honey. Put these on 10 cycles with Bizzy Bees. Trade for Bizzy Bees. FARM HONEY.  
+- Flashbugs (FLASH BOMBS!)  
+- Godbugs (ingredient for Max Potion)  
+- Might Seed  
+- Dragon Toadstool  
 
 ## Cycling your days
 Once your farm and fish empire is running, *always* sleep at night. This allows your boats and farm to advance another half day, accelerating their output.
@@ -89,6 +89,8 @@ Nya!
 - Pin Tuna (Pierce 2 combine)
 - Wyvern Claw (Lifepowder and Clust2 combine)
 - Dragon Toadstool (Immunizer combine)
-
+- Drugged Meats
+- Tinged Meat
+- Raw Meat
 
 Now all you have to do is go on hunts and not triple cart. Hmm, where did I leave my Felyne Moxie again...
