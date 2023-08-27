@@ -4,9 +4,9 @@
 <img src="images/barioth-roar.png" width="48%">
 <p float="left">  
 
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="16px"> Hammer  
-Elemental Weakness: <img src="icons/-status-Fireblight.png" width="16px"> Fire, then <img src="icons/-status-Thunderblight.png" width="16px"> Thunder  
-Afflictions: <img src="icons/-status-Iceblight.png" width="16px"> / <img src="icons/-status-Severe_Iceblight.png" width="16px"> Iceblight, <img src="icons/-status-Snowman.png" width="16px"> Snowman
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="20px"> Hammer  
+Elemental Weakness: <img src="icons/-status-Fireblight.png" width="20px"> Fire, then <img src="icons/-status-Thunderblight.png" width="20px"> Thunder  
+Afflictions: <img src="icons/-status-Iceblight.png" width="20px"> / <img src="icons/-status-Severe_Iceblight.png" width="20px"> Iceblight, <img src="icons/-status-Snowman.png" width="20px"> Snowman
 
 TODO: Barioth flavor text
 

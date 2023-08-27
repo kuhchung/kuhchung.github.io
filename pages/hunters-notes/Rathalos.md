@@ -2,11 +2,11 @@
 <p float="left">
 <img src="images/rathalos.png" width="98%">
 <p float="left">  
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="16px"> Hammer, <img src="icons/MH3icon-Great_Sword.png" width="16px"> Great Sword, Long Sword  
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="20px"> Hammer, <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword, Long Sword  
   
-Elemental Weakness: <img src="icons/-status-Thunderblight.png" width="16px"> Thunder and <img src="icons/-status-Dragonblight.png" width="16px"> Dragon
+Elemental Weakness: <img src="icons/-status-Thunderblight.png" width="20px"> Thunder and <img src="icons/-status-Dragonblight.png" width="20px"> Dragon
 
-Afflictions:  <img src="icons/-status-Fireblight.png" width="16px"> / <img src="icons/-status-Severe_Fireblight.png" width="16px"> Fireblight, <img src="icons/-status-Poison.png" width="16px"> Poison
+Afflictions:  <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px"> Fireblight, <img src="icons/-status-Poison.png" width="20px"> Poison
 
 TODO: Link videos demonstrating flash bombing
 
