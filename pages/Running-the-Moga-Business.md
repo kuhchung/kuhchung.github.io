@@ -67,7 +67,7 @@ Now you should have regular Zenny and Resource Point income flowing in.
 Now that you aren't constantly going broke forging armors and weapons, it might be time to switch up the farm! The following items are very nice to have plenty of. I'm talking hundreds, maybe a little over a thousand.
 
 <p float="left">
-<img src="images/farm-soft.png" width="98%">
+<img src="images/farm.png" width="98%">
 <p float="left">  
 
 - Honey. Honey honey honey. Put these on 10 cycles with Bizzy Bees. Trade for Bizzy Bees. FARM HONEY.  
