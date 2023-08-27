@@ -2,7 +2,7 @@
 <p float="left">
 <img src="images/rathalos.png" width="98%">
 <p float="left">  
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="20px"> Hammer, <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword, Long Sword  
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="20px"> Hammer, <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword, <img src="icons/MH3icon-Long_Sword.png" width="20px"> Long Sword  
   
 Elemental Weakness: <img src="icons/-status-Thunderblight.png" width="20px"> Thunder and <img src="icons/-status-Dragonblight.png" width="20px"> Dragon
 
