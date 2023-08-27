@@ -38,7 +38,8 @@ His tailswipe is evadable, but only at maybe the final 40-50% of his length. The
 Like many projectiles, you can shield advance with lance to swallow his ice ball.
 
 ## Bombing the wings after KO
-This is probably just a weird me thing. I do it in offline.   \
+This is probably just a weird me thing. I do it in offline.
+
 When you score a KO, you have time for a triple, roll out, sheathe, then speedsetup LBB+ sbb LBB+ kind of far out to where the tip of his wing-claw points. This is how I break bari claws solo for the reward and to make him slip on leaps. If you time it right, this will trip him and you get another triple. 
 
 ## Breaking the claws
