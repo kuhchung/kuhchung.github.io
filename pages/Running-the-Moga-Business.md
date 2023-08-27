@@ -66,6 +66,10 @@ Now you should have regular Zenny and Resource Point income flowing in.
 
 Now that you aren't constantly going broke forging armors and weapons, it might be time to switch up the farm! The following items are very nice to have plenty of. I'm talking hundreds, maybe a little over a thousand.
 
+<p float="left">
+<img src="images/farm.png" width="98%">
+<p float="left">  
+
 - Honey. Honey honey honey. Put these on 10 cycles with Bizzy Bees. Trade for Bizzy Bees. FARM HONEY.  
 - Flashbugs (FLASH BOMBS!)  
 - Godbugs (ingredient for Max Potion)  
@@ -78,11 +82,20 @@ Once your farm and fish empire is running, *always* sleep at night. This allows 
 In order to advance from day to night, you have to either freehunt or go on a quest that takes at least two minutes (TODO: test or get a source on this.) If you go to freehunt, grab Spider Webs (area 7), grill some Rare or Well-Done Steaks (up to you), grab some Dung, and return to Moga Village. If it didn't turn to nighttime, go back out and spend a little longer.
 
 ## Welcome to the city! We have markets!
+<p float="left">
+<img src="images/loc-lac-greet.png" width="98%">
+<p float="left">  
 Welcome to Loc Lac! Did you show up in a Helios/Selene mix, proving to other hunters that you completed Moga Village and are kitted out with the best equipment Low Rank has to offer? Ah, well, no matter.
 
 TODO: Vendor images, ctd.
 
 The city sells a variety of items that you would otherwise have to combine on your own in Moga. Have you noticed how annoying it is to make Bomb Casings? Well, Captain Tool sells them to you! ...sometimes. 
+
+<p float="left">
+<img src="images/captain-tool.png" width="98%">
+<p float="left">  
+
+TODO: Sandstorm event gate/city tell images
 
 > Jhen Mohran threatens the very existence of Loc Lac every two weeks. The markets are expanded, and everything sells for half price! Thunderbugs! Pin Tuna! Bird Wyvern Fang! BUY BUY BUY!
 
@@ -106,4 +119,8 @@ Now all you have to do is go on hunts and not triple cart. Hmm, where did I leav
 
 TODO: Vendor image / UI  
 
+<p float="left">
+<img src="images/combinator.png" width="98%">
+<p float="left">  
 Introducing the Combinator, the humble Wyverian of the Combinery who offers to combine items in bulk for you at a nugatory price.  If you can spare the Zenny, he will save you the trouble of manually slow-combining your much-vaunted consumables in your Item Box.  Highly recommended for when you want to (re)stock up and/or when you run low/out while in the middle of your online session with your hunting buddies.
+
