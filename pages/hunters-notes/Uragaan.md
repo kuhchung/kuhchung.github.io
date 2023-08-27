@@ -3,7 +3,9 @@
 <img src="images/uragaan.png" width="98%">
  <p float="left">
 Goabie’s Weapon Recommendations: <img src="icons/MH3icon-Medium_Bowgun.png" width="20px"> Medium Bowgun, <img src="icons/MH3icon-Lance.png" width="20px"> Lance (Guard), <img src="icons/MH3icon-Sword_and_Shield.png" width="20px"> SnS  
+
 Elemental Weakness: <img src="icons/-status-Dragonblight.png" width="20px"> Dragon and <img src="icons/-status-Waterblight.png" width="20px"> Water  
+
 Afflictions: <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px"> Fireblight, <img src="icons/-status-Sleep.png" width="20px"> Sleep
 
 Rage Tells: Speedup, black smoke from nose
