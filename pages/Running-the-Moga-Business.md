@@ -31,7 +31,8 @@ Capturing a boss monster yields some extra Resources, but it may not be worth th
 
 Progress through the game fulfilling Junior's sidequests. When the Argosy Captain arrives, trade your rare Commodities to upgrade the Fishing Fleet so that you unlock the location Moga Shallows.
 
-> Sandy Plains Area 1  
+> Sandy Plains Area 1
+> 
 > White bug spots can spawn in this area. If they do, gather them!  
 > They always fetch with Thunderbugs (yay!) and Gluehoppers (probably yay!)  
 
