@@ -23,7 +23,7 @@ I know everyone's excited to play online, but I personally always like to start 
 TODO: Picture of webs
 
 > Collect Dung when convenient  
-> If you're in area 8 (for example, capturing a Rathian), after the hunt is over, grab some dung from the poop pile. Dung is useful!  
+> If you're in area 8 (for example, capturing a Rathian), after the hunt is over, grab some Dung from the poop pile. Dung is useful!  
 
 When you need Resources or want to freehunt for the joy of it, grab more Spider Webs on every trip. I like to freehunt when the latest monster shows up in the forest, when it's Herbivores Breeding (Super Dung can only be gotten via freehunt this way), or when it's Abundant Commodities.
 
