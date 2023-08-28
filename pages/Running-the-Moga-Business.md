@@ -24,8 +24,8 @@ I know everyone's excited to play online, but I personally always like to start 
 > Ultimately, you want to dupe entire stacks of nets with a friend.
 
 <p float="left">
-<img src="images/deserted-island-spider-webs-3.png" width="98%">
-<img src="images/deserted-island-spider-webs-5.png" width="98%">
+<img src="images/deserted-island-spider-webs-3.png" width="48%">
+<img src="images/deserted-island-spider-webs-5.png" width="48%">
 <p float="left">
 
 > Collect Dung when convenient  
@@ -43,8 +43,8 @@ Progress through the game fulfilling Junior's sidequests. When the Argosy Captai
 > They always fetch with Thunderbugs (yay!) and Gluehoppers (probably yay!)  
 
 <p float="left">
-<img src="images/sandy-plains-thunderbugs-1.png" width="98%">
-<img src="images/sandy-plains-thunderbugs-2.png" width="98%">
+<img src="images/sandy-plains-thunderbugs-1.png" width="48%">
+<img src="images/sandy-plains-thunderbugs-2.png" width="48%">
 <p float="left">
 
 
@@ -70,15 +70,15 @@ At about this point, you should have some farms upgraded all the way (10 days) a
 - Send your boats to Moga Shallows and use Fish Finder.  
 
 <p float="left">
-<img src="images/de-wa-come-back-soon.png" width="98%">
-<img src="images/sale.png" width="98%">
+<img src="images/de-wa-come-back-soon.png" width="48%">
+<img src="images/sale.png" width="48%">
 <p float="left">
 
 
 The Stormsender Seeds, you can just hit sell all to make a nice chunk of change - about 30,000z every cycle. Stormsenders aren't the highest-selling item you can farm, but the Resources-to-Zenny efficiency can't be beat.
 <p float="left">
-<img src="images/stormsender-sow.png" width="98%">
-<img src="images/stormsender-harvest.png" width="98%">
+<img src="images/stormsender-sow.png" width="48%">
+<img src="images/stormsender-harvest.png" width="48%">
 <p float="left">
 
 
