@@ -103,7 +103,7 @@ Now that you aren't constantly going broke forging armors and weapons, it might 
 ## Cycling your days
 Once your farm and fish empire is running, *always* sleep at night. This allows your boats and farm to advance another half day, accelerating their output.
 
-In order to advance from day to night, you have to either freehunt or go on a quest that takes at least two minutes (TODO: test or get a source on this.) If you go to freehunt, grab Spider Webs (area 7), grill some Rare or Well-Done Steaks (up to you), grab some Dung, and return to Moga Village. If it didn't turn to nighttime, go back out and spend a little longer.
+In order to advance from day to night, you have to either freehunt or go on a quest that takes at least two minutes (TODO: test or get a source on this.) If you go to freehunt, grab Spider Webs (area 3 or 5), grill some Rare or Well-Done Steaks (up to you), grab some Dung, and return to Moga Village. If it didn't turn to nighttime, go back out and spend a little longer.
 
 ## Welcome to the city! We have markets!
 <p float="left">
