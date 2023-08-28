@@ -16,7 +16,7 @@ The difference between a good and bad teammate is night and day. Here’s how yo
 * Superpound grouped teammates
    * If teammates are whaling on a disabled monster, roll out of your charged superpound and go for a triple. Don't superpound your teammates!
 * Noob Carve
-   * You *don't* need to carve the tail as soon as the tail is cut! It is not going anywhere. Carve it when the monster zones, or when the hunt is over.  
+   * You **don't** need to carve the tail as soon as the tail is cut! It is not going anywhere. Carve it when the monster zones, or when the hunt is over.  
 * Trip your teammates with your status weapon during your disable
     * You got a paralyze. Great! Now let your team work and don't trip them. Prepare to place a trap, or flash bomb, or find an unoccupied area to hit it, or just chill. We don't need your green sharpness Shadowbinder damage while you trip your lancers or SnS hitters.
 * Fire pellet ammo in a group
