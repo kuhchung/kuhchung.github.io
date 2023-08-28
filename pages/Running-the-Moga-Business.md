@@ -40,7 +40,7 @@ Progress through the game fulfilling Junior's sidequests. When the Argosy Captai
 > Sandy Plains Area 1
 > 
 > White bug spots can spawn in this area. If they do, gather them!  
-> They always fetch with Thunderbugs (yay!) and Gluehoppers (probably yay!)  
+> They always fetch with Godbugs (yay!), Thunderbugs (yay!), and Gluehoppers (probably yay!)  
 
 <p float="left">
 <img src="images/sandy-plains-thunderbugs-1.png" width="48%">
