@@ -43,8 +43,11 @@ Make sure to pay a little Zenny to eat a meal before you go on quests. If you ge
 Once you hit 4★ Moga Village quests, you unlock the Tundra. Make sure to grab some Stormsender Seeds on your first journey. You will grow these on your farm to sell for Zenny.
 
 > Make sure your combine rate is 100%! The last thing you want is to waste your items by creating Garbage.
+> 
 > Combo Plus may be very useful as well. Sap Plant and Iron Ore makes 2 Bomb Casings.
-> Buy a copy of Combo Book 1 and 2 from the Gal with the Goods. 
+> 
+> Buy a copy of Combo Book 1 and 2 from the Gal with the Goods.
+> 
 > If you're just in your room making hunt supplies, putting on full Chainmail can be a big help.
 
 ## The Moga Mogul Empire
