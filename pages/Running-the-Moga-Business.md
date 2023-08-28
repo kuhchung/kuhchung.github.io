@@ -13,11 +13,11 @@ I wanted to talk about how to get started in the early game to ease the journey.
 
 I know everyone's excited to play online, but I personally always like to start my journey in offline mode. Moga has one exclusive monster (Ceadeus) that you will need in the end, and two very important items in the game can only be farmed efficiently here. So here we go!
 
-> Deserted Island Area 7
+> Deserted Island Area 3 or 5
 > 
 > Always collect Spider Webs.
 > 
-> Spider Webs make Nets, which can be duped, but grabbing 2-3 every time you're going through area 7 of Deserted Island really adds up. I always gather the bug node that yields these spider webs or Insect Husks (boo.)
+> Spider Webs make Nets, which can be duped, but grabbing 2-3 every time you're going through area 3 or 5 of Deserted Island really adds up. I always gather the bug node that yields these spider webs or Insect Husks (boo.)
 > 
 > You can also trade for Spider Webs at the trading post in Loc Lac, but that requires a different annoying sidequest: carving bugs and ants for Monster Fluid. I prefer just whipping out the Bug Net.
 > 
