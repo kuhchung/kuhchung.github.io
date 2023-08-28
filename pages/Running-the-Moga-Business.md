@@ -30,7 +30,7 @@ TODO: Picture of webs
 
 When you need Resources or want to freehunt for the joy of it, grab more Spider Webs on every trip. I like to freehunt when the latest monster shows up in the forest, when it's Herbivores Breeding (Super Dung can only be gotten via freehunt this way), or when it's Abundant Commodities.
 
-Capturing a boss monster yields some extra Resources, but it may not be worth the traps, tranqs, lack of carves, time, and effort.
+Capturing a boss monster yields some extra Resources and an extra Commodity, but it may not be worth the traps, tranqs, lack of carves, time, and effort.
 
 Progress through the game fulfilling Junior's sidequests. When the Argosy Captain arrives, trade your rare Commodities to upgrade the Fishing Fleet so that you unlock the location Moga Shallows.
 
