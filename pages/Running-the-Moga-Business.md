@@ -74,6 +74,7 @@ At about this point, you should have some farms upgraded all the way (10 days) a
 <img src="images/sale.png" width="48%">
 <p float="left">
 
+> The blue arrow pointing upwards is good for you, whether on your own Commodities screen or the Argosy Captain's.  
 
 The Stormsender Seeds, you can just hit sell all to make a nice chunk of change - about 30,000z every cycle. Stormsenders aren't the highest-selling item you can farm, but the Resources-to-Zenny efficiency can't be beat.
 <p float="left">
