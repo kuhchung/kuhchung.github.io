@@ -23,7 +23,10 @@ I know everyone's excited to play online, but I personally always like to start 
 > 
 > Ultimately, you want to dupe entire stacks of nets with a friend.
 
-TODO: Picture of webs
+<p float="left">
+<img src="images/deserted-island-spider-webs-3.png" width="98%">
+<img src="images/deserted-island-spider-webs-5.png" width="98%">
+<p float="left">
 
 > Collect Dung when convenient  
 > If you're in area 8 (for example, capturing a Rathian), after the hunt is over, grab some Dung from the poop pile. Dung is useful!  
@@ -39,7 +42,11 @@ Progress through the game fulfilling Junior's sidequests. When the Argosy Captai
 > White bug spots can spawn in this area. If they do, gather them!  
 > They always fetch with Thunderbugs (yay!) and Gluehoppers (probably yay!)  
 
-TODO: Picture
+<p float="left">
+<img src="images/sandy-plains-thunderbugs-1.png" width="98%">
+<img src="images/sandy-plains-thunderbugs-2.png" width="98%">
+<p float="left">
+
 
 Make sure to pay a little Zenny to eat a meal before you go on quests. If you get Crazy Lucky Cat, take the hunt with the highest Zenny reward! This is always going to be a capture quest. I did a lot of Qurupeco, Ludroth, and Rathian capturing as I continued to rank up in village.
 
@@ -57,12 +64,23 @@ Once you hit 4★ Moga Village quests, you unlock the Tundra. Make sure to grab 
 
 At about this point, you should have some farms upgraded all the way (10 days) and probably 2 boats with access to Moga Shallows, as well as some Commodities under your belt to trade. Here is what I do:
 
-- Set the Argosy Captain to visit only the farming location for the shortest journey.  
+- Set the Argosy Captain to visit only the farming location for the shortest journey until you get the discount(s) you want.  
 - When Fish Finder is on discount, trade all my common commodities to stockpile them! Even better if something of ours sells for extra value.  
 - Plant Stormsender Seeds with Dung.  
 - Send your boats to Moga Shallows and use Fish Finder.  
 
-The Stormsender Seeds, you can just hit sell all to make a nice chunk of change - about 22,000z (TODO: double check, screenshot) Zenny every cycle. Stormsenders aren't the highest-selling item you can farm, but the Resources-to-Zenny efficiency can't be beat.
+<p float="left">
+<img src="images/de-wa-come-back-soon.png" width="98%">
+<img src="images/sale.png" width="98%">
+<p float="left">
+
+
+The Stormsender Seeds, you can just hit sell all to make a nice chunk of change - about 30,000z every cycle. Stormsenders aren't the highest-selling item you can farm, but the Resources-to-Zenny efficiency can't be beat.
+<p float="left">
+<img src="images/stormsender-sow.png" width="98%">
+<img src="images/stormsender-harvest.png" width="98%">
+<p float="left">
+
 
 And to replenish resources without free hunting, collect all of the fish that your ships get from Moga Shallows, visit Junior, and generate Resources out of all of them besides Scatterfish. Scatterfish are priceless. Hang onto them!
 
@@ -114,8 +132,9 @@ Nya!
 - Bird Wyvern Fang (Pierce S Lv1 combine)
 - Pin Tuna (Pierce S Lv2 combine)
 - Wyvern Claw (Lifepowder and Clust S Lv2 combine)
+- Sleepyfish (Sleep Lv2 combine)
 - Dragon Toadstool (Immunizer combine)
-- Drugged Meats
+- Drugged Meat
 - Tinged Meat
 - Raw Meat
 
