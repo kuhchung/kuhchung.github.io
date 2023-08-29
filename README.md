@@ -11,6 +11,7 @@ Let's do this!
 [Be a good teammate](pages/Being-a-Good-Teammate.md)  
 [Random mechanics about the game](pages/Misc.md)  
 [My notes on monsters](pages/hunters-notes)  
+[Progressing offline and getting rich](pages/Running-the-Moga-Business.md)  
 
 If you want to look at armor sets I've collated, [here they are.](pages/armory/index.md)
 
