@@ -22,3 +22,5 @@ These have been independently tested and confirmed.
     * So find the useful consumables in your box and start giving them to a friend! Mega Nutrients, Sonic Bombs, Nets, Flash Bombs, Bomb Casings... there are so many great consumables.
     * When you're done, quit the game and do not save :)
     * Make sure the item receiver *does* save. Otherwise, they owe you a coke. I don't make the rules.
+* Monster roars double as sonic bombs. Kind of funny when one Diablos roars another out of the ground, for example.
+* The time of day of the hunt depends on when the quest was posted, not what the time of day is currently in the tavern! Very rare occurrence, but it does happen.
