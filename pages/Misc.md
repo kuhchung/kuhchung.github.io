@@ -16,6 +16,7 @@ These have been independently tested and confirmed.
 * Might Pill
     * The biggest consumable attack buff in the game. This lasts 15 seconds. Eat this and eat a might seed while the pill is still active to extend it to 3 minutes (5 minutes with Lasting Power.) 
 * Stat Atk Up and Felyne Specialist stack.
+* Sharpness color does not affect Status hits like it does raw and elemental.
 * Duping items (legitimately and for great profit!)
     * This requires two players.
     * Any item that is lower than RARE4 can be given to another player.
