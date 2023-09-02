@@ -1,6 +1,6 @@
 # <img src="icons/jhen-mohran.png" width="32px"> Hunter’s Notes - Jhen Mohran <img src="icons/jhen-mohran.png" width="32px">
 
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance, <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword  
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword, <img src="icons/MH3icon-Lance.png" width="20px"> Lance  
 Elemental Weakness: <img src="icons/-status-Dragonblight.png" width="20px"> Dragon or <img src="icons/-status-Iceblight.png" width="20px"> Ice
 
 TODO: picture
