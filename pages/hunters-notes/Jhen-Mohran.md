@@ -63,6 +63,8 @@ Staggering his chin twice will cause him to flop over. The noobs will go into Jh
 
 <img src="images/Jhen-mouth.png" />
 
+> Why would hunters go inside the mouth to carve? Are they stupid?
+
 If Jhen is going to belly flop the ship, the gong will also cause an instant falldown like a double chin stagger.
 
 The dragonator will reload and eventually be available for you once more.
@@ -73,6 +75,8 @@ Not many tips here... and by no means am I an expert. But this works for me in c
 The safest place I've discovered is underneath/around Jhen's right armpit (our left, looking at him face on from the ship.) His chin is actually one gigantic hitzone, and hitting the armpit and toward his face will register as a chin hit. Hitting toward the tail is worthless.
 
 <img src="images/Jhen-armpit.png" />
+
+> Jhen shaves his pits.
 
 Just like when you're on the spine, you can tell if you've done the Good Thing by whether or not your attack feels resistance.
 
