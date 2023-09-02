@@ -31,6 +31,8 @@ There are probably many ways to tackle it, but here is a simple breakdown that s
 ### Shipside - Right
 Jhen Mohran starts to the right of the ship. He will always open with 3 (is that accurate?) rock tosses while the hunters put some cannonballs into him or gather some ballista ammo. Then, he will do a tackle into the ship. Goabie's recommendation: bind this! Everyone else, keep dealing damage, either by hitting his arm, or by firing ballistas or cannonballs.
 
+The tackle can also be Dragonator'ed, but I have not done this myself and don't know the timing. Also I imagine a miscommunication can ruin this (say if the binder just binds it.)
+
 When Jhen is to the right of the ship, he will continuously tackle it. If you're on top of his back, be on the far side if you don't want to get thrown back onto the ship while eating some damage.
 
 ### Shipside - Left
