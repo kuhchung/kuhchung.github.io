@@ -57,7 +57,7 @@ jhen Mohran returns to the right side, but he surfaces adjacent to the ship. You
 ## Final Showdown
 Jhen begins a crawl toward the ship. Once he gets to it, he will begin belly flopping, rock slamming, everything. If the ship loses all of its hp, you will fail the quest!
 
-Any stagger will repel Jhen for a moment, giving you a respite. It is in this face that we finally have access to his mouth hitzone (unless you're a spicy pierce gunner.)
+Any stagger will repel Jhen for a moment, giving you a respite. It is in this phase that we finally have access to his mouth hitzone (unless you're a spicy pierce gunner.)
 
 Staggering his chin twice will cause him to flop over. The noobs will go into Jhen's mouth to carve. The cool people will stay by his face and attack the relevant hitzone with I think 3 Greatsword lvl 3 charges and a lvl 3 smash.
 
@@ -70,7 +70,7 @@ If Jhen is going to belly flop the ship, the gong will also cause an instant fal
 The dragonator will reload and eventually be available for you once more.
 
 ## Evasion and avoidance
-Not many tips here... and by no means am I an expert. But this works for me in casual lobbies, which is all I do.
+Not many tips here... and by no means am I an expert. But this works for me in casual lobbies, which is all I do. If you want to fortify heroics solo Jhen, seek another guru :)
 
 The safest place I've discovered is underneath/around Jhen's right armpit (our left, looking at him face on from the ship.) His chin is actually one gigantic hitzone, and hitting the armpit and toward his face will register as a chin hit. Hitting toward the tail is worthless.
 
