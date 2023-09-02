@@ -50,7 +50,7 @@ When Jhen moves to the front of the ship, you need to hit him with the Dragonato
 > If someone else is hitting the Dragonator, show your utmost faith in them by standing at the bow of the ship and cheering!
 
 ### Shipside - Right
-jhen Mohran returns to the right side, but he surfaces adjacent to the ship. You can jump on early as soon as he appears. 
+jhen Mohran returns to the right side, but he surfaces adjacent to the ship. You can jump on early onto his back as soon as he appears, instead of waiting to climb onto his brace. 
 
 ## Final Showdown
 Jhen begins a crawl toward the ship. Once he gets to it, he will begin belly flopping, rock slamming, everything. If the ship loses all of its hp, you will fail the quest!
