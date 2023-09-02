@@ -44,6 +44,7 @@ The rest of this part, you can just stay on his spine and whale on the whale. If
 When Jhen moves to the front of the ship, you need to hit him with the Dragonator or else lose out on the damage while your boat takes a big chunk instead. The timing is when he jumps out from the sand for the first time as he approaches the ship. It may be earlier than you expect if you were to try it for the first time.
 
 <img src="images/Jhen-shipside-front-dragonator.png" />
+
 > Hit the Dragonator at about this point. It doesn't have to be *too* precise.
 >
 > If someone else is hitting the Dragonator, show your utmost faith in them by standing at the bow of the ship and cheering!
