@@ -14,7 +14,7 @@ Jhen Mohran has a few hitzones that are very effective: the rock cracks, a parti
 
 In addition, you are given 2 dragon bombs at the start of the hunt, and ballista ammo and cannonballs to try and break his tusks. If your gear is not on par (HR 51+), you may be better off manning and using the ship's defenses.
 
-Greatsword and Lance are the two weapons that can really unload damage into Jhen's spine, even after the rock is broken! This is the area you want to hit:
+Greatsword and Lance are the two weapons that can really unload damage into Jhen's spine, even after the rock is broken! Aim for the highest part of the crack, and toward his tail until you feel comfortable with where it is. This is roughly the area you want to hit:
 
 <p float="left">
 <img src="images/Jhen-spine-hitzone.png" width="48%" />
