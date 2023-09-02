@@ -14,7 +14,7 @@ Rage Tells: BIG, RED, AND SPICY!
 Bring drugged meat and tinged meat. Bring Large Barrel Bomb+s.
 
 ## On the subject of spiked meats
-Deviljho rarely (never?) has two consecutive 90 degree turns in its moveset, like the Raths or Qurupeco. But when he *does* do it, he is heading for some spiked meat. Do not stagger him out of it!
+Deviljho rarely (never?) has two consecutive 90 degree turns in its combat moveset, like the Raths or Qurupeco. But when he *does* do it, he is either heading for some spiked meat or zoning. Do not stagger him out of eating if you can help it!
 
 If you *do* stagger him out of it, either on his way to eating or in the process of eating, he will never go for that specific piece of meat again.
 
