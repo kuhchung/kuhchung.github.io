@@ -74,6 +74,7 @@ At about this point, you should have some farms upgraded all the way (10 days) a
 <img src="images/sale.png" width="48%">
 <p float="left">
 
+> The blue arrow pointing upwards is good for you, whether on your own Commodities screen or the Argosy Captain's.  
 
 The Stormsender Seeds, you can just hit sell all to make a nice chunk of change - about 30,000z every cycle. Stormsenders aren't the highest-selling item you can farm, but the Resources-to-Zenny efficiency can't be beat.
 <p float="left">
@@ -103,7 +104,7 @@ Now that you aren't constantly going broke forging armors and weapons, it might 
 ## Cycling your days
 Once your farm and fish empire is running, *always* sleep at night. This allows your boats and farm to advance another half day, accelerating their output.
 
-In order to advance from day to night, you have to either freehunt or go on a quest that takes at least two minutes (TODO: test or get a source on this.) If you go to freehunt, grab Spider Webs (area 7), grill some Rare or Well-Done Steaks (up to you), grab some Dung, and return to Moga Village. If it didn't turn to nighttime, go back out and spend a little longer.
+In order to advance from day to night, you have to either freehunt or go on a quest that takes at least two minutes (TODO: test or get a source on this.) If you go to freehunt, grab Spider Webs (area 3 or 5), grill some Rare or Well-Done Steaks (up to you), grab some Dung, and return to Moga Village. If it didn't turn to nighttime, go back out and spend a little longer.
 
 ## Welcome to the city! We have markets!
 <p float="left">
