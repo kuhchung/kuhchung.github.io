@@ -34,7 +34,7 @@ After escaping a sonic bomb or a pitfall trap, Diablos will fly into the air and
 If Diablos still has at least one horn, it can get caught on a lot of environmental objects. These are:
 - Area 8 - the two stone/ant pillars and one of the sand banks (you have to be on top of it to lure it.) Don't bother climbing the sand bank one.
 - Area 9 - the big sand pillar.
-- Area 4 - the stony jaggi (?) nest
+- Area 4 - the stony jaggi (?) nest  
 These objects have invisible HP. If Diablos has ever hit them before (including getting caught on one of them), the next hit will break right through it.
 
 It's fairly impractical to take advantage of the environmental effects in large groups, but it can definitely be nice opportunistically in a small lobby.
