@@ -17,7 +17,7 @@ Rage tells: Speedup, fire in mouth
 Bring sonic bombs and pitfall traps.
 
 ## Sonic bombing
-You can only sonic the lava shark leaping on his very final dive. It's always an odd number as far as I know. Up to 7.
+You can only sonic the lava shark leaping on his very final dive. It's always an odd number as far as I know. Up to 7 if raged (unsure about non-rage)... I would go for it at 3.
 
 Like all monsters, you cannot sonic him when raged.
 
