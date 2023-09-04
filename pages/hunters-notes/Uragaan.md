@@ -26,3 +26,4 @@ The hurtbox of the quad chin pound is actually very small.
 
 No evasion required to dodge his roar.
 
+His bombs take time to detonate if left alone. Just... just don't be near them, especially if you're in adrenaline. Don't ask me how I know.
