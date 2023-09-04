@@ -46,6 +46,8 @@ When you score a KO, you have time for a triple, roll out, sheathe, then speedse
 ## Breaking the claws
 Breaking one of barioth’s claws may cause him to slip in future movements. His curved jumps are much less threatening now. If you break both, every jump, and every high air swooping lunge will be a guaranteed slip or spinout. He will also drop a shiny on the spinouts.
 
+Note that his wall jump attack actually *gains* in distance from the spinout attack, so you can't hug him too closely on the landing.
+
 ## Trapping
 Barioth flies into the air after breaking a pitfall trap, which means a flash will stagger it to the floor. The downside is that he will be in flashed status and go crazy once he finally gets to his feet. At least you can use this time to sharpen or something.
 
