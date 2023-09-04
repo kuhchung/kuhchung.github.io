@@ -41,4 +41,5 @@ Standard turnapound. Stand behind Rathalos, and release the superpound as he beg
 When knocked out and going for triple pounds, make sure not to stand under the wing that is up. Go to where the wing is down.
 
 ## Preparation
-Bring dung bombs for Double Trouble, and hope they work! The raths are very sticky and stubborn, and they like to be together!
+Bring dung bombs for Double Trouble, and hope they work! The raths are very sticky and stubborn, and they like to be together!  
+Bring 5 flash bombs.
