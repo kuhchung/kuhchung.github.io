@@ -15,6 +15,8 @@ Rage Tells: Speedup, black smoke
 ## Preparations
 Bring sonic and flash bombs.
 
+Its roar is high grade with a very long freeze duration, but has a very low chip value when blocked.
+
 ## Damage
 Attack the belly, even with the hammer. (Don't bring a hammer.)
 
