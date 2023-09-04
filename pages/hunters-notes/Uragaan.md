@@ -22,7 +22,7 @@ On his rock bomb throw, there is a safe point right in the middle of the circle 
 
 Just like Agnaktor, his quad chin pound is considered a single attack. If you are guard lancing, smash right through it and attack through his animation!
 
-The hurtbox of the quad chin pound is actually very small.
+The hurtbox of the quad chin pound is actually very small in front.
 
 No evasion required to dodge his roar.
 
