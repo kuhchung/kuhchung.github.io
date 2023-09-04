@@ -478,6 +478,11 @@ Available Slots:  O x3(/4), OOO x2; (Talisman)
 
 ---
 
+Akiko's Ice Elemental Status Blend
+(TODO: writeup and model)
+
+---
+
 ## Status Melee Sets
 
 Note: These are very, very flexible. Mine are just some simple examples.
