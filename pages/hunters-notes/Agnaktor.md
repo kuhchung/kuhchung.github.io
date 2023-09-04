@@ -39,6 +39,8 @@ All 4 claws must be broken for a claw break reward.
 
 Beaks are only available through breaks.
 
+Tails must be carved off of a tailcut.
+
 ## Status
 I actually do not like paralysis in this fight. Due to his armor hardening mechanic, it may be totally wasted.
 
