@@ -29,7 +29,7 @@ Like all monsters, Diablos cannot be sonicked when raged.
 
 A funny thing can happen if you pile on a bunch of damage while Diablos is not raged, and it digs. If you try to sonic bomb it, it may simply jump right back up and enter rage. You did not miss the sonic bomb. The game had Diablos in rage mode but simply did not give you the visual cue until just now. This is speculation as to how the game's logic is working, but I have seen this many times.
 
-After escaping a sonic bomb or a pitfall trap, Diablos will fly into the air and descend. This is a ripe opening for a flash bomb. The timing with lance is approximately 3 triple stabs before you have to sheathe and toss the flash.
+After escaping a sonic bomb or a pitfall trap, Diablos will fly into the air and descend. This is a ripe opening for a flash bomb. The timing with lance is approximately 3 triple stabs before you have to sheathe and toss the flash. If you are a status user, please take over this responsibility and let your damage dealers deal damage.
 
 If Diablos still has at least one horn, it can get caught on a lot of environmental objects. These are:
 - Area 8 - the two stone/ant pillars and one of the sand banks (you have to be on top of it to lure it.) Don't bother climbing the sand bank one.
