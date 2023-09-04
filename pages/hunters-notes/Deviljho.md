@@ -13,6 +13,8 @@ Rage Tells: BIG, RED, AND SPICY!
 ## Preparations
 Bring drugged meat and tinged meat. Bring Large Barrel Bomb+s.
 
+His roar is high grade and very wide ranging.
+
 ## On the subject of spiked meats
 Deviljho rarely (never?) has two consecutive 90 degree turns in its combat moveset (think like the Raths or Qurupeco's turn turn.) But when he *does* do it, he is either heading for some spiked meat or zoning. Do not stagger him out of eating if you can help it!
 
