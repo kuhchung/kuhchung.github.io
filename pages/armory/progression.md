@@ -10,7 +10,7 @@ Highly WIP.
 
 - [HR0-8/Village1\*-3\*](#hr0-8village-1-3)
 - [HR9-18/Village4\*](#hr9-18village-4)
-- [HR19-30/Village5\*](#hr19-30village-4)
+- [HR19-30/Village5\*](#hr19-30village-5)
 - [Village6\*](#village-6)
 
 ## HR0-8/Village 1\*-3\*
