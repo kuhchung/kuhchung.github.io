@@ -4,6 +4,8 @@ Welcome to my armory! This is a compilation of useful endgame loadouts that I ei
 
 My goal for all of these sets is to *not* dictate what talismans you must use, whenever possible. Greatsword users, beware. You're gonna need a tali.
 
+Not endgame HR yet but still looking for some armor? Try [progression](progression.md).
+
 ## Contents
 
 - [General Melee Sets](#general-melee-sets)
