@@ -47,7 +47,7 @@ Evasion+1 will make this fight a lot more comfortable, but if you're positioned 
 
 His feet are very active in chipping and tripping you. Very annoying.
 
-On his dig attacks, he will predict your current trajectory and then leap to where you will be. Either superman dive, or bank a hard turn and he will miss you completely.
+On his double thump dig leap attack, he will predict your current trajectory and then leap to where you will be. Either superman dive, or bank a hard turn and he will miss you completely.
 
 ## Reward Oddities
 The only way to get a Stout horn is by breaking both horns and then hoping to roll the 3% drop. This is one of the rarest drops in the game!
