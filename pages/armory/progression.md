@@ -14,7 +14,7 @@ Highly WIP.
 - [Village6\*](#village-6)
 - [HR31-40](#hr31-40)
 - [HR41-50](#hr41-50)
-- [HR51+](#hr51+)
+- [HR51+](#hr51)
 
 
 ## HR0-8/Village 1\*-3\*
