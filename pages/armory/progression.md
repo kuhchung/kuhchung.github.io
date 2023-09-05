@@ -97,6 +97,8 @@ Jaggi+
 
 Alloy+ (S-tier)
 
+Two low piece Bnahbrah mix (link to armory)
+
 Barroth+ (pieces endgame viable)
 
 Rathian+ (TODO: provide mix)
