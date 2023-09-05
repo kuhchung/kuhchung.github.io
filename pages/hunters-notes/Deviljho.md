@@ -46,6 +46,8 @@ He gains dragonbreath when raged. This does not require evasion+1 to dodge throu
 
 His roar does not require evasion+1 to dodge either. Actually, most of his attacks do not _require_ it, but evasion unlocks some easier timings. His hipcheck, if you are too far at the end of his attack animation, cannot be evaded properly for example.
 
+If you break his face when he's raged, he will lunge forward like Barioth.
+
 ## Status effects
 When Deviljho is exhausted, if he hits you with a swipe from his drooling mouth, you are going to be afflicted with defense down. This can be counteracted by eating an adamant seed. You can also just ignore it and keep on fighting.
 
@@ -57,3 +59,6 @@ I don't like bringing status weapons to this fight. One sleep and one para via m
 
 If you set off smoke bombs and place a drugged meat while he hasn't noticed anyone, he will 100% (?) go for it. This only works for World Eater for whatever reason.
 I've seen it glitch out with two drugged meats placed. He seems to go for one, then stops and moves to the other, and then doesn't perform the eating animation af.ter all. So only place one.
+
+## Early Deviljho
+Deviljho invades a lot of hunts as soon as high rank starts (Qurupeco surprise!) But the [Advanced] Jaggia Menace quest will guarantee spawn a Deviljho in area 5 (around the white stone path) at 46:30 on the quest timer. Once the first Deviljho has been defeated or killed and his corpse disappears, a second one will spawn in. A lot of early players like this quest, especially if they have higher ranked teammates to carry them through it. This allows players to make an early partial Vangis set as early as HR40+. TODO add progression set to armory and link it.
