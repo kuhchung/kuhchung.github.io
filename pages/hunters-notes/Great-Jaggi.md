@@ -27,7 +27,7 @@ I personally think Great Jaggi can be summarized into four lessons:
 ### You are safer than you think
 When I played, and when I watched my wife first play, everything is scary. EVERYTHING. I constantly rolled around with my sword and shield drawn, scared of any twitch that Great Jaggi would make. As it turns out, if you are not committing to any sort of attack, you are fairly safe! With your weapon sheathed and the ability to run, almost everything in the game is simply "run out of the way-able." Don't be *too* frightened, and know that even scary looking attacks like Qurupeco's flint fire claps can be maneuvered around by simply crawling with your lance drawn.
 
-Of course, you won't get anywhere without attacking. But if you ever need a breather, put your weapon away, and nothing can hurt you.
+Of course, you won't get anywhere without attacking. But if you ever need a breather and a potion, put your weapon away, and nothing can hurt you.
 
 ### You cannot potion freely
 Great Jaggi has two idles, and I genuinely thought one of them was an attack. He can howl and summon jaggis, or he can swipe his feet twice, push his head forward, and growl. That is not an attack!
