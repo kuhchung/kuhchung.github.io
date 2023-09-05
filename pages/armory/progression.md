@@ -15,11 +15,15 @@ Highly WIP.
 
 ## HR0-8/Village 1\*-3\*
 
-Leather (S-tier)
+Leather (S-tier). 
 
-Chainmail
+Chainmail (for combining at home and fishing quests)
 
-Hunter
+Hunter if you like
+
+Buy the above 3 from the Outfitter.
+
+---
 
 Alloy (S-tier)
 
