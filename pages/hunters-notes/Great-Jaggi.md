@@ -63,3 +63,8 @@ This will come with time. Every monster has movements that can be exploited, des
 
 Good hunting!
 
+## But where are the Great Jaggi tips?
+Okay okay, try this one from Akiko:
+
+If you're using SnS, wield the torch to keep the little jaggis away!
+
