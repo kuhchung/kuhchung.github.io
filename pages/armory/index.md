@@ -1,6 +1,6 @@
 # The Armory
 
-Welcome to my armory! This is a compilation of useful loadouts that I either discovered or was given. If you're looking for a functional set, look no further!
+Welcome to my armory! This is a compilation of useful endgame loadouts that I either discovered or was given. If you're looking for a functional set, look no further!
 
 My goal for all of these sets is to *not* dictate what talismans you must use, whenever possible. Greatsword users, beware. You're gonna need a tali.
 
@@ -555,23 +555,3 @@ There are still five slots left in the armor, and I haven't even included a tali
 If you have Bomb Boost +5 SpeedSetup +10 tali, you can even leave off the Uragaan Helm+.
 
 ---
-
-### Low Rank Lagi
-<p float="left">
-<img src="images/low-rank-lagi-gunner.png" width="48%">
-<img src="images/low-rank-lagi-gunner-skills.png" width="48%">
-<p float="left">
-Active Skills:  Normal S Boost, Element Atk Up, Olympic Swimmer, Status Atk Down  
-  
-Available Slots:  O x1, OO x4; (Weapon); (Talisman)
-
-<img src="images/MH3icon-1-Head.png" width="16px"> Lagiacrus Cap | OO  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest | O  
-<img src="images/MH3icon-3-Arms.png" width="16px"> Lagiacrus Guards | OO  
-<img src="images/MH3icon-4-Waist.png" width="16px"> Lagiacrus Coat | OO  
-<img src="images/MH3icon-5-Legs.png" width="16px"> Lagiacrus Leggings | OO  
-
-Low Rank elemental gunning goodness. Lagiacrus is so flexible.
-
----
-
