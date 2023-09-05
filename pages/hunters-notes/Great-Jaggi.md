@@ -4,8 +4,8 @@
 <img src="images/great-jaggi.png" width="48%">
 <p float="left">
 
-Goabie's Weapon Recommendations: Whatever you like!
-Elemental Weakness: <img src="icons/-status-Firelight.png" width="20px"> Fire
+Goabie's Weapon Recommendations: Whatever you like!  
+Elemental Weakness: <img src="icons/-status-Fireblight.png" width="20px"> Fire
 
 TODO: Flavor text
 
