@@ -29,7 +29,7 @@ Alloy (S-tier)
 
 Jaggi
 
-Qurupeco (anti-recommend)
+Qurupeco (not immediately useful... kind of anti-recommend)
 
 Bnahbrah Alloy mix (for multiplayer, solo anti-recommend)
 
