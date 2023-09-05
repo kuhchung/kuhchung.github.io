@@ -11,6 +11,13 @@ Afflictions: <img src="icons/-status-Fireblight.png" width="20px"> / <img src="i
 
 Rage Tells: Speedup, black smoke from nose
 
+## Preparations
+Bring flash bombs and pitfall traps (but you should always have traps.)
+
+In low rank, there are poison knives in the supply box. I love them :)
+
+Its roar is standard grade and fairly wide range.
+
 ## Trapping
 Pit into flash
   * If you load 10 pierce 1, when Uragaan is pitted and unraged, you can unload 20 shots before sheathing and flash bombing his roar. If raged, you can get 15.
