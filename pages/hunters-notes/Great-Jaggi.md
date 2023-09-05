@@ -1,4 +1,4 @@
-# <img src="icons/great-jaggi.png" width="32px"> Hunter’s Notes - Great Jaggi <img src="icons/Great-Jaggi.png" width="32px">
+# <img src="icons/great-jaggi.png" width="32px"> Hunter’s Notes - Great Jaggi <img src="icons/great-jaggi.png" width="32px">
 
 <p float="left">
 <img src="images/great-jaggi.png" width="48%">
