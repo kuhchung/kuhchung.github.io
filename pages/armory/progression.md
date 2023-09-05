@@ -113,7 +113,7 @@ Baggi+/Diablos+ mix/overforge
 
 Rathalos overforge
 
-Weapons to build: Iron Impact, Thundacrus Rex frame, Sabertooth (G), Nardebosche, Almighty Dahaka, Morpheus Knife, Dancing Hellfire
+Weapons to build: Iron Impact, Thundacrus Rex frame, Sabertooth (G), Nardebosche, Almighty Dahaka, Morpheus Knife, Dancing Hellfire, Agnaktor Firelance
 
 ## HR51+
 Check out the [Armory](index.md).
