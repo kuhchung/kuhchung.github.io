@@ -49,6 +49,8 @@ Rathalos (upgrade to jaggi/barroth)
 
 Lagiacrus
 
+---
+
 ### Low Rank Lagi Gunner
 <p float="left">
 <img src="images/low-rank-lagi-gunner.png" width="48%">
