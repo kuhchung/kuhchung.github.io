@@ -13,7 +13,7 @@ Highly WIP.
 - [HR19-30/Village5\*](#hr19-30-village-4)
 - [Village6\*](#village-6)
 
-## HR0-9/Village 1\*-3\*
+## HR0-8/Village 1\*-3\*
 
 Leather (S-tier)
 
