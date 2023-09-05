@@ -56,7 +56,7 @@ To truly become a dervish of whirling blades, you will have to recognize your op
 
 Oh shoot, I messed it up. Aw man, I can hit him at the end of this attack that he just hit me with!
 
-Notice how eating a hit costs you a hit in return (hand waving.) Greeding an extra hit, only to take a hit, is not worth it. [It is the monster's turn, and you should have exited](#It is the monster's turn, and you should have exited). And once you take enough hits, it costs you another turn to potion because [You cannot potion freely](#You cannot potion freely)
+Notice how eating a hit costs you a hit in return (hand waving.) Greeding an extra hit, only to take a hit, is not worth it. [It is the monster's turn, and you should have exited](#it-is-the-monsters-turn-and you-should-have-exited). And once you take enough hits, it costs you another turn to potion because [You cannot potion freely](#you-cannot-potion-freely)
 
 This will come with time. Every monster has movements that can be exploited, despite how deadly they may be. Manufacturing safe openings to attack will turn you from an Amnesiac into the Hero of Loc Lac.
 
