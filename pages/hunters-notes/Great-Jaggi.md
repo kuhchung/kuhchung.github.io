@@ -55,9 +55,9 @@ Wait, Great Jaggi's double tail swing doesn't actually have that much range, and
 To truly become a dervish of whirling blades, you will have to recognize your openings within a monster's moveset. You can hit Great Jaggi when it howls, and when it growls. But when we're behind it, it takes two 90 degree turns and doesn't do much. And apparently we can smack it when it tail whips... and at the end of its double forward bite...  in fact, with a lance, we can poke and counter through everything...
 
 ### Putting it all together
-Oh shoot, he hit me with an attack that I knew was coming. Aw man, I can hit him at the end of this attack that he just hit me with!
+Oh shoot, he hit me with an attack that I knew was coming. Aw man, I could've hit him at the end of this attack that he just hit me with!
 
-Notice how eating a hit costs you a hit in return (hand waving.) Greeding an extra hit, only to take a hit, is not worth it. [It is the monster's turn, and you should have exited](#it-is-the-monsters-turn-and-you-should-have-exited). And once you take enough hits, it costs you another turn to potion because [you cannot potion freely](#you-cannot-potion-freely).
+Notice how eating a hit costs you a hit in return because you lost that opportunity (hand waving.) Greeding an extra hit, only to take a hit, is not worth it. [It is the monster's turn, and you should have exited](#it-is-the-monsters-turn-and-you-should-have-exited). And once you take enough hits, it costs you another turn to potion because [you cannot potion freely](#you-cannot-potion-freely).
 
 This will come with time. Every monster has movements that can be exploited, despite how deadly they may be. Manufacturing safe openings to attack will turn you from an Amnesiac into the Hero of Loc Lac.
 
