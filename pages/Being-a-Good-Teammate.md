@@ -32,7 +32,7 @@ The difference between a good and bad teammate is night and day. Here’s how yo
     * Yes, everyone will forget the corresponding drink once in a while. But just do your best! These things should almost always be in your hunting pouch:
         * Traps
         * Tranquilizers
-        * Potions (Mega, Max, Ancient)
+        * Potions (Mega, Max)
         * Flash bombs or sonic bombs or both
         * Dung bombs (I’m guilty of not bringing this enough)
         * Hot or Cool Drinks, where applicable
