@@ -35,6 +35,9 @@ When raged, it is not safe to be overlapping his body when he is about to make h
 
 Like all monster tailwhips, you can evade through his without evasion+1.
 
+## Tailcut
+Once you stagger the tail, it will cut soon. Useful if you're trying to swipe stagger him out of the air.
+
 ## Turnapound
 Standard turnapound. Stand behind Rathalos, and release the superpound as he begins his first turn.
 
