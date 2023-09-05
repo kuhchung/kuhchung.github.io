@@ -12,6 +12,10 @@ Highly WIP.
 - [HR9-18/Village4\*](#hr9-18village-4)
 - [HR19-30/Village5\*](#hr19-30village-5)
 - [Village6\*](#village-6)
+- [HR31-40](#hr31-40)
+- [HR41-50](#hr41-50)
+- [HR51+](#hr51+)
+
 
 ## HR0-8/Village 1\*-3\*
 
@@ -37,11 +41,11 @@ Weapons to build
 
 ## HR9-18/Village 4\*
 
-Barroth (upgrade to Jaggi, skippable)
+Barroth (upgrade from Jaggi, skippable)
 
 Barroth gunner
 
-Rathian (skippable)
+Rathian (earplugs, skippable. TODO provide a set)
 
 Baggi for GS
 
@@ -74,11 +78,11 @@ Low Rank elemental gunning goodness. Lagiacrus is so flexible.
 
 ---
 
-Baggi Blos mix for GS
+Baggi Blos mix for GS. Requires crit draw talisman :(
 
-Diablos gunner
+Diablos gunner (requires Majestic horn)
 
-Barioth (upgrade to qurupeco, skippable)
+Barioth (upgrade from qurupeco, skippable)
 
 Weapons to build
 
@@ -87,3 +91,29 @@ Helios Lagi mix
 
 Weapons to build
 
+
+## HR31-40
+Jaggi+
+
+Alloy+ (S-tier)
+
+Barroth+ (pieces endgame viable)
+
+Rathian+ (TODO: provide mix)
+
+Weapons to build: Spiral Lance (B), High Sieglinde (P), pre-Iron Impact, Shadowbinder G or P, 
+
+## HR41-50
+
+Diablos+ Gunner
+
+Early Vangis
+
+Baggi+/Diablos+ mix/overforge
+
+Rathalos overforge
+
+Weapons to build: Iron Impact, Thundacrus Rex frame, Sabertooth (G), Nardebosche, Almighty Dahaka, Morpheus Knife, Dancing Hellfire
+
+## HR51+
+Check out the [Armory](index.md).
