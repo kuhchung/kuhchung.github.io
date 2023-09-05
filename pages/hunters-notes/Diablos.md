@@ -23,7 +23,7 @@ Attack the belly, even with the hammer. (Don't bring a hammer.)
 The hammer bounces off the head. If you want horn breaks, hit it with blades or bomb it.
 
 ## Traps and Environment
-When Diablos is not raged, you can sonic bomb it when it's underground. The timing for this is _very_ lenient, unlike Agnaktor.
+When Diablos is not raged, you can sonic bomb it when it's underground. The timing for this is _very_ lenient, unlike Agnaktor. You can do it pretty much whenever.
 
 Like all monsters, Diablos cannot be sonicked when raged.
 
