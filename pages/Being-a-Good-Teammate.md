@@ -13,6 +13,7 @@ The difference between a good and bad teammate is night and day. Here’s how yo
     * Same as the GS upswing. By the way, on land, this isn't even faster than running.
 * Shield Bash in the SnS combo
     * Sensing a theme here? Low value attacks that smash away teammates are bad! Besides, what does that 1 KO touch even do?
+* Uppercut and Wild Swing with the Switch Axe
 * Superpound grouped teammates
    * If teammates are whaling on a disabled monster, roll out of your charged superpound and go for a triple. Don't superpound your teammates!
 * Noob Carve
