@@ -619,6 +619,7 @@ Cap Total: Handicraft +15, Potential +5, Attack +16
 Since this is non earplugs, I use this set with a lance, but of course, you can do whatever you want. Even cart to Deviljho because it's just unfair without Evasion+1 and definitely not a skill issue.
 
 With Potential 6 OO and Sabertooth (G), this set (pictured) actually reaches AuL even with the Barroth Helm+! All the powah!
+
 ---
 
 ### Adrenaline No Handicraft
