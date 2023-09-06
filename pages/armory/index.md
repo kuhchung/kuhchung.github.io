@@ -569,7 +569,7 @@ These are my favorite sets (for carting.) Though honestly, having to give up tra
 
 My whole purpose with these, aside from having fun and carting stupidly, is to be able to eat a hit even when I'm in adrenaline thanks to the far sturdier defense of Barroth pieces instead of Black Leather Pants.
 
-Beware: these require good potential talismans.
+**Beware: these require good potential talismans.**
 
 ### Adrenaline Earplugs  
 <p float="left">
@@ -580,7 +580,7 @@ Active Skills:  Sharpness +1, Earplugs, Adrenaline +2
   
 Available Slots:  OO, OOO
 
-Weapon - O (handicraft1)  
+Weapon - O (Handicraft 1)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Barroth Helm+/Cap+ | OO  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces+ | OOO  
@@ -602,7 +602,7 @@ If you have a good Potential +5/6 C+10 talisman, feel free to run that for the e
 <img src="images/adrenaline-no-earplugs-helm+.png" width="48%">
 <img src="images/adrenaline-no-earplugs-cap+.png" width="48%">
 <p float="left">
-Active Skills:  Adrenaline+2, Sharpness+1, Attack Up M  
+Active Skills:  Adrenaline +2, Sharpness +1, Attack Up (M)  
   
 Available Slots:  OO, OOO; (Weapon)
 
@@ -624,19 +624,19 @@ With Potential 6 OO and Sabertooth (G), this set (pictured) actually reaches AuL
 
 ### Adrenaline No Handicraft
 
-Active Skills: Adrenaline+2, Marathon Runner, Attack Up M
+Active Skills: Adrenaline +2, Marathon Runner, Attack Up (M)
 
-Available Slots: OO, 3x O; (Weapon); (Talisman);
+Available Slots: OO, 3x O; (Weapon); (Talisman)
 
-<img src="images/MH3icon-1-Head.png" width="16px"> Barroth+ Helm - OO  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Barroth+ Mail  
-<img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces - O  
-<img src="images/MH3icon-4-Waist.png" width="16px"> Barroth+ Faulds - O  
-<img src="images/MH3icon-5-Legs.png" width="16px"> Barroth+ Greaves - O  
+<img src="images/MH3icon-1-Head.png" width="16px"> Barroth Helm+ | OO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Barroth Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces | O  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Barroth Faulds+ | O  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Barroth Greaves+ | O  
  
-Total: Potential16, Stamina10, Attack16
+Total: Potential +16, Stamina +10, Attack +16
 
-For those non Sharpness+1 weapons (Flame Tempest, Reaver "Calamity"). If you want lower defense but one extra slot, use the HR cap and the HR arms. Otherwise, the LR arms are nice and cheap (no Wyvern Stones required.)
+For those non Sharpness +1 weapons (Flame Tempest, Reaver "Calamity"). If you want lower defense but one extra slot, use the HR cap and the HR arms. Otherwise, the LR arms are nice and cheap (no Wyvern Stones required.)
 
 This is pretty niche, but is extremely flexible with all those slots and talisman unused.
 
