@@ -580,7 +580,7 @@ Active Skills:  Sharpness +1, Earplugs, Adrenaline +2
   
 Available Slots:  OO, OOO
 
-Weapon - O (handicraft1)
+Weapon - O (handicraft1)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Barroth Helm+/Cap+ | OO  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces+ | OOO  
