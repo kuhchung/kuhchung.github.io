@@ -639,6 +639,7 @@ Total: Potential16, Stamina10, Attack16
 For those non Sharpness+1 weapons (Flame Tempest, Reaver "Calamity"). If you want lower defense but one extra slot, use the HR cap and the HR arms. Otherwise, the LR arms are nice and cheap (no Wyvern Stones required.)
 
 This is pretty niche, but is extremely flexible with all those slots and talisman unused.
+
 ---
 
 ## Black Leather Pants Adrenaline
