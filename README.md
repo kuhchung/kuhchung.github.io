@@ -8,12 +8,12 @@ After returning to the game after a whole decade, I found myself relearning thin
 Let's do this!
 
 ## Articles
-[Be a good teammate](pages/Being-a-Good-Teammate.md)  
-[Random mechanics about the game](pages/Misc.md)  
 [My notes on monsters](pages/hunters-notes)  
+[Be a good teammate](pages/Being-a-Good-Teammate.md)  
 [Progressing offline and getting rich](pages/Running-the-Moga-Business.md)  
+[Random mechanics about the game](pages/Misc.md)  
 
-If you want to look at armor sets I've collated, [here they are.](pages/armory/index.md)
+If you want to look at **armor sets** I've collated, [here they are.](pages/armory/index.md)
 
 ## Resources
 Good external references:  
@@ -28,5 +28,5 @@ Good external references:
 [Goabie Guide YouTube](https://www.youtube.com/@GoabieGuide-st2gw/videos)  
 
 ## Credits
-Thanks to my longstanding suffering friend Esti for a ton of work on the Armory  
+Thanks to my longstanding suffering friend Esti for a ton of work on the Armory and Hunter's Notes  
 For any questions or feedback, please contact kuhchung on Discord
