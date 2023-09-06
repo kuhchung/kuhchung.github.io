@@ -8,9 +8,11 @@ Elemental Weakness: <img src="icons/-status-Thunderblight.png" width="20px"> Thu
 
 Afflictions:  <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px"> Fireblight, <img src="icons/-status-Poison.png" width="20px"> Poison
 
-TODO: Link videos demonstrating flash bombing
+**TODO: Link videos demonstrating flash bombing**
 
-TODO: Add Rathalos flavor text entry
+Monster Type : Flying Wyvern   
+Threat Level : ★★★★★   
+*Terrible wyverns called the "Kings of the Skies".  Together with Rathian, they stake wide territories centered around their nests.  Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.*
 
 Rage Tells: Speed up, fire in mouth
 

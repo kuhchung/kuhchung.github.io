@@ -599,8 +599,8 @@ If you have a good Potential +5/6 C+10 talisman, feel free to run that for the e
 
 ### Adrenaline No Earplugs
 <p float="left">
-<img src="images/adrenaline-no-earplugs.png" width="48%">
-<img src="images/adrenaline-no-earplugs.png" width="48%">
+<img src="images/adrenaline-no-earplugs-helm+.png" width="48%">
+<img src="images/adrenaline-no-earplugs-cap+.png" width="48%">
 <p float="left">
 Active Skills:  Adrenaline+2, Sharpness+1, Attack Up M  
   
@@ -628,12 +628,12 @@ Active Skills: Adrenaline+2, Marathon Runner, Attack Up M
 
 Available Slots: OO, 3x O; (Weapon); (Talisman);
 
-<img src="images/MH3icon-1-Head.png" width="16px"> Barroth+ Helm - OO
-<img src="images/MH3icon-2-Chest.png" width="16px"> Barroth+ Mail
-<img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces - O
-<img src="images/MH3icon-4-Waist.png" width="16px"> Barroth+ Faulds - O
-<img src="images/MH3icon-5-Legs.png" width="16px"> Barroth+ Greaves - O
-
+<img src="images/MH3icon-1-Head.png" width="16px"> Barroth+ Helm - OO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Barroth+ Mail  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces - O  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Barroth+ Faulds - O  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Barroth+ Greaves - O  
+ 
 Total: Potential16, Stamina10, Attack16
 
 For those non Sharpness+1 weapons (Flame Tempest, Reaver "Calamity"). If you want lower defense but one extra slot, use the HR cap and the HR arms. Otherwise, the LR arms are nice and cheap (no Wyvern Stones required.)
