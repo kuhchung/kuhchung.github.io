@@ -24,7 +24,8 @@ Good external references:
 
 ## Videos
 [microesti's Twitch (often featuring me)](https://www.twitch.tv/microesti)  
-[microesti's VODs](https://www.youtube.com/playlist?list=PL8je__JHk_lddoDGciGm48IEmH8239dfp)
+[microesti's VODs](https://www.youtube.com/playlist?list=PL8je__JHk_lddoDGciGm48IEmH8239dfp)  
+[Goabie Guide YouTube](https://www.youtube.com/@GoabieGuide-st2gw/videos)  
 
 ## Credits
 Thanks to my longstanding suffering friend Esti for a ton of work on the Armory  
