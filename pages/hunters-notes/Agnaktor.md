@@ -9,7 +9,9 @@ Elemental Weakness: Water <img src="icons/-status-Waterblight.png" width="20px">
 
 Afflictions: <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px"> Fire
 
-TODO: Flavor text
+Monster Type : Leviathan   
+Threat Level : ★★★★★   
+*Also known as fire-pike wyverns, Agnaktor use their tough beaks and great strenth to burrow through rock, and sometimes even cave ceilings.  Encrusted with hardened lava that can soften from the heat when they burrow or spit magma.*  
 
 Rage tells: Speedup, fire in mouth
 

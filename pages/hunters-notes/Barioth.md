@@ -8,7 +8,9 @@ Goabie's Weapon Recommendations: <img src="icons/MH3icon-Hammer.png" width="20px
 Elemental Weakness: <img src="icons/-status-Fireblight.png" width="20px"> Fire, then <img src="icons/-status-Thunderblight.png" width="20px"> Thunder  
 Afflictions: <img src="icons/-status-Iceblight.png" width="20px"> / <img src="icons/-status-Severe_Iceblight.png" width="20px"> Iceblight, <img src="icons/-status-Snowman.png" width="20px"> Snowman
 
-TODO: Barioth flavor text
+Monster Type : Flying Wyvern   
+Threat Level : ★★★★★   
+*Wyverns that rule the eternally frozen Tundra.  Barioth use their huge tusks and spiked scales to move freely atop the slippery ice; this ability makes them very difficult to keep up with.*
 
 TODO: Flash bomb timings. But I generally don’t use this because he is very annoying in the flashed state.
 

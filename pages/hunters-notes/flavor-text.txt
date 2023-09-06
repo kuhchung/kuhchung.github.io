@@ -1,6 +1,4 @@
-Great Jaggi - Bird Wyvern
-Threat Level : ★★★
-The commanding alpha male of Jaggi packs.  Most males leave the group upon reaching maturity, returning later to compete with others.  The dominant male then becomes a Great Jaggi.  Apparently, they can issue fairly complex orders via howling.
+*Great Jaggi
 
 Great Baggi - Bird Wyvern
 Threat Level : ★★★
@@ -10,9 +8,7 @@ Barroth - Brute Wyvern
 Threat Level : ★★★★
 Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud.  They will charge in a frenzy at anything that distrubs their bogs.
 
-Uragaan - Brute Wyvern
-Threat Level : ★★★★★
-Brute wyverns that feed on ore, using their mighty jaws to crush bedrock to powder.  They cleverly affix rocks and ore to their hides with lava, then cast them about, using vibrations to make them explode.  Will sometimes drop ore.
+*Uragaan
 
 Qurupeco - Bird Wyvern
 Threat Level : ★★★
@@ -22,21 +18,15 @@ Rathian - Flying Wyvern
 Threat Level : ★★★★
 Fire-breathing female wyverns, also known as the "Queen of the Land".  With powerful legs and poison-secreting tails, they hunt mainly on the ground.  Sometimes seen preying as a couple, Rathian cooperate well with Rathalos.
 
-Rathalos - Flying Wyvern
-Threat Level : ★★★★★
-Terrible wyverns called the "Kings of the Skies".  Together with Rathian, they stake wide territories centered around their nests.  Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.
+*Rathalos
 
-Diablos - Flying Wyvern
-Threat Level : ★★★★★
-Wyverns feared as desert tyrants.  Extremely territorial, Diablos attack invaders with blind aggression.  Highly sensitive to sound, perhaps because they frequently travel beneath the sand.  Known to feed on cacti.
+*Diablos
 
 Gigginox - Flying Wyvern
 Threat Level : ★★★★
 Wyverns that inhabit the Tundra.  Known to stun prey with poison, then freeze the meat in caves.  Gigginox live in darkness and thus have degraded vision; they detect prey through body heat.  Extremely fertile, laying innumerable eggs.
 
-Barioth - Flying Wyvern
-Threat Level : ★★★★★
-Wyverns that rule the eternally frozen Tundra.  Barioth use their huge tusks and spiked scales to move freely atop the slipery ice; this ability makes them very difficult to keep up with.
+*Barioth
 
 Royal Ludroth - Leviathan
 Threat Level : ★★★
@@ -50,22 +40,16 @@ Lagiacrus - Leviathan
 Threat Level : ★★★★★
 Known as sea wyverns, Lagiacrus are at top of the aquatic food chain.  Feared by sailors as the "Lords of the Seas", they store enough electricity in their spinal organs to make the oceans surge.  Occasionally seen resting on land.
 
-Agnaktor - Leviathan
-Threat Level : ★★★★★
-Also known as fire-pike wyvers, Agnaktor use their tough beaks and great strenth to burrow through rock, and sometimes even cave ceilings.  Encrusted with hardened lava that can soften from the heat when they burrow or spit magma.
+*Agnaktor
 
 Spoiler Warning.
 Ceadeus - Elder Dragon
 Threat Level : ★★★★★★
 Legendary elder dragons known as both "shining giants of the depths" and "great sea dragons."  Not confirmed to exist until recently.  The Moga quakes were due to a Ceadeus Butting its abnormally long horns into the earth.
 
-Deviljho - Brute Wyvern
-Threat Level : ★★★★★★
-The dreaded, nomadic Deviljho have no specific territory of their own.  Their muscles swell if provoked, revealing old wounds.  Needing to feed constantly due to high body heat, they can hunt nearby animals to extinction.
+*Deviljho
 
-Jhen Mohran - Elder Dragon
-Threat Level : ★★★★★★
-Rare ore can be mined from these enormous dragons' backs; thus they are considered prosperity symbols.  They swallow vast amounts of organic material and are always surround by scavenging Delex, which sailors use to locate them.
+*Jhen Mohran
 
 Alatreon - Elder Dragon
 Threat Level : ★★★★★★(★)

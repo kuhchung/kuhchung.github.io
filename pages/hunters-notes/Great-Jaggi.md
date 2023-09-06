@@ -7,7 +7,9 @@
 Goabie's Weapon Recommendations: Whatever you like!  
 Elemental Weakness: <img src="icons/-status-Fireblight.png" width="20px"> Fire
 
-TODO: Flavor text
+Monster Type : Bird Wyvern  
+Threat Level : ★★★  
+*The commanding alpha male of Jaggi packs.  Most males leave the group upon reaching maturity, returning later to compete with others.  The dominant male then becomes a Great Jaggi.  Apparently, they can issue fairly complex orders via howling.*
 
 Rage Tells: Speedup, white smoke
 

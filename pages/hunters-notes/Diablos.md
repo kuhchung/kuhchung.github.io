@@ -8,7 +8,9 @@
 Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance, <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword  
 Elemental Weakness: <img src="icons/-status-Iceblight.png" width="20px"> Ice
 
-TODO: Flavor text
+Monster Type : Flying Wyvern   
+Threat Level : ★★★★★   
+*Wyverns feared as desert tyrants.  Extremely territorial, Diablos attack invaders with blind aggression.  Highly sensitive to sound, perhaps because they frequently travel beneath the sand.  Known to feed on cacti.*
 
 Rage Tells: Speedup, black smoke
 

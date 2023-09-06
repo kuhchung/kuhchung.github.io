@@ -1,10 +1,15 @@
 # <img src="icons/jhen-mohran.png" width="32px"> Hunter’s Notes - Jhen Mohran <img src="icons/jhen-mohran.png" width="32px">
+<p float="left">
+<img src="images/jhen-mohran.png" width="48%">
+<img src="images/jhen-mohran-shipside.png" width="48%">
+<p float="left"> 
 
 Goabie's Weapon Recommendations: <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword, <img src="icons/MH3icon-Lance.png" width="20px"> Lance  
 Elemental Weakness: <img src="icons/-status-Dragonblight.png" width="20px"> Dragon or <img src="icons/-status-Iceblight.png" width="20px"> Ice
 
-TODO: picture
-TODO: Flavor text
+Monster Type : Elder Dragon   
+Threat Level : ★★★★★★   
+*Rare ore can be mined from these enormous dragons' backs; thus they are considered prosperity symbols.  They swallow vast amounts of organic material and are always surround by scavenging Delex, which sailors use to locate them.*
 
 ## Loc Lac is in peril! Hunters, assemble!
 Jhen Mohran threatens Loc Lac city every two weeks. Everything goes on sale and wares are expanded. Grab your thunderbugs, bomb casings, and other amazing hunt materials now!
