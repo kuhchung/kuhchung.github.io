@@ -27,7 +27,7 @@ I personally think Great Jaggi can be summarized into four lessons:
 ### You are safer than you think
 When I played, and when I watched my wife first play, everything is scary. EVERYTHING. I constantly rolled around with my sword and shield drawn, scared of any twitch that Great Jaggi would make. As it turns out, if you are not committing to any sort of attack, you are fairly safe! With your weapon sheathed and the ability to run, almost everything in the game is simply "run out of the way-able." Don't be *too* frightened, and know that even scary looking attacks like Qurupeco's flint fire claps can be maneuvered around by simply crawling with your lance drawn.
 
-Of course, you won't get anywhere without attacking. But if you ever need a breather and a potion, put your weapon away, and nothing can hurt you.
+Of course, you won't get anywhere without attacking. But if you ever need a breather and a potion, put your weapon away, and nothing can hurt you. Which leads us to our next topic...
 
 ### You cannot potion freely
 Great Jaggi has two idles, and I genuinely thought one of them was an attack. He can howl and summon jaggis, or he can swipe his feet twice, push his head forward, and growl. That is not an attack!
@@ -37,6 +37,8 @@ Once you realize that these are just free openings for you, you will naturally g
 The hunt is going well, and you've taken some damage. You want to potion. But every time you take a potion, you do that god damn flex! Why, oh why, do we flex when we potion! Oh shit, Great Jaggi just hit us with its hipcheck and our potion amounted to not much.
 
 *Taking a potion is equivalent to getting your strikes in.* You cannot do it whenever you want! You must have an opening, same as if you were attacking.
+
+You cannot potion freely.
 
 ### It is the monster's turn, and you should have exited
 I use the term exit freely. The idea is simple: I'm waving my Great Sword combo around on Great Jaggi, and he tanked through it and bit me in the face.
@@ -53,6 +55,8 @@ I wish Great Jaggi would just howl so I could hit it.
 Wait, Great Jaggi's double tail swing doesn't actually have that much range, and his head pokes out at both ends of it. What if I can hit that?
 
 To truly become a dervish of whirling blades, you will have to recognize your openings within a monster's moveset. You can hit Great Jaggi when it howls, and when it growls. But when we're behind it, it takes two 90 degree turns and doesn't do much. And apparently we can smack it when it tail whips... and at the end of its double forward bite...  in fact, with a lance, we can poke and counter through everything...
+
+Recognize the monster's ending, then enter and punish!
 
 ### Putting it all together
 Oh shoot, he hit me with an attack that I knew was coming. Aw man, I could've hit him at the end of this attack that he just hit me with!
