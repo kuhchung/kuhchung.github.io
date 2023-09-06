@@ -611,7 +611,7 @@ Available Slots:  OO; (Weapon); (Talisman)
 <img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO (Handicraft 4)  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Handicraft 4)  
-Talisman:  Potential 6 or better
+Talisman:  Potential 6 or better (preferably much better!)
 
 Helm Total: Handicraft +15, Potential +4, Attack +15  
 Cap Total: Handicraft +15, Potential +5, Attack +16  
