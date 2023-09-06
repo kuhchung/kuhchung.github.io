@@ -571,10 +571,10 @@ My whole purpose with these, aside from having fun and carting stupidly, is to b
 
 Beware: these require good potential talismans.
 
-### Earplugs Adrenaline
+### Adrenaline Earplugs  
 <p float="left">
-<img src="images/earplugs-adrenaline.png" width="48%">
-<img src="images/earplugs-adrenaline-skills.png" width="48%">
+<img src="images/adrenaline-earplugs.png" width="48%">
+<img src="images/adrenaline-earplugs-skills.png" width="48%">
 <p float="left">
 Active Skills:  Sharpness +1, Earplugs, Adrenaline +2  
   
