@@ -602,12 +602,12 @@ If you have a good Potential +5/6 C+10 talisman, feel free to run that for the e
 <img src="images/adrenaline-no-earplugs-helm+.png" width="48%">
 <img src="images/adrenaline-no-earplugs-cap+.png" width="48%">
 <p float="left">
-Active Skills:  Adrenaline +2, Sharpness +1, Attack Up (M)  
+Active Skills:  (Adrenaline +2), Sharpness +1, Attack Up (M)  
   
-Available Slots:  OO, OOO; (Weapon)
+Available Slots:  OO; (Weapon); (Talisman)
 
 <img src="images/MH3icon-1-Head.png" width="16px"> Barroth Helm+/Cap+ | OO  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Barroth Mail+  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO (Handicraft 4)  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Handicraft 4)  
