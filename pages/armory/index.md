@@ -14,6 +14,9 @@ Not endgame HR yet but still looking for some armor? Try [progression](progressi
 - [Normal and Elemental Gunning](#normal-and-elemental-gunning)
 - [Status Gunning](#status-gunning)
 - [Status Melee Sets](#status-melee-sets)
+- [Barroth Adrenaline](#barroth-adrenaline)
+- [Black Leather Pants Adrenaline](#black-leather-pants-adrenaline)
+
 
 
 ## General Melee Sets
@@ -470,7 +473,9 @@ Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
 ---
 
 ## Status Gunning
-Use <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Light Bowgun/Jhen Cannon (O) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Chaos Wing. Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up.  You don't need Status Atk Up.
+Use <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Light Bowgun/Jhen Cannon (O) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Chaos Wing. Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up (but it can be very nice.)  You don't need Status Atk Up.
+
+Light Bowgun barrel gives more flexibility and loads more ammo types than Jhen Cannon. If you're unsure of how the fight is going to go and want a safety net, use Light Bowgun.
 
 Full Uragaan+ meets these requirements.
 
@@ -480,7 +485,8 @@ Available Slots:  O x3(/4), OOO x2; (Talisman)
 
 ---
 
-Akiko's Ice Elemental Status Blend
+###Akiko's Ice Elemental Status Blend
+
 (TODO: writeup and model)
 
 ---
@@ -557,3 +563,83 @@ There are still five slots left in the armor, and I haven't even included a tali
 If you have Bomb Boost +5 SpeedSetup +10 tali, you can even leave off the Uragaan Helm+.
 
 ---
+
+## Barroth Adrenaline
+These are my favorite sets (for carting.) Though honestly, having to give up trapmaster and speedsharpen for adrenaline is a little sad :(
+
+My whole purpose with these, aside from having fun and carting stupidly, is to be able to eat a hit even when I'm in adrenaline thanks to the far sturdier defense of Barroth pieces instead of Black Leather Pants.
+
+Beware: these require good potential talismans.
+
+### Earplugs Adrenaline
+<p float="left">
+<img src="images/earplugs-adrenaline.png" width="48%">
+<img src="images/earplugs-adrenaline-skills.png" width="48%">
+<p float="left">
+Active Skills:  Sharpness +1, Earplugs, Adrenaline +2  
+  
+Available Slots:  OO, OOO
+
+Weapon - O (handicraft1)
+<img src="images/MH3icon-1-Head.png" width="16px"> Barroth Helm+/Cap+ | OO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces+ | OOO  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Vangis Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves+  
+Talisman:  Potential 5 or better
+
+Helm Total: Handicraft +15, Hearing +10, Attack +4, Potential +4  
+Cap Total: Handicraft +15, Hearing +10, Attack +5, Potential +5
+
+With potential god (potential7 OO), I use the helm. This also grants AuS. The cap gives 2 more skill points, which means you could actually give up AuS and take either speedsharpen or trapmaster in the 5 available slots, but don't underrate adrenalized defense!
+
+If you have a good Potential +5/6 C+10 talisman, feel free to run that for the extra C skill!
+
+---
+
+### Adrenaline No Earplugs
+<p float="left">
+<img src="images/adrenaline-no-earplugs.png" width="48%">
+<img src="images/adrenaline-no-earplugs.png" width="48%">
+<p float="left">
+Active Skills:  Adrenaline+2, Sharpness+1, Attack Up M  
+  
+Available Slots:  OO, OOO; (Weapon)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Barroth Helm+/Cap+ | OO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO (Handicraft 4)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Handicraft 4)  
+Talisman:  Potential 6 or better
+
+Helm Total: Handicraft +15, Potential +4, Attack +15  
+Cap Total: Handicraft +15, Potential +5, Attack +16  
+
+Since this is non earplugs, I use this set with a lance, but of course, you can do whatever you want. Even cart to Deviljho because it's just unfair without Evasion+1 and definitely not a skill issue.
+
+With Potential 6 OO and Sabertooth (G), this set (pictured) actually reaches AuL even with the Barroth Helm+! All the powah!
+---
+
+### Adrenaline No Handicraft
+
+Active Skills: Adrenaline+2, Marathon Runner, Attack Up M
+
+Available Slots: OO, 3x O; (Weapon); (Talisman);
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Barroth+ Helm - OO
+<img src="images/MH3icon-2-Chest.png" width="16px"> Barroth+ Mail
+<img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces - O
+<img src="images/MH3icon-4-Waist.png" width="16px"> Barroth+ Faulds - O
+<img src="images/MH3icon-5-Legs.png" width="16px"> Barroth+ Greaves - O
+
+Total: Potential16, Stamina10, Attack16
+
+For those non Sharpness+1 weapons (Flame Tempest, Reaver "Calamity"). If you want lower defense but one extra slot, use the HR cap and the HR arms. Otherwise, the LR arms are nice and cheap (no Wyvern Stones required.)
+
+This is pretty niche, but is extremely flexible with all those slots and talisman unused.
+---
+
+## Black Leather Pants Adrenaline
+
+These don't exist in the private server beta yet. I will port over the sets soon.
