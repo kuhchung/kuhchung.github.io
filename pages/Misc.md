@@ -24,4 +24,4 @@ These have been independently tested and confirmed.
     * When you're done, quit the game and do not save :)
     * Make sure the item receiver *does* save. Otherwise, they owe you a coke. I don't make the rules.
 * Monster roars double as sonic bombs. Kind of funny when one Diablos roars another out of the ground, for example.
-* The time of day of the hunt depends on when the quest was posted, not what the time of day is currently in the tavern! Very rare occurrence, but it does happen.
+* The time of day of the hunt depends on when the quest was posted, not what the time of day is currently in the tavern! Very rarely do they differ, but it does happen.
