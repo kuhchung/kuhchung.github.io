@@ -34,7 +34,7 @@ His quadruple beak slam is considered one attack. If you've eaten a hit (or guar
 
 Evading the quadruple beak slam does not get you past it the way guarding does. If you evade a beak slam, you are still at risk.
 
-Be ready to change direction if Agnaktor rushes you with a lava surf! He tracks and homes in on your movement in an instant, but if you just flip 180 degrees and hard turn around as soon as he begins his approach, he will be locked into your old trajectory and miss you completely.
+🌶️ Be ready to change direction if Agnaktor rushes you with a lava surf! He tracks and homes in on your movement in an instant, but if you just flip 180 degrees and hard turn around as soon as he begins his approach, he will be locked into your old trajectory and miss you completely. 🌶️
 
 If Agnaktor is paintballed, zoom in on the map.
 
