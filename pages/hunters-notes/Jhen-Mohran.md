@@ -85,3 +85,6 @@ The safest place I've discovered is underneath/around Jhen's right armpit (our l
 
 Just like when you're on the spine, you can tell if you've done the Good Thing by whether or not your attack feels resistance.
 
+## Carving
+Jhen Mohran offers 8 (!) carves. 4 from the body, 4 from the mouth. You want to run up to his body, above his arm, come to a standstill, crouch, and carve. Then roll toward the seam where the body connects to the mouth, crouch, and carve 4 more times.
+
