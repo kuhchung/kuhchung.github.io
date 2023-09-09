@@ -91,7 +91,7 @@ His jumpback fireball **can** be guarded, but it will heavily chip and stagger y
 TODO Guard+1 Guard+2 data.
 
 ## Status
-Alatreon's status duration is longer than usual, but the threshold increase is so difficult that I think paralysis is a bad choice in this fight.
+Alatreon's paralyze duration is longer than usual, but the threshold increase is so difficult that I think paralysis is a bad choice in this fight.
 
 Alatreon is very vulnerable to sleep. If someone on the hunt is packing sleep, then **all hunters should bring their bomb materials and combines**.
 
