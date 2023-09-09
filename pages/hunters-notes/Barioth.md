@@ -53,6 +53,9 @@ Note that his wall jump attack actually *gains* in distance from the spinout att
 ## Trapping
 Barioth flies into the air after breaking a pitfall trap, which means a flash will stagger it to the floor. The downside is that he will be in flashed status and go crazy once he finally gets to his feet. At least you can use this time to sharpen or something.
 
+## Guard Data
+TODO. Guard+1 very good from my experience in arena.
+
 ## Turnapound
 Release the turnapound aiming at the 90 degree turn, not the 180! Remember, the superpound splash area is huge, so it is actually quite forgiving. If you are having trouble soloing barioth, this single tip will probably get you over the hurdle.
 
