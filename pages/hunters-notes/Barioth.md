@@ -61,4 +61,4 @@ Release the turnapound aiming at the 90 degree turn, not the 180! Remember, the 
 
 There are other tricky Barioth timings to exploit, but this should get you started!
 
-<img src="images/adrenaline-barioth-solo.png" width="48%">
+<img src="images/adrenaline-barioth-solo.png" >
