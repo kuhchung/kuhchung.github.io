@@ -3,9 +3,9 @@
 <img src="images/lagiacrus.png" width="48%">
 <p float="left">  
 
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png"> Lance (Guard), <img src="icons/MH3icon-Bowgun.png"> Bowgun (Elemental), <img src="icons/MH3icon-Great_Sword.png"> Great Sword
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png"> Lance (Guard), <img src="icons/MH3icon-Medium_Bowgun.png"> Bowgun (Elemental), <img src="icons/MH3icon-Great_Sword.png"> Great Sword  
 Anti-Recommendations: <img src="icons/MH3icon-Hammer.png" width="20px"> Hammer  
-Elemental Weakness: <img src="icons/-status-Fireblight.png" width="20px"> Fire
+Elemental Weakness: <img src="icons/-status-Fireblight.png" width="20px"> Fire  
 Afflictions: <img src="icons/-status-Thunderblight.png" width="20px"> / <img src="icons/-status-Severe_Thunderblight.png" width="20px"> Iceblight, <img src="icons/-status-Waterblight.png" width="20px"> / <img src="icons/-status-Severe_Waterblight.png" width="20px"> Waterblight
 
 Lagiacrus - Leviathan  
