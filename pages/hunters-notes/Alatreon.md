@@ -5,8 +5,8 @@
 
 Elemental Weakness: <img src="icons/-status-Iceblight.png" width="20px"> Ice, then <img src="icons/-status-Waterblight.png" width="20px"> Water
 
-Alatreon - Elder Dragon
-Threat Level : ★★★★★★(★)
+Alatreon - Elder Dragon  
+Threat Level : ★★★★★★(★)  
 Blazing black dragons, so named for resembling both lightning and darkness.  They mercilessly tear apart whoever touches their sharp scales.  Elementally unstable, their actions can affec the very weather.  Living natural disasters.
 
 Rage tells: Speedup, fire in mouth
