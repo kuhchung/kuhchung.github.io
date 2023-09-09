@@ -459,7 +459,7 @@ Active Skills:  Load Up, Recoil Down 3, Clust S All Up
 <img src="images/MH3icon-2-Chest.png" width="16px"> Amagi/Mutsu Muneate+ | O (Recoil 1)  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Uragaan Guards+ | OOO (Recoil 4)  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+ | O (Recoil 1)  
-<img src="images/MH3icon-5-Legs.png" width="16px"> Amagi/Mutsu Hakama+  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Amagi Hakama+/Mutsu Gusoku+  
 Talisman: Clust S +6 or better  
 
 Total: Loading +15, Clust S+ +15, Recoil +20
