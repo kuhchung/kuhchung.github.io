@@ -107,14 +107,14 @@ If you have a hammer and they are competent, then everyone just go and hug the h
 
 In fact, everyone should just stick close together when Alatreon is far away.
 
-## Materials
+## Reward Oddities
 In my opinion, the most valuable Alatreon mats, in order, are:
 1. Skypiercer
 2. Webbings
 3. Azure Dragongem
 4. Alatreon Tail
 
-Skypiercers are a 15% drop from breaking **both** horns, which is a tall task for inexperienced hunters.
+Skypiercers are a 15% drop from breaking **both** horns, which is a tall task for inexperienced hunters. The best way to actually get Skypiercers is to do the event Alatreon, Where Gods Fear to Tread, but that has the issue of facing even badder pony. Still, if everyone is comfortable with the fight, this is the way to go.
 
 Webbings require wing breaks, and breaking the wings is just awful. I recommend either sleep bombing the wings or cheesing him with clust until you get all that you need.
 
