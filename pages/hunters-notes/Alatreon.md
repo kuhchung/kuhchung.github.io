@@ -107,9 +107,9 @@ If you are freestyling in a public lobby and nobody makes any motions to go for 
 
 
 ## Teamfight Positioning
-If you have a hammer and they are competent, then everyone just go and hug the hammer if Alatreon is far away. He's going to dragon rush, and everyone should be in the same place to avoid dragging him all over the SacredLands arena. This might by the hammer a superpound when he does a dragon rush headswing.
+If there is a hammer on the team and they are competent, then everyone just go and hug the hammer if Alatreon is far away. He's going to dragon rush, so everyone should be in the same place to avoid dragging him all over the SacredLands arena. This might buy the hammer a superpound when he does a dragon rush headswing.
 
-In fact, everyone should just stick close together when Alatreon is far away.
+In fact, everyone should just stick close together when Alatreon is far away. Do you really want to waste time by letting him charge around the entire arena instead of breaking his horns, especially if the lightning is charged?
 
 ## Reward Oddities
 In my opinion, the most valuable Alatreon mats, in order, are:
