@@ -35,7 +35,7 @@ Shock trap duration is pitiful when raged. When exhausted, shock trap lasts fore
 
 Pitfall when raged so everyone can pile damage onto the belly.
 
-If Jho eats a spiked meat and suffers the status effect, after he breaks free, it is a guaranteed rage.
+If unraged Jho eats a spiked meat and suffers the status effect, after he breaks free, it is a guaranteed rage.
 
 Put the pitfall trap at a sleeping Jho's chin so that he can wake up, rage, then fall into the pit. DO NOT PIT HIM UNRAGED.
 
