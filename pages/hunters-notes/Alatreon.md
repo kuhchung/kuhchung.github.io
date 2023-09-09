@@ -1,6 +1,5 @@
 # <img src="icons/alatreon.png" width="32px"> Hunter’s Notes - Alatreon <img src="icons/alatreon.png" width="32px">
 <p float="left">
-<img src="images/alatreon-closeup.png" width="98%">
 <img src="images/alatreon-farshot.png" width="98%">
 <p float="left">
 
@@ -58,6 +57,8 @@ If you flash bombed him and stagger him, when the flash daze wears off, he will 
 If you flash bombed him and do not stagger him, at some point he will do a jump back and remain in the air. Same if he comes down from high flight (get your superpound here) and you do not stagger him.
 
 If he lands and takes low flight again, a stagger or a flash will ground him until the next time he charges his horns.
+
+<img src="images/alatreon-closeup.png" width="98%">
 
 ## Flash Bombing
 The air to ground ice stream is 100% reliably flash bombable.
