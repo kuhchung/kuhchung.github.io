@@ -1,4 +1,4 @@
-## <img src="icons/uragaan.png" width="32px"> Uragaan <img src="icons/uragaan.png" width="32px">
+## <img src="icons/uragaan.png" width="32px"> Hunter's Notes - Uragaan <img src="icons/uragaan.png" width="32px">
 <p float="left">
 <img src="images/uragaan.png" width="98%">
 
