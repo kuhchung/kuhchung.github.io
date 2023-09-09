@@ -128,4 +128,4 @@ Tails must be got via tail carve, and this is the one hunt where I might suggest
 
 
 ## Gale's Video
-Really, you should just go watch this instead.
+Really, you should just go watch [this](https://www.youtube.com/watch?v=upb4FDjMLqQ) instead.
