@@ -139,7 +139,7 @@ If you have high ranked people in your city willing to hunt early Deviljho with 
 
 This is like Tri's version of that Ceanataur set that gives Honed Blade in 4U early game low rank.
 
-If you're lucky enough to get a Deviljho Gem, you can use Vangis Coil instead of Selene/Helios Coil. If you don't want to put a handicraft decoration in your weapon, you can use Skull Mask. Really, if you remove the helmet, you just need three more handicraft points however you like to get it. Pictured is the Lagiacrus Helm, because I have it sitting around from low rank.
+If you're lucky enough to get a Deviljho Gem, you can use Vangis Coil instead of Selene/Helios Coil. If you don't want to put a handicraft decoration in your weapon, you can use Skull Mask. Really, if you remove the helmet and weapon, you just need three more handicraft points however you like to get it. Pictured is the Lagiacrus Helm, because I have it sitting around from low rank.
 
 ---
 
