@@ -86,7 +86,7 @@ If you want a headless one though...
 
 ---
 
-### Endgame Scuffed High Grade Earplugs
+### Endgame Headless High Grade Earplugs
 <p float="left">
 <img src="images/endgame-scuffed-high-grade-earplugs.png" width="48%">
 <img src="images/endgame-scuffed-high-grade-earplugs-skills.png" width="48%">
@@ -106,6 +106,8 @@ Total:  Handicraft +15/+16, Hearing +17/+16
 You can swap the HR greaves for the LR greaves if you want.  
 
 Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and some variety of earplugs. When I first reach HR51, these are the first sets I make by mixing whatever Vangis and Helios I have, and I improvise until I can refine them into Endgame Standard or Endgame HGE.
+
+Note that this setup is actually great if you want to Greatsword and have a dual tremor res crit draw O tali. Put on Diablos Helm+ and rock S+1, HGE, Critical Draw, and Tremor-proof!
 
 ---
 
