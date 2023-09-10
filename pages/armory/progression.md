@@ -109,11 +109,39 @@ Weapons to build: Spiral Lance (B), High Sieglinde (P), pre-Iron Impact, Shadowb
 
 Diablos+ Gunner
 
-Early Vangis
 
 Baggi+/Diablos+ mix/overforge
 
 Rathalos overforge
+
+---
+
+### Early Deviljho
+<p float="left">
+<img src="images/early-vangis.png" width="48%">
+<img src="images/early-vangis-skills.png" width="48%">
+<p float="left">
+Active Skills:  Sharpness +1, Attack Up S, Detect
+  
+Available Slots:  (Talisman)
+
+Any Weapon O | (handicraft 1)
+<img src="images/MH3icon-1-Head.png" width="16px"> Any Helm | OO (handicraft 1, handicraft 1)
+<img src="images/MH3icon-2-Chest.png" width="16px"> Vangis Mail  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Alloy Greaves  
+
+Total:  Handicraft +15, Attack +11, Psychic +10
+Total without helm/weapon: Handicraft +12, Attack +11, Psychic +10
+
+If you have high ranked people in your city willing to hunt early Deviljho with you via Jaggia Menace, then you can make this set once you gather the Dragonbone relics in the Tundra. Eat for Felyne Explorer, go hunt Great Baggi, et voila!
+
+This is like Tri's version of that early Ceanataur set that gives Honed Blade in early game low rank.
+
+If you're lucky enough to get a Deviljho Gem, you can use Vangis Coil instead of Selene/Helios Coil. If you don't want to put a handicraft decoration in your weapon, you can use Skull Mask. Really, if you remove the helmet, you just need three more handicraft points however you like to get it. Pictured is the Lagiacrus Helm, because I have it sitting around from low rank.
+
+---
 
 Weapons to build: Iron Impact, Thundacrus Rex frame, Sabertooth (G), Nardebosche, Almighty Dahaka, Morpheus Knife, Dancing Hellfire, Agnaktor Firelance
 
