@@ -107,8 +107,8 @@ Weapons to build: Spiral Lance (B), High Sieglinde (P), pre-Iron Impact, Shadowb
 
 ## HR41-50
 
-Diablos+ Gunner
-
+[Diablos+ Gunner](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#deviating-uragaan-smasher)  
+Believe it or not, this is endgame!
 
 Baggi+/Diablos+ mix/overforge
 
