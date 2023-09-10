@@ -116,7 +116,7 @@ Rathalos overforge
 
 ---
 
-### Early Deviljho
+### Early Vangis
 <p float="left">
 <img src="images/early-vangis.png" width="48%">
 <img src="images/early-vangis-skills.png" width="48%">
@@ -125,8 +125,8 @@ Active Skills:  Sharpness +1, Attack Up S, Detect
   
 Available Slots:  (Talisman)
 
-Any Weapon O | (handicraft 1)
-<img src="images/MH3icon-1-Head.png" width="16px"> Any Helm | OO (handicraft 1, handicraft 1)
+Any Weapon O | (handicraft 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Any Helm | OO (handicraft 1, handicraft 1)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Vangis Mail  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
