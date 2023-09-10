@@ -132,12 +132,12 @@ Any Weapon O | (handicraft 1)
 <img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Alloy Greaves  
 
-Total:  Handicraft +15, Attack +11, Psychic +10
-Total without helm/weapon: Handicraft +12, Attack +11, Psychic +10
+Total:  Handicraft +15, Attack +11, Psychic +10  
+Total without helm/weapon: Handicraft +12, Attack +11, Psychic +10  
 
 If you have high ranked people in your city willing to hunt early Deviljho with you via Jaggia Menace, then you can make this set once you gather the Dragonbone relics in the Tundra. Eat for Felyne Explorer, go hunt Great Baggi, et voila!
 
-This is like Tri's version of that early Ceanataur set that gives Honed Blade in early game low rank.
+This is like Tri's version of that Ceanataur set that gives Honed Blade in 4U early game low rank.
 
 If you're lucky enough to get a Deviljho Gem, you can use Vangis Coil instead of Selene/Helios Coil. If you don't want to put a handicraft decoration in your weapon, you can use Skull Mask. Really, if you remove the helmet, you just need three more handicraft points however you like to get it. Pictured is the Lagiacrus Helm, because I have it sitting around from low rank.
 
