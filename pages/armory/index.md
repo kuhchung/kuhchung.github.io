@@ -293,8 +293,9 @@ Active Skills:  Sharpness +1, Critical Draw, High Grade Earplugs, (Tremor-proof)
 
 See <a href="#endgame-headless-high-grade-earplugs"/> and put on Diablos Helm+. Your talisman only needs to be Crit Draw 5 or better.
 
-If you have Tremor Res 6 Crit Draw 3 O, you can get Tremor-proof also!
+If you have talisman with both Tremor Res and Crit Draw skills, you may be able to get both!
 
+---
 
 ### Punishing Meme
 <p float="left">
