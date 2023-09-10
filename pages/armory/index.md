@@ -288,6 +288,14 @@ If your talisman is Crit Draw 6, then you don't have to blow a stout horn for th
 
 ---
 
+### Endgame High Grade Earplugs GS Standard
+Active Skills:  Sharpness +1, Critical Draw, High Grade Earplugs, (Tremor-proof)
+
+See <a href="#endgame-headless-high-grade-earplugs"/> and put on Diablos Helm+. Your talisman only needs to be Crit Draw 5 or better.
+
+If you have Tremor Res 6 Crit Draw 3 O, you can get Tremor-proof also!
+
+
 ### Punishing Meme
 <p float="left">
 <img src="images/punishing-meme.png" width="48%">
