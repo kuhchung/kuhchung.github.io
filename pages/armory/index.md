@@ -107,7 +107,7 @@ You can swap the HR greaves for the LR greaves if you want.
 
 Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and some variety of earplugs. When I first reach HR51, these are the first sets I make by mixing whatever Vangis and Helios I have, and I improvise until I can refine them into Endgame Standard or Endgame HGE.
 
-Note that this setup is actually great if you want to Greatsword and have a dual tremor res crit draw O tali. Put on Diablos Helm+ and rock S+1, HGE, Critical Draw, and Tremor-proof!
+Note that this setup is actually great if you want to Greatsword and have a dual tremor res crit draw O tali. Put on Diablos Helm+ and rock S+1, HGE, Critical Draw, and Tremor-Proof!
 
 ---
 
@@ -288,14 +288,41 @@ If your talisman is Crit Draw 6, then you don't have to blow a stout horn for th
 
 ---
 
-### Endgame High Grade Earplugs GS Standard
-Active Skills:  Sharpness +1, Critical Draw, High Grade Earplugs, (Tremor-proof)
+### Pickle Eater
+Active Skills:  Sharpness +1, Critical Draw, High Grade Earplugs, (Tremor-Proof)
 
-See <a href="#endgame-headless-high-grade-earplugs"/> and put on Diablos Helm+. Your talisman only needs to be Crit Draw 5 or better.
+See <a href="#endgame-headless-high-grade-earplugs"> here </a> and put on Diablos Helm+. Your talisman only needs to be Crit Draw 5 or better.
 
-If you have talisman with both Tremor Res and Crit Draw skills, you may be able to get both!
+If you have a talisman with both Tremor Res and Crit Draw skills, you may be able to get both! This is a set for hunting Diablos and Deviljho.
 
 ---
+
+
+### Bomb Breaker
+<p float="left">
+<img src="images/bomb-breaker.png" width="48%">
+<img src="images/bomb-breaker-skills.png" width="48%">
+<p float="left">
+Active Skills: Sharpness +1, C +10, Critical Draw, Tremor-Proof, Earplugs
+
+<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O (Handicraft 1)
+<img src="images/MH3icon-1-Head.png" width="16px"> Diablos Helm+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces+ | OOO
+<img src="images/MH3icon-4-Waist.png" width="16px"> Vangis Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves+  
+Talisman: C+10 OO or C+10 CritDraw 3 O or C+10 TremorRes 3 O
+
+Total: Handicraft +15, C +10, Crit Draw +10, Tremor Res +10, Hearing +10
+
+This set has 4 or 5 slots, depending on your talisman. If you have the perfect rolled +10 +3 O, you won't need to use a stout horn on a decoration. Otherwise, just fill in the 5 slots to complete Critical Draw and Tremor-Proof.
+
+In my opinion, Trap Master is the big winner here. Big surprise.
+
+I think Tremor-Proof buys you more openings vs Uragaan, and Focus may not be super relevant vs him anyway. I'm a terrible GS, so take this with a grain of salt. Still, the set has a lot of fine skills.
+
+---
+
 
 ### Punishing Meme
 <p float="left">
