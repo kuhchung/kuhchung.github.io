@@ -2,7 +2,7 @@
 
 You've arrived... and you're naked! We can't just *put* on clothes - we have to work our way up to it.
 
-This page will list what I feel are the most effective and popular options for advancing through the game.
+This page will list what I feel are the most effective, popular and affordable options for advancing through the game.
 
 Highly WIP.
 
