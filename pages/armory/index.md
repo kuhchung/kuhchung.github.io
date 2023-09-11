@@ -311,13 +311,15 @@ Active Skills: Sharpness +1, C +10, Critical Draw, Tremor-Proof, Earplugs
 <img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces+ | OOO  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Vangis Coil  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves+  
-Talisman: C+10 OO or C+10 CritDraw 3 O or C+10 TremorRes 3 O
+Talisman: C+10 OO or see below
 
 Total: Handicraft +15, C +10, Crit Draw +10, Tremor Res +10, Hearing +10
 
 This set has 4 or 5 slots, depending on your talisman. If you have the perfect rolled +10 +3 O, you won't need to use a stout horn on a decoration. Otherwise, just fill in the 5 slots to complete Critical Draw and Tremor-Proof.
 
-In my opinion, Trap Master is the big winner here. Big surprise.
+The perfect rolled C+10 A+3 O would be Crit Draw 3 or Tremor Res 3. I am not sure if they exist.
+
+In my opinion, Trap Master is the big C skill winner here. Big surprise.
 
 I think Tremor-Proof buys you more openings vs Uragaan, and Focus may not be super relevant vs him anyway. I'm a terrible GS, so take this with a grain of salt. Still, the set has a lot of fine skills.
 
