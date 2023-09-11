@@ -45,7 +45,7 @@ Barroth (upgrade from Jaggi, skippable)
 
 Barroth gunner
 
-Rathian (earplugs, skippable. TODO provide a set)
+Rathian (earplugs, skippable. TODO provide a set. Main note: SKIP THE CHEST PIECE. Full Rathian minus chest and gemmed is fine.)
 
 Baggi for GS
 
@@ -87,7 +87,7 @@ Barioth (upgrade from qurupeco, skippable)
 Weapons to build
 
 ## Village 6\*
-Helios Lagi mix
+Helios Lagi mix. Main note: SKIP THE CHEST PIECE.
 
 Weapons to build
 
