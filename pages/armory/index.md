@@ -305,10 +305,10 @@ If you have a talisman with both Tremor Res and Crit Draw skills, you may be abl
 <p float="left">
 Active Skills: Sharpness +1, C +10, Critical Draw, Tremor-Proof, Earplugs
 
-<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O (Handicraft 1)
+<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O (Handicraft 1)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Diablos Helm+  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+
-<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces+ | OOO
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces+ | OOO  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Vangis Coil  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves+  
 Talisman: C+10 OO or C+10 CritDraw 3 O or C+10 TremorRes 3 O
