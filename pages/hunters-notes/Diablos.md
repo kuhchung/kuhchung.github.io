@@ -40,7 +40,7 @@ If Diablos still has at least one horn, it can get caught on a lot of environmen
   
 These objects have invisible HP. If Diablos has ever hit them before (including getting caught on one of them), the next hit will break right through it.
 
-It's fairly impractical to take advantage of the environmental effects in large groups, but it can definitely be nice opportunistically in a small lobby.
+It's fairly impractical to take advantage of the environmental effects in large groups, but it can definitely be nice opportunistically in a small lobby. For example, you might get behind one to sharpen.
 
 ## Evasion and avoidance
 Diablos is a bit like a mini-Deviljho in that all of its movements can be evaded in much the same way. 
