@@ -37,7 +37,16 @@ Qurupeco (not immediately useful... kind of anti-recommend)
 
 Bnahbrah Alloy mix (for multiplayer, solo anti-recommend)
 
-Weapons to build
+Weapons to build:
+Generally, there are two lines: the metal line and the bone line. It's usually a good idea to have one of each and head down both, using whatever has more damage at your current point in the game.  
+If there are branching paths, honestly *don't worry about it too much.* Just pick one, or check the Weapon Tree guide if it really bothers you.  
+
+This is what I used to fight Great Jaggi:  
+Ludroth's Nail  
+Ludroth Bone Mace  
+Jawblade  
+Heavy Bowgun (all 3 parts)  
+Thane Lance  
 
 ## HR9-18/Village 4\*
 
