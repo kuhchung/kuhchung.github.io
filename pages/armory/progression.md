@@ -29,9 +29,9 @@ Buy the above 3 from the Outfitter.
 
 ---
 
-Alloy (S-tier)
+Alloy, both gunner and blade depending what you're doing (S-tier)
 
-Jaggi
+Jaggi, both usable
 
 Qurupeco (not immediately useful... kind of anti-recommend)
 
