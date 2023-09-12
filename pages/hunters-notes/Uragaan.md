@@ -29,6 +29,8 @@ Pit into flash
 ## Avoidance and Evasion
 If you're having trouble avoiding his crazy rolls, here's a tip: He will _never_ roll across the point where he initially started it!
 
+Speaking of his crazy rolls, he has an annoying long roll in Area 6 that cannot be stopped if he chooses to do it. You can avoid it completely just by waiting near either of the exits. 
+
 On his rock bomb throw, there is a safe point right in the middle of the circle outlined by his body. Even a non-focus GS has the timing to unleash a level 3 charge into the gut here.
 
 Just like Agnaktor, his quad chin pound is considered a single attack. If you are guard lancing, smash right through it and attack through his animation!
