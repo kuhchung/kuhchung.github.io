@@ -29,6 +29,8 @@ The sonic bomb timing is actually a little bit tight. Don't be surprised if you 
 
 A funny thing can happen when Agnaktor is exhausted and goes to area 5. If you stop him from eating, he will remain exhausted. If he digs to escape, you sonic... he gets out, then digs to escape, you sonic... repeat until end of hunt.
 
+Like Diablos, it can be invisibly raged where it digs, ignores a sonic, then immediately comes up and rage roars.
+
 ## Zoning
 I don't know how to tell where he's zoning to (anyone: advice?) But what I personally do is, when fighting it in 7, if he zones, I immediately run to 5. By the time you get to 5, if he goes there to eat rhenoplos, you can interrupt. If he goes to 8, you can pivot to 8 and he will approach you in a straight line anyway.
 
