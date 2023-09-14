@@ -25,13 +25,15 @@ Chainmail (for combining at home and fishing quests)
 
 Hunter if you like
 
+Consider crafting 5 Perception decorations and gemming it into your Hunter or Alloy (only need 4 actually) armor.
+
 Buy the above 3 from the Outfitter.
 
 ---
 
 Alloy, both gunner and blade depending what you're doing (S-tier)
 
-Jaggi, both usable
+Jaggi, both usable. Gem for Attack up M.
 
 Qurupeco (not immediately useful... kind of anti-recommend)
 
