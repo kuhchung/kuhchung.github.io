@@ -49,6 +49,9 @@ Ludroth Bone Mace
 Jawblade  
 Heavy Bowgun (all 3 parts)  
 Thane Lance  
+Ludroth Bone Mace  
+
+
 
 ## HR9-18/Village 4\*
 
