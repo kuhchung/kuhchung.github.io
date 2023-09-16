@@ -55,6 +55,16 @@ Ludroth Bone Mace
 
 ## HR9-18/Village 4\*
 
+My relevant weapon collection pre-Barroth at this point:  
+Sword and Shield: Royal Claw, Bone Tomhawk  
+Greatsword: Ludroth Bone Sword+, Giant Jawblade, Rugged Great Sword  
+Lance: Thane Lance, Spiral Lance  
+Switch Axe: Bone Axe+  
+Hammer: Ludroth Splashhammer, Plume Flint  
+Bowgun frames: Royal Launcher, Heavy Bowgun  
+Bowgun barrels: Tropeco, Royal Launcher  
+Bowgun stocks: Tropeco, Royal Launcher  
+
 Barroth (upgrade from Jaggi, skippable)
 
 Barroth gunner
