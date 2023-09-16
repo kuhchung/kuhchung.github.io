@@ -1,4 +1,4 @@
-# The Armory Progression Series
+# Armory Progression
 
 You've arrived... and you're naked! We can't just *put* on clothes - we have to work our way up to it.
 
