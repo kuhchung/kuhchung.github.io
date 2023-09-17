@@ -98,7 +98,7 @@ Available Slots:  O x1, OO x4; (Weapon); (Talisman)
 <img src="images/MH3icon-4-Waist.png" width="16px"> Lagiacrus Coat | OO  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Lagiacrus Leggings | OO  
 
-Low Rank elemental gunning goodness. Lagiacrus is so flexible. Note that if you want damage, go with Attack Up and not Critical Eye. Element wants raw; pierce wants affinity.
+Low Rank elemental gunning goodness. Lagiacrus is so flexible. Note that if you want damage, go with Attack Up and not Critical Eye. Element wants raw; SHOT (pierce or normal) wants affinity. If you're using this set to fire Normal rounds, then I guess go with Critical Eye...
 
 ---
 
