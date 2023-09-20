@@ -25,9 +25,10 @@ Chainmail (for combining at home and fishing quests)
 
 Hunter if you like
 
+Buy the above 3 from the Outfitter.
+
 Consider crafting 5 Perception decorations and gemming it into your Hunter or Alloy (only need 4) armor.
 
-Buy the above 3 from the Outfitter.
 
 ---
 
