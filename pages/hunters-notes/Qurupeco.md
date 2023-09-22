@@ -14,7 +14,7 @@ Bird wyverns with unique plumage.  Well known for using their thoracic vocal org
 Rage Tells: Smoke from mouth, red pigment in tail/body
 
 ## Spawn locations
-D. Island: Area 7
+D. Island: Area 7  
 Sandy Plains: Area 4
 
 ## Level up your hammering
