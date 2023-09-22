@@ -52,7 +52,7 @@ If you break the beak, every single song or howl will take Qurupeco double time.
 You can sonic bomb the singing and howling, but if your weapon is drawn, you actually won't have time unless his beak is broken. A win for Sword and Shield, I guess... at the cost of not being able to hit anything good.
 
 ## Flash Bombing
-Flash bombs are very effective against Qurupeco. He will either tailspin (annoying) or lower his head and bite (nice!)
+Flash bombs are very effective against Qurupeco. He will either tailspin (annoying) or lower his head and bite (nice!) The bite movement is actually unique to the flashed state!
 
 ## Reward Oddities
 Flintstones are a break and a cap reward.
