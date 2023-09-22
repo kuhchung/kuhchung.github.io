@@ -30,7 +30,7 @@ Lance, Greatsword, and Switch Axe's overhead chop can all hit the beak consisten
 
 Seriously, his beak is super duper vulnerable! It takes 70% (cutting) or 90% (impact). The body, flint, legs, tail, etc. are all a fairly big drop off.
 
-You can watch me hammering it in my progression series [here](https://youtu.be/Rt5HOZTzQhc?t=1116).
+You can watch me hammering it in my progression series [here](https://youtu.be/Rt5HOZTzQhc?t=1116). I really wrecked him.
 
 
 ## Avoidance and Evasion
