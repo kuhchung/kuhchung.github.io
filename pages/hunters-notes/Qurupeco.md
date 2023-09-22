@@ -4,7 +4,7 @@
 <p float="left">  
 
 Anti-Recommendations: <img src="icons/MH3icon-Sword_and_Shield.png" width="20px"> Sword and Shield  
-Elemental Weakness: <img src="icons/-status-Fireblight.png" width="20px"> Ice  
+Elemental Weakness: <img src="icons/-status-Iceblight.png" width="20px"> Ice  
 Afflictions: <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px"> Fireblight,  <img src="icons/-status-Defense_Down.png" width="20px"> Defense Down
 
 *Qurupeco - Bird Wyvern
