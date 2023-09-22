@@ -7,9 +7,9 @@ Anti-Recommendations: <img src="icons/MH3icon-Sword_and_Shield.png" width="20px"
 Elemental Weakness: <img src="icons/-status-Iceblight.png" width="20px"> Ice  
 Afflictions: <img src="icons/-status-Fireblight.png" width="20px"> / <img src="icons/-status-Severe_Fireblight.png" width="20px"> Fireblight,  <img src="icons/-status-Defense_Down.png" width="20px"> Defense Down
 
-*Qurupeco - Bird Wyvern  
+Qurupeco - Bird Wyvern  
 Threat Level : ★★★  
-Bird wyverns with unique plumage.  Well known for using their thoracic vocal organs to imitate other monsters' calls, first summoning them, then using the distraction to flee.  Spits a dangerous combustible body fluid.*
+*Bird wyverns with unique plumage.  Well known for using their thoracic vocal organs to imitate other monsters' calls, first summoning them, then using the distraction to flee.  Spits a dangerous combustible body fluid.*
 
 Rage Tells: Smoke from mouth, red pigment in tail/body
 
