@@ -17,6 +17,13 @@ Rage Tells: Smoke from mouth, red pigment in tail/body
 D. Island: Area 7  
 Sandy Plains: Area 4
 
+## I love Qurupeco
+Seriously, it's so cute. What the bloody hell even is Kut-Ku? Skull like bird with seashell ears doing stupid beak slams. Meanwhile, the Qurupeco is beautifully scaled, green and majestic, with a nice long beak that it holds high with its chest puffed out.
+
+Also, having Qurupeco summon a higher ranked monster to invade your hunt is a FANTASTIC, immersive mechanic to foreshadow what you will fight later!
+
+10/10 monster. 10/10 storytelling.
+
 ## Level up your hammering
 Qurupeco holds his head high! Literally. And the fact that super pounds do not home onto his head, even when he sticks it out (for example, when he does the squawk, the SP will strike his throat) makes him a *very* interesting hammer target. It's much, *much* harder than something like Rathian or Rathalos.
 
