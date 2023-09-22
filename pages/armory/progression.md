@@ -34,11 +34,11 @@ Consider crafting 5 Perception decorations and gemming it into your Hunter or Al
 
 Alloy, both gunner and blade depending what you're doing (S-tier)
 
-Jaggi, both usable. Gem for Attack up M.
+Jaggi, both blade and gunner usable. Gem for Attack up M.
 
 Qurupeco (not immediately useful... kind of anti-recommend)
 
-Bnahbrah Alloy mix (for multiplayer, solo anti-recommend)
+Bnahbrah Alloy blademaster mix (for multiplayer, solo anti-recommend)
 
 Weapons to build:
 Generally, there are two lines: the metal line and the bone line. It's usually a good idea to have one of each and head down both, using whatever has more damage at your current point in the game.  
