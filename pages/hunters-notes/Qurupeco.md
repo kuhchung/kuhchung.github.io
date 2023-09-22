@@ -18,7 +18,7 @@ D. Island: Area 7
 Sandy Plains: Area 4
 
 ## I love Qurupeco
-Seriously, it's so cute. What the bloody hell even is Kut-Ku? Skull like bird with seashell ears doing stupid beak slams. Meanwhile, the Qurupeco is beautifully scaled, green and majestic, with a nice long beak that it holds high with its chest puffed out.
+Seriously, it's so cute. What the bloody hell even is Kut-Ku? Skull like bird with seashell ears doing stupid beak slams. Meanwhile, the Qurupeco is beautifully scaled, green and majestic, with a nice long beak that it holds high with its chest puffed out. And that happy wiggle dance, omg!
 
 Also, having Qurupeco summon a higher ranked monster to invade your hunt is a FANTASTIC, immersive mechanic to foreshadow what you will fight later!
 
