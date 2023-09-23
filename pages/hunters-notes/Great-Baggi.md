@@ -17,3 +17,6 @@ Rage Tells: White smoke
 Bring Negate Sleep or Flame Aura.
 
 Thank me later.
+
+## Collecting Dragonbone Relics
+In HR, if you need Dragonbone Relics, eat for Felyne Explorer and come do this hunt. I always do this solo so I don't have to waste time on waiting for Deviljho to crash into his lair later.
