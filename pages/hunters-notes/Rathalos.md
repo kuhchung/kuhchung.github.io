@@ -21,7 +21,7 @@ Starts in area 7 of Deserted Island if alone
 
 TODO: Starts in Volcano where? But really, hunting him there sucks. Don’t do it.
 
-## How to flash bomb/unfly Rathalos:
+## How to flash bomb/unfly Rathalos
 
 Rathalos flies a lot, but also has a lot of flash bomb timings. Here are the ones I use:
 - When he enters rage with a roar (fire in mouth), throw the flash bomb directly in front of where his face currently is as he's doing his jumpback fireball attack. This is easiest with earplugs, but I think it can be done without if you time your superman dive well.
