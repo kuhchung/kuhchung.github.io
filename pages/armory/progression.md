@@ -66,7 +66,7 @@ Bowgun frames: Royal Launcher, Heavy Bowgun
 Bowgun barrels: Tropeco, Royal Launcher  
 Bowgun stocks: Tropeco, Royal Launcher  
 
-Barroth (upgrade from Jaggi, skippable)
+Barroth (upgrade to Jaggi, skippable)
 
 Barroth gunner
 
