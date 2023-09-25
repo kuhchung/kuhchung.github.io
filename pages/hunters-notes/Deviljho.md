@@ -59,6 +59,9 @@ The dragon breath inflicts dragonblight.
 
 I don't like bringing status weapons to this fight. One sleep and one para via meat is enough, and the fight should be over soon. The para or sleep damage that you inflict may prove meaningless when he eats.
 
+## Flash Bombing
+If you want to flash bomb Deviljho, only do it when he's exhausted. He goes crazy in other states.
+
 ## WORLD EATER SPECIFIC
 
 If you set off smoke bombs and place a drugged meat while he hasn't noticed anyone, he will 100% (?) go for it. This only works for World Eater for whatever reason.
