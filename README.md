@@ -9,7 +9,10 @@ Let's do this!
 
 ## Articles
 [My notes on monsters](pages/hunters-notes)  
+[My weapon guide](pages/weapon-guide)  
+
 [Be a good teammate](pages/Being-a-Good-Teammate.md)  
+
 [Progressing offline and getting rich](pages/Running-the-Moga-Business.md)  
 [Random mechanics about the game](pages/Misc.md)  
 
