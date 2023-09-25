@@ -5,7 +5,7 @@
 <img src="images/diablos-roar.png" width="48%">
 <p float="left">
 
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance, <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword  
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance (Evade), <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword  
 Elemental Weakness: <img src="icons/-status-Iceblight.png" width="20px"> Ice
 
 Monster Type : Flying Wyvern   
