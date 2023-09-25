@@ -74,6 +74,8 @@ Rathian (earplugs, skippable. TODO provide a set. Main note: SKIP THE CHEST PIEC
 
 Baggi for GS
 
+Steel for Guard Lance, highly recommend
+
 Weapons to build
 
 ## HR19-30/Village 5\*
