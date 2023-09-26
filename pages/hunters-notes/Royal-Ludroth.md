@@ -19,4 +19,4 @@ I dunno man. Just hit it.
 ## Random Info
 The snot column will actually block projectiles.
 
-In offline village, capture Royal Ludroth is your most profitable quest for a while, and Royal Ludroth quests are plentiful and sell for a fair chunk of Zenny.
+In offline village, capture Royal Ludroth is your most profitable quest for a while, and Royal Ludroth crests are plentiful and sell for a fair chunk of Zenny.
