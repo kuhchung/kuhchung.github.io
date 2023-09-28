@@ -529,11 +529,11 @@ Available Slots:  O x3(/4), OOO x2; (Talisman)
 
  <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Blizzard Cannon |  <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px">  Chaos Wing
 
-<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+
-<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+
-<img src="images/MH3icon-3-Arms.png" width="16px"> Mutsu Kote+
-<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+
-<img src="images/MH3icon-5-Legs.png" width="16px"> Legiacrus Leggings+
+<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Mutsu Kote+  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Legiacrus Leggings+  
 
 Bomb Boost 7 O
 
