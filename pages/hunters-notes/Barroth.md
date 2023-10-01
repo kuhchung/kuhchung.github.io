@@ -35,11 +35,11 @@ Note that once you break either Barroth's scalp or claws, they can never be mudb
 ## Evasion and Avoidance
 Barroth actually has two forward charges, though they might appear quite similar. The first one is from long range, where the tail backswings to the right. The other is at close range, which includes a head fling upwards and a tailswing to the left. The tailswing to the right (far charge) is an active hurtzone. The tailswing to the left (close charge) is not.  
 (TODO: pic)
->> You cannot be hurt by this tailswing.
+> You cannot be hurt by this tailswing.
 
 During Barroth's big mud fling attack, there is a relatively safe but very pixelly perfect place you can be. You can either be out behind the edge of his extended tail if your weapon reaches, or otherwise, **be flush in line directly with his left hind foot.** This place is safe from the mudballs... mostly. It's quite picky.
 (TODO: pic)
->> Fun fact: Barroth cannot do the mud fling attack when you've cleaned his entire body.
+> Fun fact: Barroth cannot do the mud fling attack when you've cleaned his entire body.
 
 Instead of hitting turns as [Great Jaggi](great-jaggi.md), [Qurupeco](qurupeco.md), and [Royal Ludroth](Royal-Ludroth.md) perhaps taught you, I take a swipe at his rear end and just roll away when he begins his backstep-turn. Lances can stay close and just counter and dance with him. If you bounce on the head, you're in trouble. For longswords, the fade slash to the right or left will put you far enough not to eat any straight line charges.
 
