@@ -72,11 +72,18 @@ Barroth gunner
 
 Rathian (earplugs, skippable. TODO provide a set. Main note: SKIP THE CHEST PIECE. Full Rathian minus chest and gemmed is fine.)
 
-Baggi for GS
+Baggi for GS. Skip the chest to save on Leader's Crest.
 
-Steel for Guard Lance, highly recommend
+Steel for Guard Lance, highly recommend. Head and legs can be anything. Maybe something that can combine with whatever talismans you have available.
 
 Weapons to build
+
+Gun combos at this point:
+Royal Launcher - Tropeco Gun - Tropeco Gun for fire elemental + para  
+Royal Launcher - Royal Launcher - Tropeco Gun for water elemental  
+Jaggid Frame - Barrozooka - Heavy Bowgun for pierce 1 + RF pierce 2  
+
+Use Alloy for pierce/normal and any armor set with attack up for elemental.
 
 ## HR19-30/Village 5\*
 

@@ -41,7 +41,7 @@ When lancing, be aware of the claw swipe on the turn and counter to continue to 
 
 The electric field can be lance counetered or shield advanced into.
 
-The *large* electric field probably requires Guard Up (TODO: verify.) Otherwise, just get out of dodge.
+The *large* electric field probably requires Guard Up—but you still don't want to be there. Thanks to Misc for checking for me. Get out of dodge.
 
 ## Flash Bombing
 I like to flash him as he either readies to surf, or af.ter he's completed surfing and turned back around.
