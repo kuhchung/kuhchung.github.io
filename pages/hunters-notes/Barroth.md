@@ -1,7 +1,7 @@
 ## <img src="icons/barroth.png" width="32px"> Hunter's Notes - Barroth <img src="icons/barroth.png" width="32px">
 <p float="left">
-<img src="images/barroth-mud.png" width="98%">
-<img src="images/barroth-clean.png" width="98%">
+<img src="images/barroth-mud.png" width="49%">
+<img src="images/barroth-clean.png" width="49%">
 <p float="left">
 
 Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance (Guard)  
