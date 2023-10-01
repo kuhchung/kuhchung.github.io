@@ -54,5 +54,11 @@ Barroth's close charge deals G2 blockstun.
 
 In my opinion, evade does not get you anything in this fight. Go with Guard+1.
 
+## Flash Bombing
+I just flash bomb the turns. He cannot charge around the arena when flashed, so it's pretty nice.
+
+## Sleep Trapping
+Place the trap at his claws when he's asleep. Then, when you bomb him awake, he will stand and immediately be trapped.
+
 ## Reward Oddities
 There's nothing unique that can be carved from Barroth's scalp or tail. The main incentive to do these things would be if they are subquest rewards, or having an extra 2-3% chance (TODO: lookup exact number) to carve a Wyvern Stone. I wouldn't bother with either otherwise.
