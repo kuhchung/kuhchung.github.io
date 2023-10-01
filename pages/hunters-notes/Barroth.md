@@ -41,7 +41,7 @@ During Barroth's big mud fling attack, there is a relatively safe but very pixel
 (TODO: pic)
 > Fun fact: Barroth cannot do the mud fling attack when you've cleaned his entire body.
 
-Instead of hitting turns as [Great Jaggi](great-jaggi.md), [Qurupeco](qurupeco.md), and [Royal Ludroth](Royal-Ludroth.md) perhaps taught you, I take a swipe at his rear end and just roll away when he begins his backstep-turn. Lances can stay close and just counter and dance with him. If you bounce on the head, you're in trouble. For longswords, the fade slash to the right or left will put you far enough not to eat any straight line charges.
+Instead of hitting turns as [Great Jaggi](Great-Jaggi.md), [Qurupeco](Qurupeco.md), and [Royal Ludroth](Royal-Ludroth.md) perhaps taught you, I take a swipe at his rear end and just roll away when he begins his backstep-turn. Lances can stay close and just counter and dance with him. If you bounce on the head, you're in trouble. For longswords, the fade slash to the right or left will put you far enough not to eat any straight line charges.
 
 Keep piling damage on the claws, and he'll go down eventually. You'll get the hang of it!
 
