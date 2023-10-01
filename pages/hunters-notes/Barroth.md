@@ -13,7 +13,7 @@ Afflictions: <img src="icons/-status-Waterblight.png" width="20px"> / <img src="
 
 Barroth - Brute Wyvern  
 Threat Level : ★★★★  
-**Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud.  They will charge in a frenzy at anything that distrubs their bogs.**
+*Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud.  They will charge in a frenzy at anything that distrubs their bogs.*
 
 Rage Tells: White smoke
 
