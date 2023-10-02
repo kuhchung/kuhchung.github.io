@@ -42,7 +42,7 @@ Evasion+1 gives you a total of 8 (!) frames of invincibility. This can absolutel
 Evasion+2 gives you a total of 10 frames of invinciblity. This is widely considered unnecessary (I agree.)
 
 ## Guard
-Monster attacks have a certain block stun value. Certain attacks are heavier than others. Some, you can counter quickly with an upstab. Otherwise, it takes a little longer and you get a forward stab. And the strongest ones simply put you in blockstun and don't let you counter at all, even if you were in a counter stance.
+Monster attacks have a certain block stun value. Certain attacks are heavier than others. Some, you can counter quickly with an upstab. Otherwise, it takes a little longer and you get a forward stab. And the strongest ones simply put you in blockstun and don't let you counter at all, even if you were in a counter stance (you will still block though.)
 
 I don't know if these have a technical term or even a playerbase widely accepted term, so I am simply calling them G0, G1, and G2.
 
