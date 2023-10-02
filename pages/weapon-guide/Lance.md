@@ -24,6 +24,8 @@ Great.
 
 Please, just triple poke the monster.
 
+> On land, lance charge isn't even faster than running. But it *is* funny.
+
 ## Mobility
 If the monster is far away, sheathe and move.
 
