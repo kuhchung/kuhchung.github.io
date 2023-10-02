@@ -26,6 +26,8 @@ Its roar is standard grade and fairly wide range.
 Pit into flash
   * If you load 10 pierce 1, when Uragaan is pitted and unraged, you can unload 20 shots before sheathing and flash bombing his roar. If raged, you can get 15.
 
+If Uragaan is asleep, place your trap at/in front of its chin (test this more, TODO: picture).
+
 ## Avoidance and Evasion
 If you're having trouble avoiding his crazy rolls, here's a tip: He will _never_ roll across the point where he initially started it!
 
