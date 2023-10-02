@@ -105,7 +105,7 @@ Available Slots:  O x2; (Chest); (Weapon); (Talisman)
 <img src="images/MH3icon-1-Head.png" width="16px"> Baggi Helm  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Any  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Baggi Vambraces | O (FastCharge 1)  
-<img src="images/MH3icon-4-Waist.png" width="16px"> Baggi Coil | O 
+<img src="images/MH3icon-4-Waist.png" width="16px"> Baggi Coil | O  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Baggi Greaves | O  
 
 For GS focus enjoyers, of whom I am one.
