@@ -40,9 +40,8 @@ Qurupeco (not immediately useful... kind of anti-recommend)
 
 Bnahbrah Alloy blademaster mix (for multiplayer, solo anti-recommend)
 
-Weapons to build:
-Generally, there are two lines: the metal line and the bone line. It's usually a good idea to have one of each and head down both, using whatever has more damage at your current point in the game.  
-If there are branching paths, honestly *don't worry about it too much.* Just pick one, or check the Weapon Tree guide if it really bothers you.  
+### Weapons Checkpoint
+Generally, there are two lines: the metal line and the bone line. It's usually a good idea to have one of each and head down both, using whatever has more damage at your current point in the game.  If there are branching paths, honestly *don't worry about it too much.* Just pick one, or check the Weapon Tree guide if it really bothers you.  
 
 This is what I used to fight Great Jaggi:  
 Ludroth's Nail  
@@ -105,7 +104,7 @@ Available Slots:  O x2; (Chest); (Weapon); (Talisman)
 <img src="images/MH3icon-1-Head.png" width="16px"> Baggi Helm  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Any  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Baggi Vambraces | O (FastCharge 1)  
-<img src="images/MH3icon-4-Waist.png" width="16px"> Baggi Coil | O 
+<img src="images/MH3icon-4-Waist.png" width="16px"> Baggi Coil | O  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Baggi Greaves | O  
 
 For GS focus enjoyers, of whom I am one.
@@ -126,6 +125,7 @@ Jaggid Frame - Barrozooka - Heavy Bowgun for pierce 1 + RF pierce 2
 Use Alloy for pierce/normal and any armor set with attack up for elemental.
 
 ## HR19-30/Village 5\*
+### Weapons Checkpoint
 These are my relevant weapons going into the Lagiacrus urgent hunt (not repel.)  
 Sword and Shield: Qurupeco Chopper, Royal Claw+  
 Lance: Rampart, Spiral Lance  
@@ -134,9 +134,9 @@ Greatsword: Valkyrie Blade
 Bowgun: see above  
 Longsword and Switch Axe: Sorry they are so garbage I wouldn't even use them at this point
 
-Rathalos (upgrade to jaggi/barroth)
+Rathalos (upgrade to jaggi/barroth. See about skipping the piece that costs a plate.)
 
-Lagiacrus
+Lagiacrus, more gunner than blade. Blade is skippable.
 
 ---
 
@@ -165,15 +165,16 @@ Diablos gunner (requires Majestic horn)
 
 Barioth (upgrade from qurupeco, skippable)
 
-Weapons to build
+### Weapons Checkpoint
 
 ## Village 6\*
 Helios Lagi mix. Main note: SKIP THE CHEST PIECE.
 
-Weapons to build
-
 
 ## HR31-40
+**You want a high rank armor set ASAP! I like Alloy+ - just gathering, no hunting.**
+> Unless you enjoy getting 2 or 3 shot, get a high rank armor set.
+
 Jaggi+
 
 Alloy+ (S-tier)
