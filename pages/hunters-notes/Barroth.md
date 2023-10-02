@@ -1,7 +1,7 @@
 ## <img src="icons/barroth.png" width="32px"> Hunter's Notes - Barroth <img src="icons/barroth.png" width="32px">
 <p float="left">
-<img src="images/barroth-mud.png" width="98%">
-<img src="images/barroth-clean.png" width="98%">
+<img src="images/barroth-mud.png" width="49%">
+<img src="images/barroth-clean.png" width="49%">
 <p float="left">
 
 Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance (Guard)  
@@ -13,7 +13,7 @@ Afflictions: <img src="icons/-status-Waterblight.png" width="20px"> / <img src="
 
 Barroth - Brute Wyvern  
 Threat Level : ★★★★  
-**Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud.  They will charge in a frenzy at anything that distrubs their bogs.**
+*Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud.  They will charge in a frenzy at anything that distrubs their bogs.*
 
 Rage Tells: White smoke
 
@@ -35,13 +35,13 @@ Note that once you break either Barroth's scalp or claws, they can never be mudb
 ## Evasion and Avoidance
 Barroth actually has two forward charges, though they might appear quite similar. The first one is from long range, where the tail backswings to the right. The other is at close range, which includes a head fling upwards and a tailswing to the left. The tailswing to the right (far charge) is an active hurtzone. The tailswing to the left (close charge) is not.  
 (TODO: pic)
->> You cannot be hurt by this tailswing.
+> You cannot be hurt by this tailswing.
 
 During Barroth's big mud fling attack, there is a relatively safe but very pixelly perfect place you can be. You can either be out behind the edge of his extended tail if your weapon reaches, or otherwise, **be flush in line directly with his left hind foot.** This place is safe from the mudballs... mostly. It's quite picky.
 (TODO: pic)
->> Fun fact: Barroth cannot do the mud fling attack when you've cleaned his entire body.
+> Fun fact: Barroth cannot do the mud fling attack when you've cleaned his entire body.
 
-Instead of hitting turns as [Great Jaggi](great-jaggi.md), [Qurupeco](qurupeco.md), and [Royal Ludroth](Royal-Ludroth.md) perhaps taught you, I take a swipe at his rear end and just roll away when he begins his backstep-turn. Lances can stay close and just counter and dance with him. If you bounce on the head, you're in trouble. For longswords, the fade slash to the right or left will put you far enough not to eat any straight line charges.
+Instead of hitting turns as [Great Jaggi](Great-Jaggi.md), [Qurupeco](Qurupeco.md), and [Royal Ludroth](Royal-Ludroth.md) perhaps taught you, I take a swipe at his rear end and just roll away when he begins his backstep-turn. Lances can stay close and just counter and dance with him. If you bounce on the head, you're in trouble. For longswords, the fade slash to the right or left will put you far enough not to eat any straight line charges.
 
 Keep piling damage on the claws, and he'll go down eventually. You'll get the hang of it!
 
@@ -53,6 +53,12 @@ Barroth's roar and long distance charge deal G1 blockstun. (TODO: link this to l
 Barroth's close charge deals G2 blockstun.
 
 In my opinion, evade does not get you anything in this fight. Go with Guard+1.
+
+## Flash Bombing
+I just flash bomb the turns. He cannot charge around the arena when flashed, so it's pretty nice.
+
+## Sleep Trapping
+Place the trap at his claws when he's asleep. Then, when you bomb him awake, he will stand and immediately be trapped.
 
 ## Reward Oddities
 There's nothing unique that can be carved from Barroth's scalp or tail. The main incentive to do these things would be if they are subquest rewards, or having an extra 2-3% chance (TODO: lookup exact number) to carve a Wyvern Stone. I wouldn't bother with either otherwise.
