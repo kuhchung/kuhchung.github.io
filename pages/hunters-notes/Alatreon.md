@@ -95,6 +95,8 @@ Alatreon's paralyze duration is longer than usual, but the threshold increase is
 
 Alatreon is very vulnerable to sleep. If someone on the hunt is packing sleep, then **all hunters should bring their bomb materials and combines**.
 
+If Alatreon is spooning you while it's sleeping, trapping you in between its legs, you can perform the jump attack with Sword and Shield to get out. Any other weapon, be sad.
+
 
 ## Wall Lock
 There are two walls on the side of the arena. Some players like to climb this so Alatreon will dragon rush into the wall and get his horns stuck, a la Diablos.
