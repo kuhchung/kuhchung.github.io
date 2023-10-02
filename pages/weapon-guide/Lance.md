@@ -14,9 +14,9 @@ Okay fine there are reasons to lance charge, but if you knew that, then you don'
 ## Why not lance charge?
 I will quote the damage formula FAQ directly.
 
-Also note that status ailments are reduced by half when using the lance charge.  
-A status hit (stun) that would normally deal 20 stun damage will only deal 10.  
-Elements are reduced by 75%.  8 elemental damage per hit would be reduced to 2 per hit when charging with the lance.
+> Also note that status ailments are reduced by half when using the lance charge.  
+> A status hit (stun) that would normally deal 20 stun damage will only deal 10.  
+> Elements are reduced by 75%.  8 elemental damage per hit would be reduced to 2 per hit when charging with the lance.
 
 And as for raw, each tick deals slightly less damage than a poke. So you are grinding down your weapon's sharpness, dealing significantly less elemental damage, dealing significantly less status damage, and potentially bowling over your teammates.
 
