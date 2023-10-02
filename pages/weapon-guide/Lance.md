@@ -5,7 +5,7 @@ TODO: Pictures
 ## Your one takeaway
 If there's only one thing you read and retain from this page, let it be this.
 
-**DON'T LANCE CHARGE.**
+🎵🎵🎵**DON'T LANCE CHARGE.**🎵🎵🎵
 
 Lance charge is shit for damage and disrupts teammates. When you press lance charge, it's lighting the beacon to all your teammates screaming "I am a noob!"
 
