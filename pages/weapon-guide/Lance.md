@@ -52,8 +52,8 @@ G0 means that you can get the quick counter without a Guard skill.
 G1 means you can get the quick counter, but only if you have Guard+1. Think a long range Barroth charge or a Barioth jump swipe.  
 G2 means you need Guard+2.  
 
-> Early monsters like Jaggi, Qurupeco, and Ludroth's attacks are majority G0. Surprisingly, Diablos's roar is also G0, despite an incredibly long stun duration if she hits you with it. Go figure.
-> Most monster roars are G1.
+> Early monsters like Jaggi, Qurupeco, and Ludroth's attacks are majority G0. Surprisingly, Diablos's roar is also G0, despite an incredibly long stun duration if she hits you with it. Go figure.  
+> Most monster roars are G1.  
 > Ceadeus's roar is G2.
 
 ## Guard Boost
