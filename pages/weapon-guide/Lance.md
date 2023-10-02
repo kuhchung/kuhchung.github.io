@@ -57,7 +57,7 @@ G2 means you need Guard+2.
 > Ceadeus's roar is G2.
 
 ## Guard Boost
-Not to be confused with Guard, this armor skill lets you block previously unblockable attacks. Gigginox's poison flap, Alatreon's fireball, and Lagiacrus's large ghtning field all come to mind.
+Not to be confused with Guard, this armor skill lets you block previously unblockable attacks. Gigginox's poison flop, Alatreon's fireball, and Lagiacrus's large lightning field all come to mind.
 
 If you want to shell up and be able to Guard anything, this is your skill.
 
