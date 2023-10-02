@@ -2,7 +2,7 @@
 
 You've arrived... and you're naked! We can't just *put* on clothes - we have to work our way up to it.
 
-This page will list what I feel are the most effective, popular and affordable options for advancing through the game.
+This page will list what I feel are the most effective, popular, and affordable options for advancing through the game.
 
 Highly WIP.
 
@@ -166,6 +166,14 @@ Diablos gunner (requires Majestic horn)
 Barioth (upgrade from qurupeco, skippable)
 
 ### Weapons Checkpoint
+At this point, we're preparing for High Rank!
+Sword and Shield: One of every element
+Greatsword: Sieglinde
+Lance: One of every element
+Longsword: Basically just make all of them
+Switch Axe: Same as above, except the crystal one is pretty dumb
+Hammer: The pure iron line is fine. Hammer is honestly a bit sad until HR 6* :(
+Bowgun: You've probably been collecting these as you go. The barrels and stocks don't need upgrades, so just make them. Of note, Thundacrus stock is incredibly good, Barrozooka barrel is amazing. Agnablaster has its place.
 
 ## Village 6\*
 Helios Lagi mix. Main note: SKIP THE CHEST PIECE.
