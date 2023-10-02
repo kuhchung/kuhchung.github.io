@@ -70,9 +70,49 @@ Barroth (upgrade to Jaggi, skippable)
 
 Barroth gunner
 
-Rathian (earplugs, skippable. TODO provide a set. Main note: SKIP THE CHEST PIECE. Full Rathian minus chest and gemmed is fine.)
+### Low Rank Rathian Mix
 
-Baggi for GS. Skip the chest to save on Leader's Crest.
+<p float="left">
+<img src="images/low-rank-rathian-mix.png" width="48%">
+<img src="images/low-rank-rathian-mix-skills.png" width="48%">
+<p float="left">
+Active Skills:  Fire Res +10, Earplugs, Health +20
+  
+Available Slots:  OO; (Chest); (Talisman)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Rathian Helm | O (Hearing 1)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Any  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Rathian Vambraces | OO (Hearing 1, Hearing 1)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Rathian Faulds | O (Health 2)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Rathian Greaves | OO  
+
+Earplugs!
+
+Note: SKIP THE CHEST PIECE. It's a garbage piece that even costs a Rathian plate. My set above uses no rare materials and gets the job done.
+
+---
+
+### Low Rank Baggi Mix
+
+<p float="left">
+<img src="images/low-rank-baggi-mix.png" width="48%">
+<img src="images/low-rank-baggi-mix-skills.png" width="48%">
+<p float="left">
+Active Skills:  Capture Expert, Focus
+  
+Available Slots:  O x2; (Chest); (Weapon); (Talisman)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Baggi Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Any  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Baggi Vambraces | O (FastCharge 1)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Baggi Coil | O 
+<img src="images/MH3icon-5-Legs.png" width="16px"> Baggi Greaves | O  
+
+For GS focus enjoyers, of whom I am one.
+
+I skipped the chest piece to cheap out on Leader's Crests. But if you're planning to get low rank critical draw and focus, you'll probably need it later. Though you'll also need a decent critical draw talisman.
+
+---
 
 Steel for Guard Lance, highly recommend. Head and legs can be anything. Maybe something that can combine with whatever talismans you have available.
 
@@ -86,6 +126,13 @@ Jaggid Frame - Barrozooka - Heavy Bowgun for pierce 1 + RF pierce 2
 Use Alloy for pierce/normal and any armor set with attack up for elemental.
 
 ## HR19-30/Village 5\*
+These are my relevant weapons going into the Lagiacrus urgent hunt (not repel.)  
+Sword and Shield: Qurupeco Chopper, Royal Claw+  
+Lance: Rampart, Spiral Lance  
+Hammer: Vodyanoy Hammer, Peco Flint  
+Greatsword: Valkyrie Blade
+Bowgun: see above  
+Longsword and Switch Axe: Sorry they are so garbage I wouldn't even use them at this point
 
 Rathalos (upgrade to jaggi/barroth)
 
