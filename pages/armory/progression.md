@@ -118,7 +118,7 @@ Steel for Guard Lance, highly recommend. Head and legs can be anything. Maybe so
 ### Bowguns Checkpoint
 
 Gun combos at this point:
-Royal Launcher - Tropeco Gun - Tropeco Gun for fire elemental + para  
+Poison Stinger - Tropeco Gun - Tropeco Gun for fire elemental + para  
 Royal Launcher - Royal Launcher - Tropeco Gun for water elemental  
 Jaggid Frame - Barrozooka - Heavy Bowgun for pierce 1 + RF pierce 2  
 
