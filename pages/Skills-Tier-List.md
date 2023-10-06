@@ -12,7 +12,7 @@ Here we go!
 Basically universally great skills.
 
 ### Sharpness+1 (Handicraft)
-Basically mandatory for the majority of endgame blademaster weapons.
+Mandatory for the majority of endgame blademaster weapons.
 
 ### Earplugs, High Grade Earplugs
 Bring the correct earplugs for the occasion, *please*. There is no reason to bring HGE to everything.
