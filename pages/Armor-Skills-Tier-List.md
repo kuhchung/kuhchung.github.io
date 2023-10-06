@@ -12,7 +12,7 @@ Here we go!
 Basically universally great skills.
 
 ### Sharpness+1 (Handicraft)
-Basically mandatory for the majority of endgame blademaster weapons.
+Mandatory for the majority of endgame blademaster weapons.
 
 ### Earplugs, High Grade Earplugs
 Bring the correct earplugs for the occasion, *please*. There is no reason to bring HGE to everything.
@@ -27,7 +27,7 @@ A tie for best C-skill in the game. Easily gemmed in.
 This one is tough. It's either bottom S tier or top A tier I think. But it also requires a certain standard of play to execute.
 
 ### Element Atk Up (Gunner), Bonus Shot, Pierce S Boost, Pierce S All Up, Clust S All Up, Normal S All Up, Normal S Boost
-Basically, pick the type of ammo you want to shoot and apply these skills. Indispensible.
+Pick the type of ammo you want to shoot and apply these skills. Indispensible.
 
 ## A Tier
 ### Attack Up
@@ -36,8 +36,8 @@ A for Attack. Duh. This is the blademaster and elemental gunning attack buff tha
 ### Critical Eye
 A for Expert. Duh. This is the normal and pierce gunning attack buff that you want.
 
-### Element Atk Up
-For elemental gunning, mostly. The cost of getting this skill is very very high, so I do not actually recommend it for blademasters. But if you like it on your SnS or Lance, go for it.
+### Element Atk Up (Blademaster)
+In my opinion, this skill is for elemental gunning, mostly. The cost of getting this skill is very very high, so I do not actually recommend it for blademasters. But if you like it on your SnS or Lance, go for it. I'll still put it in A tier cuz it does damage, I guess.
 
 ### Evasion
 A lot of people will put this higher. I think it depends... but it's sort of universal so I'll give it a generic ranking instead of putting it in Uncategorizable/Situational. When it is good, it is *very* good.
@@ -91,3 +91,6 @@ The Greatsword set of skills. Greatsword armor sets are all about matchups.
 
 ### Whim, Gathering, Speed Gather, Pro Transporter
 Egg and gather quests. If you're impatient like me, they're mandatory when you go on those types.
+
+### Perception
+A useful skill for newcomers, and I don't mean that as an insult. I highly recommend it.
