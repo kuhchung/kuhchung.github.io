@@ -36,8 +36,8 @@ A for Attack. Duh. This is the blademaster and elemental gunning attack buff tha
 ### Critical Eye
 A for Expert. Duh. This is the normal and pierce gunning attack buff that you want.
 
-### Element Atk Up
-For elemental gunning, mostly. The cost of getting this skill is very very high, so I do not actually recommend it for blademasters. But if you like it on your SnS or Lance, go for it.
+### Element Atk Up (Blademaster)
+In my opinion, this skill is for elemental gunning, mostly. The cost of getting this skill is very very high, so I do not actually recommend it for blademasters. But if you like it on your SnS or Lance, go for it. I'll still put it in A tier cuz it does damage, I guess.
 
 ### Evasion
 A lot of people will put this higher. I think it depends... but it's sort of universal so I'll give it a generic ranking instead of putting it in Uncategorizable/Situational. When it is good, it is *very* good.
