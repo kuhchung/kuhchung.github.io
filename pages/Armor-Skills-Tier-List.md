@@ -62,7 +62,7 @@ This is actually important for pierce if you're solo gunning/carrying the team b
 Quality of life skill for those who pill-seed.
 
 ### Razor Sharp
-Once you realize that Speed Sharpen is both better *and* easier to gem in, this skill loses a lot of its appeal.
+Once you realize that Speed Sharpen is both better *and* easier to gem in, this skill loses a lot of its appeal. It's also at odds with Sharpness+1 just because of how the Ceadeus armor pieces work, so even if you wanted it, you would be hard pressed to get it. And like I said... it sucks anyway.
 
 
 ## C Tier
