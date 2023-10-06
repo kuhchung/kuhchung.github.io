@@ -27,7 +27,7 @@ A tie for best C-skill in the game. Easily gemmed in.
 This one is tough. It's either bottom S tier or top A tier I think. But it also requires a certain standard of play to execute.
 
 ### Element Atk Up (Gunner), Bonus Shot, Pierce S Boost, Pierce S All Up, Clust S All Up, Normal S All Up, Normal S Boost
-Basically, pick the type of ammo you want to shoot and apply these skills. Indispensible.
+Pick the type of ammo you want to shoot and apply these skills. Indispensible.
 
 ## A Tier
 ### Attack Up
