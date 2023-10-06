@@ -70,8 +70,7 @@ These skills are just absolute filler. Entirely skippable.
 
 ### Health, Rec Speed, Defense
 ### Heat Cancel, Cold Cancel
-### Poison
-### Paralysis
+### Poison, Paralysis
 ### Water Res, Thunder Res, Ice Res, Dragon Res
 ### Windproof, Current Res
 To be honest, I kind of like these skills. The main problem is that the opportunity cost of using them is too high.
