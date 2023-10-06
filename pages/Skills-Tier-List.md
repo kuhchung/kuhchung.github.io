@@ -91,3 +91,6 @@ The Greatsword set of skills. Greatsword armor sets are all about matchups.
 
 ### Whim, Gathering, Speed Gather, Pro Transporter
 Egg and gather quests. If you're impatient like me, they're mandatory when you go on those types.
+
+### Perception
+A useful skill for newcomers, and I don't mean that as an insult. I highly recommend it.
