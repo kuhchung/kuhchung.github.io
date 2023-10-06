@@ -17,6 +17,15 @@ Do not waste time spinning the monster. Do not waste time finding little upswing
 
 Triple pound, super pound, or golfswing the head.
 
+## Spinning Golfswing
+To perform a spinning golfswing, you need to charge to full level, then release R while you're still moving. This will put you in a spin.
+
+If you hit X after 1-3 spins, you will get the undesirable low swing.
+
+If you hit X after 4-6 spins, you will get the golfswing.
+
+If you do nothing, you will get the undesirable swing again.
+
 ## Hammer loop
 Barring monsters with problematic heads, I would say that superpounds comprise 90% of your attacks. The remaining 10% will just be random attacks of opportunity that you can sneak in.
 
