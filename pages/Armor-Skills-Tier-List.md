@@ -89,6 +89,9 @@ Look, either you're doing solo speedruns or you're not.
 ### Critical Draw, FastCharge, Tremor-Proof
 The Greatsword set of skills. Greatsword armor sets are all about matchups.
 
+### Recoil Down +3
+Either you're stat gunning/clusting or you're not.
+
 ### Whim, Gathering, Speed Gather, Pro Transporter
 Egg and gather quests. If you're impatient like me, they're mandatory when you go on those types.
 
