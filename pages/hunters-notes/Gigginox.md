@@ -1,4 +1,4 @@
-# <img src="icons/gigginox.png" width="32px"> Hunter’s Notes - Gigginox <img src="icons/Gigginox.png" width="32px">
+# <img src="icons/gigginox.png" width="32px"> Hunter’s Notes - Gigginox <img src="icons/gigginox.png" width="32px">
 <p float="left">
 <img src="images/gigginox.png" width="98%">
 <img src="images/gigginox-underside.png" width="98%">
