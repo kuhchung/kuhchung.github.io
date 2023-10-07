@@ -16,7 +16,7 @@ Let's do this!
 [Progressing offline and getting rich](pages/Running-the-Moga-Business.md)  
 [Random mechanics about the game](pages/Misc.md)  
 
-If you want to look at **armor sets** I've collated, [here they are.](pages/armory/index.md)
+If you want to look at **armor sets** I've collated (you do), [here they are.](pages/armory/index.md)
 
 ## Resources
 Good external references:  
@@ -32,4 +32,11 @@ Good external references:
 
 ## Credits
 Thanks to my longstanding suffering friend Esti for a ton of work on the Armory and Hunter's Notes  
-For any questions or feedback, please contact kuhchung on Discord
+Thanks to misc and Akiko for testing and contributions  
+
+For any questions or feedback, please contact kuhchung on Discord  
+Or leave a comment on my Youtube videos
+
+## TODO
+Add monster reward tables, hitzones, status, hp info etc.  One stop for all your monster needs.  
+Add per Quest info (aka Mushroom Hunting, how to get Choice and Ripened Mushroom, how to carve kelbi horns, etc.)

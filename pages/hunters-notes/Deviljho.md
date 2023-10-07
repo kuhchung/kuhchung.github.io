@@ -63,9 +63,11 @@ I don't like bringing status weapons to this fight. One sleep and one para via m
 If you want to flash bomb Deviljho, only do it when he's exhausted. He goes crazy in other states.
 
 ## WORLD EATER SPECIFIC
-
 If you set off smoke bombs and place a drugged meat while he hasn't noticed anyone, he will 100% (?) go for it. This only works for World Eater for whatever reason.
 I've seen it glitch out with two drugged meats placed. He seems to go for one, then stops and moves to the other, and then doesn't perform the eating animation af.ter all. So only place one.
 
 ## Early Deviljho
 Deviljho invades a lot of hunts as soon as high rank starts (Qurupeco surprise!) But the [Advanced] Jaggia Menace quest will guarantee spawn a Deviljho in area 5 (around the white stone path) at 46:30 on the quest timer. Once the first Deviljho has been defeated or killed and his corpse disappears, a second one will spawn in. A lot of early players like this quest, especially if they have higher ranked teammates to carry them through it. This allows players to make an early partial Vangis set around HR40+. See [here](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/progression.md#early-vangis).
+
+## Random Useless Trivia
+Deviljho will eat captured boss monsters. Nothing graphic happens though, and the captured boss monster will not despawn.
