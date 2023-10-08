@@ -37,7 +37,7 @@ Breakpoints are:
 41-50  
 51+  
 
-### Why isn't <insert quest> available? I'm on the correct tier.
+### Why isn't \<insert quest> available? I'm on the correct tier.
 Loc Lac randomizes the quest selection list. Go on a quest and check again next time.
 
 ## Moga
