@@ -11,6 +11,7 @@ Let's do this!
 [My notes on monsters](pages/hunters-notes)  
 [My weapon guide](pages/weapon-guide)  
 
+[Frequently Asked Questions](pages/FAQ.md)  
 [Be a good teammate](pages/Being-a-Good-Teammate.md)  
 
 [Progressing offline and getting rich](pages/Running-the-Moga-Business.md)  
