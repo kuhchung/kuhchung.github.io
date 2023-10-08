@@ -57,7 +57,7 @@ To freehunt, go out the right (up the steps and over the wooden bridge.)
 To unlock the piece of gear you want to see fro mthe blacksmith, you must have the first material on the list required for the forge. This means if you haven't seen it, you're missing a material.
 
 ### What's the difference between overforging and making the armor+?
-TODO: pic
+TODO: pic  
 A monster's high rank armor (denoted by +) may have completely different armor skills from its low rank counterpart. It is a completely distinct piece of armor.
 
 If you want to continue using your low rank armor set but update its defensive values for high rank (**overforge**), you can choose Upgrade Armor at the smith, select your low rank armor, and then perform a "special" upgrade that requires high rank materials. This will bring it in line with high rank defense, but retain its original skills.
