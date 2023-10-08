@@ -21,7 +21,7 @@ Bring sonic bombs and pitfall traps. And I seriously think there is a lot of val
 ## Sonic bombing
 Sonic the end of his dig, like Diablos. Note: the timing is actually pretty tight. Don't be surprised if you miss a few times when you first try it.
 
-You can only sonic the lava shark leaping on his very final dive. It's always an odd number as far as I know. Up to 7 if raged (unsure about non-rage)... I would go for it at 3. I am 100% on two attempts as of the server project going live.
+You can only sonic the lava shark leaping on his very final dive. It's always an odd number as far as I know. When unraged, if he does 3 lava shark leaps, immediately bomb the end of the 3rd one. You are going to look so badass.
 
 If he does one leap, then stops and decides to surf, he will follow up with another leap. Sonic bomb him there.
 
