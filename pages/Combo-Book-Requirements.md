@@ -7,19 +7,19 @@ A real hunter prepares. And sometimes that means bringing items to combine in th
 > TODO: picture of ? garbage
 
 ## Two Books
-Pierce 1
-Shock Trap
-Mega Potion
+Pierce 1  
+Shock Trap  
+Mega Potion  
 
 ## Four Books
-Pierce 2
+Pierce 2  
 
 ## Five Books
-Barrel Bomb L
-Barrel Bomb L+
-Pitfall Trap
-Clust 2 (?)
-Dragon S (?)
-Para 2 (?)
-Sleep 2 (?)
+Barrel Bomb L  
+Barrel Bomb L+  
+Pitfall Trap  
+Clust 2 (?)  
+Dragon S (?)  
+Para 2 (?)  
+Sleep 2 (?)  
 
