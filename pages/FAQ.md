@@ -3,7 +3,7 @@
 ## Contents
 
 - [Talismans](#talismans)
-- [Hunter Rank](#hunter-rank)
+- [Loc Lac](#loc-lac)
 - [Moga](#moga)
 - [Forge](#forge)
 
@@ -25,7 +25,7 @@ The event quest World Eater drops a lot of Timeworn Charms. People used to speed
 
 Otherwise, just keep doing high level hunt quests and pray.
 
-## Hunter Rank
+## Loc Lac
 ### I did my urgent, but I don't see the next rank of quests in Loc Lac! Why?
 You need to complete your key quests, your urgent quest, **and** be high enough rank to unlock the next tier.
 
@@ -36,6 +36,9 @@ Breakpoints are:
 31-40  
 41-50  
 51+  
+
+### Why isn't <insert quest> available? I'm on the correct tier.
+Loc Lac randomizes the quest selection list. Go on a quest and check again next time.
 
 ## Moga
 ### When do I unlock Switch Axe? When do I unlock Longsword?
