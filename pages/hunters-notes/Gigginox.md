@@ -1,7 +1,7 @@
 # <img src="icons/gigginox.png" width="32px"> Hunter’s Notes - Gigginox <img src="icons/gigginox.png" width="32px">
 <p float="left">
-<img src="images/gigginox.png" width="98%">
-<img src="images/gigginox-underside.png" width="98%">
+<img src="images/gigginox.png" width="49%">
+<img src="images/gigginox-underside.png" width="49%">
 <p float="left">  
   
 Elemental Weakness: <img src="icons/-status-Fireblight.png" width="20px"> Fire
