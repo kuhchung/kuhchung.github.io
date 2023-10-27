@@ -213,26 +213,24 @@ Barroth+ (pieces endgame viable) (use LR barry arms if no wyvern stones)
 
 ---
 
-### Earplugs/HGE Mix
+### Rathian High Grade Earplugs
 <p float="left">
-<img src="images/cheap-rathian-mix.png" width="48%">
-<img src="images/cheap-rathian-mix-skills.png" width="48%">
+<img src="images/hge-rathian-mix.png" width="48%">
+<img src="images/hge-rathian-mix-skills.png" width="48%">
 <p float="left">
 Active Skills:  Fire Res +10, Earplugs, Health +20
   
-Available Slots:  O x2, (Weapon), (Talisman)
+Available Slots:  O, (Weapon), (Talisman)
 
-<img src="images/MH3icon-1-Head.png" width="16px"> Rathian Helm | O  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Rathian Mail+ | O  
+<img src="images/MH3icon-1-Head.png" width="16px"> Rathian Helm+ | OOO (Hearing4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Rathian Mail+ | O (Hearing1)  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Rathian Vambraces | OO (Protection2)  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Rathian Faulds | O (Hearing1)  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Rathian Greaves | OO (Protection2, Protection2)  
 
-My cheap and functional Rathian+ set. This requires a plate, but you're high rank, so they come easier.
+This is for Gigginox and Alatreon, if you really want it.
 
-Ignore the screenshot's skills - I have a hodgepodge of decos in it from low rank.
-
-Use Rathian Helm+ and gem it with the O-O-O Hearing if you want HGE. Note that this takes a Ruby! You basically shouldn't bother with it unless you want it for Alatreon.
+If you want standard grade earplugs, just overforge my [low rank set](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/progression.md#low-rank-rathian-mix). It uses three of the same pieces anyways.
 
 ---
 
