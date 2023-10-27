@@ -159,7 +159,27 @@ Low Rank elemental gunning goodness. Lagiacrus is so flexible. Note that if you 
 
 ---
 
-Baggi Blos mix for GS. Requires crit draw talisman :(
+### Low Rank Focus Greatsword
+<p float="left">
+<img src="images/low-rank-baggi-blos-mix.png" width="48%">
+<img src="images/low-rank-baggi-blos-mix-skills.png" width="48%">
+<p float="left">
+Active Skills:  Focus, Critical Draw, Capture Expert
+  
+Available Slots:  O, (Weapon)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Baggi Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Baggi Mail | OO (FastCharge1)   
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Baggi Coil | O (FastCharge1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Baggi Greaves | O (Crit Draw1)
+Talisman: Crit Draw +2 or better
+
+This requires a Critical Draw talisman. Sorry :(
+
+Thankfully it's not too rare. I'm using a Crit Draw +4 Knight Talisman. Farm the Rathian egg delivery quest in Moga Village for lots of stacks of talismans.
+
+---
 
 Diablos gunner (requires Majestic horn)
 
@@ -183,15 +203,38 @@ Helios Lagi mix. Main note: SKIP THE HELIOS/SELENE CHEST PIECE.
 **You want a high rank armor set ASAP! I like Alloy+ - just gathering, no hunting.**
 > Unless you enjoy getting 2 or 3 shot, get a high rank armor set.
 
-Jaggi+
+Jaggi+ mix (no BWG)
 
 Alloy+ (S-tier)
 
 Two low piece Bnahbrah mix (link to armory)
 
-Barroth+ (pieces endgame viable)
+Barroth+ (pieces endgame viable) (use LR barry arms if no wyvern stones)
 
-Rathian+ (TODO: provide mix)
+---
+
+### Earplugs/HGE Mix
+<p float="left">
+<img src="images/cheap-rathian-mix.png" width="48%">
+<img src="images/cheap-rathian-mix-skills.png" width="48%">
+<p float="left">
+Active Skills:  Fire Res +10, Earplugs, Health +20
+  
+Available Slots:  O x2, (Weapon), (Talisman)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Rathian Helm | O  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Rathian Mail+ | O  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Rathian Vambraces | OO (Protection2)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Rathian Faulds | O (Hearing1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Rathian Greaves | OO (Protection2, Protection2)  
+
+My cheap and functional Rathian+ set. This requires a plate, but you're high rank, so they come easier.
+
+Ignore the screenshot's skills - I have a hodgepodge of decos in it from low rank.
+
+Use Rathian Helm+ and gem it with the O-O-O Hearing if you want HGE. Note that this takes a Ruby! You basically shouldn't bother with it unless you want it for Alatreon.
+
+---
 
 Weapons to build: Spiral Lance (B), High Sieglinde (P), pre-Iron Impact, Shadowbinder G or P, 
 
