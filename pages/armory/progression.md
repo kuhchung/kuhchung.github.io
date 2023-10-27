@@ -238,7 +238,7 @@ Barroth+ (pieces endgame viable) (use LR barry arms if no wyvern stones)
 <img src="images/hge-rathian-mix.png" width="48%">
 <img src="images/hge-rathian-mix-skills.png" width="48%">
 <p float="left">
-Active Skills:  Fire Res +10, Earplugs, Health +20
+Active Skills:  Fire Res +10, High Grade Earplugs, Health +20
   
 Available Slots:  O; (Weapon); (Talisman)
 
