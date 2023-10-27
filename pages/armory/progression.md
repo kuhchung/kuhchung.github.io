@@ -203,7 +203,27 @@ Helios Lagi mix. Main note: SKIP THE HELIOS/SELENE CHEST PIECE.
 **You want a high rank armor set ASAP! I like Alloy+ - just gathering, no hunting.**
 > Unless you enjoy getting 2 or 3 shot, get a high rank armor set.
 
-Jaggi+ mix (no BWG)
+---
+### Jaggi Starter
+<p float="left">
+<img src="images/hr-jaggi-starter.png" width="48%">
+<img src="images/hr-jaggi-starter-skills.png" width="48%">
+<p float="left">
+Active Skills:  Attack Up (M), Negate Stun, Gourmand
+  
+Available Slots:  O x2, OO; (Weapon); (Talisman)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Jaggi Helm+ | O  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Jaggi Mail | O (Stun 2)
+<img src="images/MH3icon-3-Arms.png" width="16px"> Jaggi Vambraces+ | O  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Jaggi Faulds+ | OO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Jaggi Greaves+ | OO (Attack 3)
+
+I prefer full Alloy+, but everyone swears by Jaggi+. Note that I am using the *low rank* chest because there is no way I'm spending a Bird Wyvern Gem on this!
+
+Gem it up however you want.
+
+---
 
 Alloy+ (S-tier)
 
@@ -220,7 +240,7 @@ Barroth+ (pieces endgame viable) (use LR barry arms if no wyvern stones)
 <p float="left">
 Active Skills:  Fire Res +10, Earplugs, Health +20
   
-Available Slots:  O, (Weapon), (Talisman)
+Available Slots:  O; (Weapon); (Talisman)
 
 <img src="images/MH3icon-1-Head.png" width="16px"> Rathian Helm+ | OOO (Hearing4)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Rathian Mail+ | O (Hearing1)  
