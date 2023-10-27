@@ -214,7 +214,7 @@ Active Skills:  Attack Up (M), Negate Stun, Gourmand
 Available Slots:  O x2, OO; (Weapon); (Talisman)
 
 <img src="images/MH3icon-1-Head.png" width="16px"> Jaggi Helm+ | O  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Jaggi Mail | O (Stun 2)
+<img src="images/MH3icon-2-Chest.png" width="16px"> Jaggi Mail | O (Stun 2)  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Jaggi Vambraces+ | O  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Jaggi Faulds+ | OO  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Jaggi Greaves+ | OO (Attack 3)
