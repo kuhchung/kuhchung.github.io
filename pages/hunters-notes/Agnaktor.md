@@ -53,6 +53,8 @@ If you do not, do *not* panic and superman dive early! The laser fire out straig
 
 A nice flashbomb opening is at the very end of his world laser.
 
+You can roll directly through his hipcheck without evasion as long as you're deep enough.
+
 ## Reward oddities
 All 4 claws must be broken for a claw break reward.
 
