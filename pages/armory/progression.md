@@ -138,8 +138,23 @@ Longsword and Switch Axe: Sorry they are so garbage I wouldn't even use them at 
 
 ### Rathalos Without Plate
 
+<p float="left">
+<img src="images/low-rank-cheap-rathalos.png" width="48%">
+<img src="images/low-rank-cheap-rathalos-skills.png" width="48%">
+<p float="left">
+Active Skills:  Attack Up (S), Critical Eye +1
 
-Rathalos (upgrade to jaggi/barroth. Skip the gloves which requires the plate.)
+Available Slots:  O x3, OO; (Weapon); (Talisman)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Rathalos Helm | O  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Rathalos Mail | O  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Alloy Vambraces | O  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Rathalos Faulds   
+<img src="images/MH3icon-5-Legs.png" width="16px"> Rathalos Greaves | OO  
+
+Don't have a Rathalos Plate? Just put in Alloy Vambraces!
+
+I have used *no talisman* and have not touched *any slots*. You can decorate this however you want. I would try to finish out Trapmaster and Speed Sharpen, but you can also go for pure attack if you like.
 
 ---
 
