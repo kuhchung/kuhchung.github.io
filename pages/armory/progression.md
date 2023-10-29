@@ -134,9 +134,12 @@ Greatsword: Valkyrie Blade
 Bowgun: see above  
 Longsword and Switch Axe: Sorry they are so garbage I wouldn't even use them at this point
 
-Rathalos (upgrade to jaggi/barroth. See about skipping the piece that costs a plate.)
+---
 
-Lagiacrus, more gunner than blade. Blade is skippable.
+### Rathalos Without Plate
+
+
+Rathalos (upgrade to jaggi/barroth. Skip the gloves which requires the plate.)
 
 ---
 
@@ -172,7 +175,7 @@ Available Slots:  O, (Weapon)
 <img src="images/MH3icon-2-Chest.png" width="16px"> Baggi Mail | OO (FastCharge1)   
 <img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Baggi Coil | O (FastCharge1)  
-<img src="images/MH3icon-5-Legs.png" width="16px"> Baggi Greaves | O (Crit Draw1)
+<img src="images/MH3icon-5-Legs.png" width="16px"> Baggi Greaves | O (Crit Draw1)  
 Talisman: Crit Draw +2 or better
 
 This requires a Critical Draw talisman. Sorry :(
