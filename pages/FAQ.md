@@ -67,7 +67,7 @@ To freehunt, go out the right (up the steps and over the wooden bridge.)
 ## Forge
 > Why isn't \<insert weapon or armor> on my forge list at the blacksmith even though I beat the monster?
 
-To unlock the piece of gear you want to see fro mthe blacksmith, you must have the first material on the list required for the forge. This means if you haven't seen it, you're missing a material.
+To unlock the piece of gear you want to see from the blacksmith, you must have the first material on the list required for the forge. This means if you haven't seen it, you're missing a material.
 
 > What's the difference between overforging and making the armor+?
 
