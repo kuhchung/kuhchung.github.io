@@ -221,6 +221,10 @@ Helios Lagi mix. Main note: SKIP THE HELIOS/SELENE CHEST PIECE.
 **You want a high rank armor set ASAP! I like Alloy+ - just gathering, no hunting.**
 > Unless you enjoy getting 2 or 3 shot, get a high rank armor set.
 
+Your priority weapons are High Sieglinde (P), Iron Impact, and upgrade whatever elemental based weapons you like to use. Royal Ludroth is available. Flame Tempest and Barioth Switch Axe are available too.
+
+The paralysis weapons are fine/good too.
+
 ---
 ### Jaggi Starter
 <p float="left">
@@ -272,9 +276,13 @@ If you want standard grade earplugs, just overforge my [low rank set](https://gi
 
 ---
 
-Weapons to build: Spiral Lance (B), High Sieglinde (P), pre-Iron Impact, Shadowbinder G or P, 
-
 ## HR41-50
+New priority weapons available:  
+Lance: Sabertooth (G), Agnaktor Firelance  
+SnS: Djinn, Nardebosche  
+Longsword: Dancing Hellfire  
+Hammer: Iron Impact  
+Bowgun: Thundacrus Rex frame and stock  
 
 [Diablos+ Gunner](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#deviating-uragaan-smasher)  
 Believe it or not, this is endgame!
@@ -282,6 +290,8 @@ Believe it or not, this is endgame!
 Baggi+/Diablos+ mix/overforge
 
 Rathalos overforge
+
+Lagiacrus overforge
 
 ---
 
