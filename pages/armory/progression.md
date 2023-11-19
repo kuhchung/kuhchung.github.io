@@ -14,6 +14,7 @@ Highly WIP.
 - [Village6\*](#village-6)
 - [HR31-40](#hr31-40)
 - [HR41-50](#hr41-50)
+- [Alatreon-Urgent](#alatreon-urgent)
 - [HR51+](#hr51)
 
 
@@ -323,6 +324,15 @@ If you're lucky enough to get a Deviljho Gem, you can use Vangis Coil instead of
 ---
 
 Weapons to build: Iron Impact, Thundacrus Rex frame, Sabertooth (G), Nardebosche, Almighty Dahaka, Morpheus Knife, Dancing Hellfire, Agnaktor Firelance
+
+## Alatreon Urgent
+I have crossed this urgent three ways now.
+
+One is HGE with Iron Impact.  
+Another is Jaggi+ with Barroth+ chest and Nardebosche.  
+Final way is overforged Low Rank Rathalos with High Sieglinde P.
+
+It's a tough fight! Look for teammates online to help you out!
 
 ## HR51+
 Check out the [Armory](index.md).
