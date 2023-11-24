@@ -199,7 +199,7 @@ Thankfully it's not too rare. I'm using a Crit Draw +4 Knight Talisman. Farm the
 
 ---
 
-Diablos gunner (requires Majestic horn)
+Diablos gunner for pierce (requires Majestic horn)
 
 Barioth (upgrade from qurupeco, skippable)
 
@@ -211,7 +211,7 @@ Lance: One of every element
 Longsword: Basically just make all of them  
 Switch Axe: Same as above, except the crystal one is pretty dumb  
 Hammer: The pure iron line is fine. Hammer is honestly a bit sad until HR 6* :(  
-Bowgun: You've probably been collecting these as you go. The barrels and stocks don't need upgrades, so just make them. Of note, Thundacrus stock is incredibly good, Barrozooka barrel is amazing. Agnablaster has its place.
+Bowgun: You've probably been collecting these as you go. The barrels and stocks don't need upgrades, so just make them. Of note, Thundacrus stock is incredibly good, Barrozooka barrel is amazing. Agnablaster has its place. Poison Stinger frame for raw damage on elemental spitting.
 
 ## Village 6\*
 Helios Lagi mix. Main note: SKIP THE HELIOS/SELENE CHEST PIECE.
