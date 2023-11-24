@@ -50,7 +50,6 @@ Ludroth Bone Mace
 Jawblade  
 Heavy Bowgun (all 3 parts)  
 Thane Lance  
-Ludroth Bone Mace  
 
 
 
@@ -131,7 +130,7 @@ These are my relevant weapons going into the Lagiacrus urgent hunt (not repel.)
 Sword and Shield: Qurupeco Chopper, Royal Claw+  
 Lance: Rampart, Spiral Lance  
 Hammer: Vodyanoy Hammer, Peco Flint  
-Greatsword: Valkyrie Blade
+Greatsword: Valkyrie Blade  
 Bowgun: see above  
 Longsword and Switch Axe: Sorry they are so garbage I wouldn't even use them at this point
 
