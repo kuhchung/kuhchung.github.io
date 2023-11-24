@@ -69,7 +69,7 @@ Barroth (upgrade to Jaggi, skippable)
 
 Barroth gunner
 
-### Low Rank Rathian Mix
+### Low Rank Rathian Mix Without Plate
 
 <p float="left">
 <img src="images/low-rank-rathian-mix.png" width="48%">
