@@ -20,11 +20,11 @@ Highly WIP.
 
 ## HR0-8/Village 1\*-3\*
 
-Leather (S-tier). 
+Leather (S-tier). Wear this on *all* gather quests.
 
-Chainmail (for combining at home and fishing quests)
+Chainmail for combining at home and fishing quests
 
-Hunter if you like
+Hunter if you like for actual hunting. Optional.  
 
 Buy the above 3 from the Outfitter.
 
