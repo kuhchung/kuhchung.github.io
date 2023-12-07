@@ -63,7 +63,7 @@ Consider crafting 5 Perception decorations and gemming it into your Hunter or Al
 <img src="images/lr-alloy-skills.png" width="48%">
 <p float="left">
 
-<img src="images/MH3icon-1-Head.png" width="16px"> Alloy Cap | OO (Perception 2)
+<img src="images/MH3icon-1-Head.png" width="16px"> Alloy Cap | OO (Perception 2)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Alloy Vest | O (Perception 2)   
 <img src="images/MH3icon-3-Arms.png" width="16px"> Alloy Guards | O (Perception 2)  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Coat | O (Perception 2)  
