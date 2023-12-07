@@ -221,7 +221,8 @@ Notably, this is available as soon as you unlock HR31! It's a very good progress
 ### Elemental Awakening
 
 <p float="left">
-<img src="images/alloy+is-bae.png" width="48%">
+<img src="images/lagi-awaken.png" width="48%">
+<img src="images/lagi-awaken-skills.png" width="48%">
 <p float="left">
 Active Skills:  Awaken, Olympic Swimmer, Element Atk Up, Status Atk Down
   
