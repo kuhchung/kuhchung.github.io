@@ -250,7 +250,7 @@ If you want status awakening, look below.
 
 ---
 
-### Earplugs Sharpness Awakening
+### Status Awakening
 
 Active Skills:  Awaken, Sharpness +1, Earplugs
 
