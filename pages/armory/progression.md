@@ -20,7 +20,30 @@ Highly WIP.
 
 ## HR0-8/Village 1\*-3\*
 
-Leather (S-tier). Wear this on *all* gather quests.
+### Leather
+
+<p float="left">
+<img src="images/lr-leather.png" width="48%">
+<img src="images/lr-leather-skills.png" width="48%">
+<p float="left">
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Leather Headgear | O  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Leather Vest | O (Whim 1)   
+<img src="images/MH3icon-3-Arms.png" width="16px"> Leather Gloves | O (Gathering 1)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Leather Belt | O  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Leather Pants | O (Gathering 1)  
+
+Active Skills: Divine Whim, Gathering +2, Speed Gatherer
+  
+Available Slots:  2x O; (Weapon); (Chest); (Talisman)
+
+Buy this from the Outfitter with the first 1500z that the Chief gives you.
+
+Wear this on *all* gather quests. This is the game's way of teaching you armor skills and decorations.
+
+If you get a talisman for Pro Transporter, this set will handle all of your gathering needs.
+
+---
 
 Chainmail for combining at home and fishing quests
 
@@ -33,7 +56,26 @@ Consider crafting 5 Perception decorations and gemming it into your Hunter or Al
 
 ---
 
-Alloy, both gunner and blade depending what you're doing (S-tier)
+### Alloy
+
+<p float="left">
+<img src="images/lr-alloy.png" width="48%">
+<img src="images/lr-alloy-skills.png" width="48%">
+<p float="left">
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Alloy Cap | OO (Perception 2)
+<img src="images/MH3icon-2-Chest.png" width="16px"> Alloy Vest | O (Perception 2)   
+<img src="images/MH3icon-3-Arms.png" width="16px"> Alloy Guards | O (Perception 2)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Coat | O (Perception 2)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Alloy Greaves
+
+Active Skills: Divine Whim, Gathering +2, Speed Gatherer
+  
+Available Slots:  O; (Weapon); (Chest); (Talisman)
+
+This is my *favorite* low rank set. Pictured is gunner alloy -- just make or buy full blademaster alloy if that's what you're doing instead.
+
+---
 
 Jaggi, both blade and gunner usable. Gem for Attack up M.
 
@@ -247,9 +289,11 @@ Gem it up however you want.
 
 ---
 
-Alloy+ (S-tier)
+[Alloy+ Blademaster](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#alloy-is-bae)  
+My favorite starter HR set. Make this instead of Jaggi+!
 
-Two low piece Bnahbrah mix (link to armory)
+[Status Support Bnahabra](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#blast-earring-anyone)  
+For if you're hunting in a group of 3 or more, to use with your paralysis weapons. (People don't bring bombs so sleep is sad.)
 
 Barroth+ (pieces endgame viable) (use LR barry arms if no wyvern stones)
 
