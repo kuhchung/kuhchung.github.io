@@ -1,5 +1,7 @@
 # Bowgun
 
+- [Goabie's Constructed Guns](#Goabie-s-Constructed-Guns)
+
 TODO: pictures
 TODO: link bowgun mechanics
 
@@ -41,4 +43,31 @@ You want all the bomblets to land. This is mostly used to farm Alatreon in full 
 ## Status
 This shit is a science, man.
 
+## Goabie's Constructed Guns
+> I don't care about any of the above! I just want to fire guns! What should I use?
+
+I gotchu fam.
+
+Here it is in progression order:
+
+Light - Heavy - Heavy  
+Royal - Tropeco - Tropeco (for poisoning bugs and fire shooting)  
+Royal - Royal - Tropeco (for barroth)  
+Jaggid - Barrozooka - Thundacrus/any (for deviating pierce1 and RF pierce2 in a pinch)  
+Stinger - Royal - Thundacrus (LR endgame water)
+Stinger - Thundacrus - Thundacrus (LR endgame thunder)
+
+Onto HR30:  
+Upgrade the frames and keep using the same guns
+
+HR40:  
+Rex - Barro - Crus (this is ENDGAME pierce1 specialization gun. Eat for Felyne Temper free damage buff!)  
+Rathling+ - Rathling+ - Rathling (RF fire)  
+Blizzard - Rex - Blizzard (RF ice TODO double check this gun)
+
+HR51:
+Rex - Grin - Rex (Pierce1+2 endgame 3-slotted)  
+Rathling+ - Grin - Diablazooka (Pierce1+2 endgame 2-slotted more comfy than above)  
+Chaos - Rex - Blizzard (RF ice + status)  
+Chaos - Grin - Blizzard (World Eater/underwater pierce)  
 
