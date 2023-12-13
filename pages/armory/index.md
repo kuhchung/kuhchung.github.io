@@ -218,6 +218,55 @@ Notably, this is available as soon as you unlock HR31! It's a very good progress
 
 ---
 
+### Elemental Awakening
+
+<p float="left">
+<img src="images/lagi-awaken.png" width="48%">
+<img src="images/lagi-awaken-skills.png" width="48%">
+<p float="left">
+Active Skills:  Awaken, Olympic Swimmer, Element Atk Up, Status Atk Down
+  
+Available Slots:  O x4; OOO x1; OO x2; (Talisman); (Weapon)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Lagiacrus Helm+ | O  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Mail+ | OOO  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Lagiacrus Vambraces+ | O  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Lagiacrus Faulds+ | OO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Lagiacrus Greaves+ | O  
+
+Total: FreeElemnt +15, Swimming +10, Elemental +10, Status -12
+
+For elemental awakening. There are a select few weapons where this is worthwhile, which makes it kinda cool. A *lot* of room for decorations; I think Speed Sharpening is mandatory.
+
+A list of worthwhile weapons (Note: never Greatsword or Hammer!)  
+Odyssey (Arena SnS)  
+Doom Crown  
+Diablos Spear  
+Elder Babel Spr (R)  
+Tenebra D  
+Sinister Saints  
+
+If you want status awakening, look below.
+
+---
+
+### Status Awakening
+
+Active Skills:  Awaken, Sharpness +1, Earplugs
+
+<img src="images/MH3icon-Hammer.png" width="16px">Iron Devil | OOO (FreeElemnt 4)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Helios Helm+ | OOO  (Handicraft 4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Lagiacrus Vambraces+ | O (FreeElement1)   
+<img src="images/MH3icon-4-Waist.png" width="16px"> Helios Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Escadora Scale  
+
+Total: Handicraft +15, Hearing +10, FreeElemnt +15
+
+I think the only weapon this set is worth it on is Iron Devil.
+
+---
+
 ## Great Sword Sets
 
 Okay, these require Crit Draw talismans. I warned you!

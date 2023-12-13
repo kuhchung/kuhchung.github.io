@@ -14,16 +14,40 @@ Highly WIP.
 - [Village6\*](#village-6)
 - [HR31-40](#hr31-40)
 - [HR41-50](#hr41-50)
+- [Alatreon-Urgent](#alatreon-urgent)
 - [HR51+](#hr51)
 
 
 ## HR0-8/Village 1\*-3\*
 
-Leather (S-tier). 
+### Leather
 
-Chainmail (for combining at home and fishing quests)
+<p float="left">
+<img src="images/lr-leather.png" width="48%">
+<img src="images/lr-leather-skills.png" width="48%">
+<p float="left">
 
-Hunter if you like
+<img src="images/MH3icon-1-Head.png" width="16px"> Leather Headgear | O  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Leather Vest | O (Whim 1)   
+<img src="images/MH3icon-3-Arms.png" width="16px"> Leather Gloves | O (Gathering 1)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Leather Belt | O  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Leather Pants | O (Gathering 1)  
+
+Active Skills: Divine Whim, Gathering +2, Speed Gatherer
+  
+Available Slots:  2x O; (Weapon); (Chest); (Talisman)
+
+Buy this from the Outfitter with the first 1500z that the Chief gives you.
+
+Wear this on *all* gather quests. This is the game's way of teaching you armor skills and decorations.
+
+If you get a talisman for Pro Transporter, this set will handle all of your gathering needs.
+
+---
+
+Chainmail for combining at home and fishing quests
+
+Hunter if you like for actual hunting. Optional.  
 
 Buy the above 3 from the Outfitter.
 
@@ -32,7 +56,26 @@ Consider crafting 5 Perception decorations and gemming it into your Hunter or Al
 
 ---
 
-Alloy, both gunner and blade depending what you're doing (S-tier)
+### Alloy
+
+<p float="left">
+<img src="images/lr-alloy.png" width="48%">
+<img src="images/lr-alloy-skills.png" width="48%">
+<p float="left">
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Alloy Cap | OO (Perception 2)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Alloy Vest | O (Perception 2)   
+<img src="images/MH3icon-3-Arms.png" width="16px"> Alloy Guards | O (Perception 2)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Coat | O (Perception 2)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Alloy Greaves
+
+Active Skills: Divine Whim, Gathering +2, Speed Gatherer
+  
+Available Slots:  O; (Weapon); (Chest); (Talisman)
+
+This is my *favorite* low rank set. Pictured is gunner alloy -- just make or buy full blademaster alloy if that's what you're doing instead.
+
+---
 
 Jaggi, both blade and gunner usable. Gem for Attack up M.
 
@@ -49,7 +92,6 @@ Ludroth Bone Mace
 Jawblade  
 Heavy Bowgun (all 3 parts)  
 Thane Lance  
-Ludroth Bone Mace  
 
 
 
@@ -69,7 +111,7 @@ Barroth (upgrade to Jaggi, skippable)
 
 Barroth gunner
 
-### Low Rank Rathian Mix
+### Low Rank Rathian Mix Without Plate
 
 <p float="left">
 <img src="images/low-rank-rathian-mix.png" width="48%">
@@ -130,13 +172,31 @@ These are my relevant weapons going into the Lagiacrus urgent hunt (not repel.)
 Sword and Shield: Qurupeco Chopper, Royal Claw+  
 Lance: Rampart, Spiral Lance  
 Hammer: Vodyanoy Hammer, Peco Flint  
-Greatsword: Valkyrie Blade
+Greatsword: Valkyrie Blade  
 Bowgun: see above  
 Longsword and Switch Axe: Sorry they are so garbage I wouldn't even use them at this point
 
-Rathalos (upgrade to jaggi/barroth. See about skipping the piece that costs a plate.)
+---
 
-Lagiacrus, more gunner than blade. Blade is skippable.
+### Rathalos Without Plate
+
+<p float="left">
+<img src="images/low-rank-cheap-rathalos.png" width="48%">
+<img src="images/low-rank-cheap-rathalos-skills.png" width="48%">
+<p float="left">
+Active Skills:  Attack Up (S), Critical Eye +1
+
+Available Slots:  O x3, OO; (Weapon); (Talisman)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Rathalos Helm | O  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Rathalos Mail | O  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Alloy Vambraces | O  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Rathalos Faulds   
+<img src="images/MH3icon-5-Legs.png" width="16px"> Rathalos Greaves | OO  
+
+Don't have a Rathalos Plate? Just put in Alloy Vambraces!
+
+I have used *no talisman* and have not touched *any slots*. You can decorate this however you want. I would try to finish out Trapmaster and Speed Sharpen, but you can also go for pure attack if you like.
 
 ---
 
@@ -159,9 +219,29 @@ Low Rank elemental gunning goodness. Lagiacrus is so flexible. Note that if you 
 
 ---
 
-Baggi Blos mix for GS. Requires crit draw talisman :(
+### Low Rank Focus Greatsword
+<p float="left">
+<img src="images/low-rank-baggi-blos-mix.png" width="48%">
+<img src="images/low-rank-baggi-blos-mix-skills.png" width="48%">
+<p float="left">
+Active Skills:  Focus, Critical Draw, Capture Expert
+  
+Available Slots:  O, (Weapon)
 
-Diablos gunner (requires Majestic horn)
+<img src="images/MH3icon-1-Head.png" width="16px"> Baggi Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Baggi Mail | OO (FastCharge1)   
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Baggi Coil | O (FastCharge1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Baggi Greaves | O (Crit Draw1)  
+Talisman: Crit Draw +2 or better
+
+This requires a Critical Draw talisman. Sorry :(
+
+Thankfully it's not too rare. I'm using a Crit Draw +4 Knight Talisman. Farm the Rathian egg delivery quest in Moga Village for lots of stacks of talismans.
+
+---
+
+Diablos gunner for pierce (requires Majestic horn)
 
 Barioth (upgrade from qurupeco, skippable)
 
@@ -173,7 +253,7 @@ Lance: One of every element
 Longsword: Basically just make all of them  
 Switch Axe: Same as above, except the crystal one is pretty dumb  
 Hammer: The pure iron line is fine. Hammer is honestly a bit sad until HR 6* :(  
-Bowgun: You've probably been collecting these as you go. The barrels and stocks don't need upgrades, so just make them. Of note, Thundacrus stock is incredibly good, Barrozooka barrel is amazing. Agnablaster has its place.
+Bowgun: You've probably been collecting these as you go. The barrels and stocks don't need upgrades, so just make them. Of note, Thundacrus stock is incredibly good, Barrozooka barrel is amazing. Agnablaster has its place. Poison Stinger frame for raw damage on elemental spitting.
 
 ## Village 6\*
 Helios Lagi mix. Main note: SKIP THE HELIOS/SELENE CHEST PIECE.
@@ -183,19 +263,70 @@ Helios Lagi mix. Main note: SKIP THE HELIOS/SELENE CHEST PIECE.
 **You want a high rank armor set ASAP! I like Alloy+ - just gathering, no hunting.**
 > Unless you enjoy getting 2 or 3 shot, get a high rank armor set.
 
-Jaggi+
+Your priority weapons are High Sieglinde (P), Iron Impact, and upgrade whatever elemental based weapons you like to use. Royal Ludroth is available. Flame Tempest and Barioth Switch Axe are available too.
 
-Alloy+ (S-tier)
+The paralysis weapons are fine/good too.
 
-Two low piece Bnahbrah mix (link to armory)
+---
+### Jaggi Starter
+<p float="left">
+<img src="images/hr-jaggi-starter.png" width="48%">
+<img src="images/hr-jaggi-starter-skills.png" width="48%">
+<p float="left">
+Active Skills:  Attack Up (M), Negate Stun, Gourmand
+  
+Available Slots:  O x2, OO; (Weapon); (Talisman)
 
-Barroth+ (pieces endgame viable)
+<img src="images/MH3icon-1-Head.png" width="16px"> Jaggi Helm+ | O  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Jaggi Mail | O (Stun 2)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Jaggi Vambraces+ | O  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Jaggi Faulds+ | OO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Jaggi Greaves+ | OO (Attack 3)
 
-Rathian+ (TODO: provide mix)
+I prefer full Alloy+, but everyone swears by Jaggi+. Note that I am using the *low rank* chest because there is no way I'm spending a Bird Wyvern Gem on this!
 
-Weapons to build: Spiral Lance (B), High Sieglinde (P), pre-Iron Impact, Shadowbinder G or P, 
+Gem it up however you want.
+
+---
+
+[Alloy+ Blademaster](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#alloy-is-bae)  
+My favorite starter HR set. Make this instead of Jaggi+!
+
+[Status Support Bnahabra](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#blast-earring-anyone)  
+For if you're hunting in a group of 3 or more, to use with your paralysis weapons. (People don't bring bombs so sleep is sad.)
+
+Barroth+ (pieces endgame viable) (use LR barry arms if no wyvern stones)
+
+---
+
+### Rathian High Grade Earplugs
+<p float="left">
+<img src="images/hge-rathian-mix.png" width="48%">
+<img src="images/hge-rathian-mix-skills.png" width="48%">
+<p float="left">
+Active Skills:  Fire Res +10, High Grade Earplugs, Health +20
+  
+Available Slots:  O; (Weapon); (Talisman)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Rathian Helm+ | OOO (Hearing4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Rathian Mail+ | O (Hearing1)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Rathian Vambraces | OO (Protection2)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Rathian Faulds | O (Hearing1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Rathian Greaves | OO (Protection2, Protection2)  
+
+This is for Gigginox and Alatreon, if you really want it.
+
+If you want standard grade earplugs, just overforge my [low rank set](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/progression.md#low-rank-rathian-mix). It uses three of the same pieces anyways.
+
+---
 
 ## HR41-50
+New priority weapons available:  
+Lance: Sabertooth (G), Agnaktor Firelance  
+SnS: Djinn, Nardebosche  
+Longsword: Dancing Hellfire  
+Hammer: Iron Impact  
+Bowgun: Thundacrus Rex frame and stock  
 
 [Diablos+ Gunner](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#deviating-uragaan-smasher)  
 Believe it or not, this is endgame!
@@ -203,6 +334,8 @@ Believe it or not, this is endgame!
 Baggi+/Diablos+ mix/overforge
 
 Rathalos overforge
+
+Lagiacrus overforge
 
 ---
 
@@ -234,6 +367,15 @@ If you're lucky enough to get a Deviljho Gem, you can use Vangis Coil instead of
 ---
 
 Weapons to build: Iron Impact, Thundacrus Rex frame, Sabertooth (G), Nardebosche, Almighty Dahaka, Morpheus Knife, Dancing Hellfire, Agnaktor Firelance
+
+## Alatreon Urgent
+I have crossed this urgent three ways now.
+
+One is HGE with Iron Impact.  
+Another is Jaggi+ with Barroth+ chest and Nardebosche.  
+Final way is overforged Low Rank Rathalos with High Sieglinde P.
+
+It's a tough fight! Look for teammates online to help you out!
 
 ## HR51+
 Check out the [Armory](index.md).

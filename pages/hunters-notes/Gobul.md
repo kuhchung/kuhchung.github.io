@@ -31,7 +31,7 @@ You have time to sheathe and immediately return into position. Gobul will try to
 
 You can repeat this loop until either you miss, or Gobul becomes cap ready. If he becomes cap ready, he will break the loop, rage, and limp toward area 3. You win!
 
-TODO: link esti vid
+[![Gobul Infinite](images/gobul-infinite-thumbnail.png)](https://www.youtube.com/watch?v=1CGIMpsW3Mg)
 
 ## Breaking the Lantern
 ...can actually be a little difficult on land. If you're pierce gunning, don't expect to break it. Normal 2 has a much better time of it.

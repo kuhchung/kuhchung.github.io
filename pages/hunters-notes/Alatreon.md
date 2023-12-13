@@ -82,6 +82,10 @@ His horn charge is like his growl, but wider because he shakes his head back and
 
 When raged, he has a jumpback fireball like Rathalos. Exit!!
 
+## Dragonrush Headswing
+Alatreon has two dragon rushes - one where he charges past you, and one where he stops short and performs a headswing. **The latter is an opening for an easy superpound!**
+
+Alatreon will actually telegraph when he performs this. Try to stand slightly off the centerline so that he has to perform a turn. If he sort of shuffles his feet to face you (as opposed to hopping his front feet off the ground), then it will be a headswing! Prepare to punish!
 
 ## Guard Data
 The actual fireball from Alatreon's stepback fireball cannot be guarded without Guard Boost. 
