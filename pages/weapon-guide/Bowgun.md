@@ -1,6 +1,6 @@
 # Bowgun
 
-- [Goabie's Constructed Guns](#Goabie-s-Constructed-Guns)
+- [Goabie's Constructed Guns](#goabies-constructed-guns)
 
 TODO: pictures  
 TODO: link bowgun mechanics
