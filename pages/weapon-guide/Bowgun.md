@@ -2,7 +2,7 @@
 
 - [Goabie's Constructed Guns](#Goabie-s-Constructed-Guns)
 
-TODO: pictures
+TODO: pictures  
 TODO: link bowgun mechanics
 
 ## Overview
@@ -54,8 +54,8 @@ Light - Heavy - Heavy
 Royal - Tropeco - Tropeco (for poisoning bugs and fire shooting)  
 Royal - Royal - Tropeco (for barroth)  
 Jaggid - Barrozooka - Thundacrus/any (for deviating pierce1 and RF pierce2 in a pinch)  
-Stinger - Royal - Thundacrus (LR endgame water)
-Stinger - Thundacrus - Thundacrus (LR endgame thunder)
+Stinger - Royal - Thundacrus (LR endgame water)  
+Stinger - Thundacrus - Thundacrus (LR endgame thunder)  
 
 Onto HR30:  
 Upgrade the frames and keep using the same guns
@@ -65,9 +65,10 @@ Rex - Barro - Crus (this is ENDGAME pierce1 specialization gun. Eat for Felyne T
 Rathling+ - Rathling+ - Rathling (RF fire)  
 Blizzard - Rex - Blizzard (RF ice TODO double check this gun)
 
-HR51:
+HR51:  
 Rex - Grin - Rex (Pierce1+2 endgame 3-slotted)  
 Rathling+ - Grin - Diablazooka (Pierce1+2 endgame 2-slotted more comfy than above)  
 Chaos - Rex - Blizzard (RF ice + status)  
 Chaos - Grin - Blizzard (World Eater/underwater pierce)  
 
+Rathling+ - Rathling+ - Agnablaster (alatreon clust abuse)
