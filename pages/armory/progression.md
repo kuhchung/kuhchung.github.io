@@ -69,7 +69,7 @@ Consider crafting 5 Perception decorations and gemming it into your Hunter or Al
 <img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Coat | O (Perception 2)  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Alloy Greaves
 
-Active Skills: Divine Whim, Gathering +2, Speed Gatherer
+Active Skills: Trapmaster, Speed Sharpen, Critical Eye +1
   
 Available Slots:  O; (Weapon); (Chest); (Talisman)
 
