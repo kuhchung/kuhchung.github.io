@@ -448,6 +448,14 @@ This gun wants to fire straight through the longest part of the body. Fire strai
 
 ---
 
+### Straight Shooters (Alternate Gun)
+
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Rathling Gun+ | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Devil's Grin | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Diablazooka
+
+This gun loads more Pierce 1 shots than the above, making it more comfortable to use. Ultimately, it depends if you want 2 or 3 decoration slots in the gun. If you want 3, use the Thundacrus Rex combination above. If you only need 2, I recommend this one.
+
+---
+
 ### World Eater Gun
 <p float="left">
 <img src="images/world-eater-gun.png" width="48%">
