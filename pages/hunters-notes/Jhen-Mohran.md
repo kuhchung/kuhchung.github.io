@@ -4,7 +4,7 @@
 <img src="images/jhen-mohran-shipside.png" width="48%">
 <p float="left"> 
 
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword, <img src="icons/MH3icon-Lance.png" width="20px"> Lance  
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Great_Sword.png" width="20px"> Great Sword  
 Elemental Weakness: <img src="icons/-status-Dragonblight.png" width="20px"> Dragon or <img src="icons/-status-Iceblight.png" width="20px"> Ice
 
 Monster Type : Elder Dragon   
@@ -19,7 +19,7 @@ Jhen Mohran has a few hitzones that are very effective: the rock cracks, a parti
 
 In addition, you are given 2 dragon bombs at the start of the hunt, and ballista ammo and cannonballs to try and break his tusks. If your gear is not on par (HR 51+), you may be better off manning and using the ship's defenses.
 
-Greatsword and Lance are the two weapons that can really unload damage into Jhen's spine, even after the rock is broken! Aim for the highest part of the crack, and toward his tail until you feel comfortable with where it is. This is roughly the area you want to hit:
+Greatsword is the only weapon that can really unload damage into Jhen's spine, even after the rock is broken! Aim for the highest part of the crack, and toward his tail until you feel comfortable with where it is. This is roughly the area you want to hit:
 
 <p float="left">
 <img src="images/Jhen-spine-hitzone.png" width="48%" />
@@ -27,6 +27,8 @@ Greatsword and Lance are the two weapons that can really unload damage into Jhen
 <p float="left"/>
 
 > You'll know you've hit the correct spot if your weapon feels resistance. If your attack slides right through (cough longswords) then you are not dealing damage.
+
+There's a second weakspot at the lower spine crack, but the position is very weird and difficult to hit.
 
 ## The Script
 Jhen Mohran is on a script. He has two phases: shipside, and final showdown.
