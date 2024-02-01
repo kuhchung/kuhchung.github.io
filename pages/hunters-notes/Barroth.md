@@ -4,7 +4,7 @@
 <img src="images/barroth-clean.png" width="49%">
 <p float="left">
 
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance (Guard)  
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance (Guard) , <img src="icons/MH3icon-Longsword.png" width="20px"> Longsword  
 Anti-recommendations: <img src="icons/MH3icon-Hammer.png" width="20px"> Hammer
 
 Elemental Weakness: <img src="icons/-status-Waterblight.png" width="20px"> Water (when muddy), <img src="icons/-status-Fireblight.png" width="20px"> Fire (when clean)
@@ -46,6 +46,11 @@ Instead of hitting turns as [Great Jaggi](Great-Jaggi.md), [Qurupeco](Qurupeco.m
 Keep piling damage on the claws, and he'll go down eventually. You'll get the hang of it!
 
 Good luck!
+
+## Your First Barroth
+Most people get walled in Moga Village's Barroth or their HR8 Barroth. There's an additional hurdle to jump over when fighting your first Barroth: your weapons are not very good yet!  
+
+Your best options are weapons with good green sharpness. Basically, all of the Ludroth weapons are excellent at this point. Royal Claw, Spiral Lance, Ludroth Greatsword, even Ludroth Splashhammer. Whatever you use, make sure it has a reasonable amount of green sharpness, and bring whetstones!
 
 ## Lance Data
 Barroth's roar and long distance charge deal G1 blockstun. (TODO: link this to lance page when I write it.)
