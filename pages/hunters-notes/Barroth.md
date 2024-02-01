@@ -4,7 +4,7 @@
 <img src="images/barroth-clean.png" width="49%">
 <p float="left">
 
-Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance (Guard) , <img src="icons/MH3icon-LongSword.png" width="20px"> Longsword  
+Goabie's Weapon Recommendations: <img src="icons/MH3icon-Lance.png" width="20px"> Lance (Guard) , <img src="icons/MH3icon-Long_Sword.png" width="20px"> Longsword  
 Anti-recommendations: <img src="icons/MH3icon-Hammer.png" width="20px"> Hammer
 
 Elemental Weakness: <img src="icons/-status-Waterblight.png" width="20px"> Water (when muddy), <img src="icons/-status-Fireblight.png" width="20px"> Fire (when clean)
