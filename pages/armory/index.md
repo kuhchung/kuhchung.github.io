@@ -74,7 +74,7 @@ Available Slots:  OOO x2; (Talisman); (Weapon)
 
 <img src="images/MH3icon-1-Head.png" width="16px"> Selene/Helios Helm+ | OOO  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
-<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Selene/Helios Vambraces+  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO  
 
