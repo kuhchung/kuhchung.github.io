@@ -153,7 +153,7 @@ If you're looking for an evade lancer set, this is it!
 
 ---
 
-### Elemental Enjoyers
+### Elemental Enjoyers (2 slotted weapon)
 <p float="left">
 <img src="images/elemental-enjoyer.png" width="48%">
 <img src="images/elemental-enjoyer-skills.png" width="48%">
@@ -171,6 +171,31 @@ Available Slots: (Talisman); (Weapon)
 Total:  Handicraft +15, Element +9, Attack +9  
 
 I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and attack god talisman (Attack +7 OO), you can get AuL. Don't forget to finish off the Element +9 and Attack +9 by adding the corresponding decos either in your weapon or your talisman.
+
+This is kind of nice with the two slot high element weapons, like Barbrian Sharq, Abyssal Striker, Sabertooth (G), etc.
+
+---
+
+### Elemental Enjoyers (no slots)
+<p float="left">
+<img src="images/elemental-enjoyer.png" width="48%">
+<img src="images/elemental-enjoyer-skills.png" width="48%">
+<p float="left">
+Active Skills:  Sharpness +1, (Element Atk Up), (Attack Up (X))    
+  
+Available Slots: (Talisman);
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Vangis Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO (Element 4)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Element 4)  
+
+Talisman: OO or better
+
+Total:  Handicraft +16, Element +8, Attack +10  
+
+Attack +5/6 OO goes well with this set. Note that I don't particularly like either of these elemental sets.
 
 ---
 
