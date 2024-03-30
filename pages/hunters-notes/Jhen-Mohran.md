@@ -36,9 +36,11 @@ Jhen Mohran is on a script. He has two phases: shipside, and final showdown.
 There are probably many ways to tackle it, but here is a simple breakdown that should work in public games.
 
 ### Shipside - Right
-Jhen Mohran starts to the right of the ship. He will always open with 3 (is that accurate?) rock tosses while the hunters put some cannonballs into him or gather some ballista ammo. Then, he will do a tackle into the ship. Goabie's recommendation: bind this! Everyone else, keep dealing damage, either by hitting his arm, or by firing ballistas or cannonballs.
+Jhen Mohran starts to the right of the ship. He will always open with 3 rock tosses while the hunters put some cannonballs into him or gather some ballista ammo. Then, he will do a tackle into the ship. Goabie's recommendation: bind this! Everyone else, keep dealing damage, either by hitting his arm, or by firing ballistas or cannonballs.
 
 The tackle can also be Dragonator'ed, but I have not done this myself and don't know the timing. Also I imagine a miscommunication can ruin this (say if the binder just binds it.)
+
+A more optimal way to handle the first tackle is to hit the gong, and then jump off the platform into the sand. You should get picked up by Jhen's fin. This is early mounting.
 
 When Jhen is to the right of the ship, he will continuously tackle it. If you're on top of his back, be on the far side if you don't want to get thrown back onto the ship while eating some damage.
 
