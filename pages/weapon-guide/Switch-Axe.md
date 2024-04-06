@@ -6,4 +6,5 @@ Don't wild swing.
 Don't upswing.  
 Don't blow your load in a teammate's face.  
 
-TODO: figure out what to put here. Ask someone else
+# Combat Loop
+Sword Mode A A A A A A A A A A A A A A A A
