@@ -25,7 +25,8 @@ TODO: pic of charging for a qurupeco turn
 ## Know your armor, know your matchups
 Greatsword has the most tooling in armor building, in my opinion. Your mandatory skills are Sharpness +1 and Critical Draw. Then, the following skills are still available to you, and you should vary based on which monster you are facing.
 
-Focus
-Tremor-Proof
-Earplugs
-High Grade Earplugs
+Focus  
+Tremor-Proof  
+Earplugs  
+High Grade Earplugs  
+Trapmaster
