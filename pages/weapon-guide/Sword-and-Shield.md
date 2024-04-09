@@ -14,6 +14,7 @@ If you want to perform a shield bash, then it should be deliberate. For example,
 Your bread and butter combo is:
 X+A (optional to get into position), X X X, neutral stick A A.
 > Make sure your joystick is neutral for A, or you'll get the shield bash.
+> The leap attack (X+A) even gives you temporary flinch-proof!
 
 If your position is very sensitive, I prefer to simply stand still and wait for the second A attack animation to end. Then repeat X X X A A again.
 
