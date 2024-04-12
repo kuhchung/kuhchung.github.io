@@ -608,18 +608,21 @@ Available Slots:  O x3(/4), OOO x2; (Talisman)
 ---
 
 ### Akiko's Ice Elemental Status Blend
+<p float="left">
+<img src="images/akiko-ice-ele-status.png" width="48%">
+<img src="images/akiko-ice-ele-status-skills.png" width="48%">
+<p float="left">
+Active Skills:  Recoil Down +2, Bonus Shot, Bombardier, Element Atk Up  
+ <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Blizzard Cannon |  <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Thundacrus Rex; O (Rapid Fire +1) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px">  Chaos Wing
 
- <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Blizzard Cannon |  <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px">  Chaos Wing
+<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+ | O (Elemental +1)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+  | OOO (Elemental +4)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Mutsu/Amagi Kote+ | OOO (Rapid Fire +4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+ | O (Recoil +1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Legiacrus Leggings+ | (Elemental +1)  
 
-<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+  
-<img src="images/MH3icon-3-Arms.png" width="16px"> Mutsu Kote+  
-<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+  
-<img src="images/MH3icon-5-Legs.png" width="16px"> Legiacrus Leggings+  
+Bomb Boost 7 | O (Rapid Fire +1)  
 
-Bomb Boost 7 O
-
-(TODO: model and gemming)
 For a blend of status and ice elemental shooting. Useful against Diablos and Alatreon, notably that you can still fire ice and deal damage instead of being rendered ineffective once your status ammo is exhausted!
 
 Cool set! Thanks to Akiko for contributing.
