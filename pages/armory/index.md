@@ -264,12 +264,12 @@ Total: FreeElemnt +15, Swimming +10, Elemental +10, Status -12
 For elemental awakening. There are a select few weapons where this is worthwhile, which makes it kinda cool. A *lot* of room for decorations; I think Speed Sharpening is mandatory.
 
 A list of worthwhile weapons (Note: never Greatsword or Hammer!)  
-<img src="/images/MH3icon-Sword_and_Shield.png" width="16px"> Odyssey (Arena SnS) | 350 <img src="Monster-Hunter-Tri---Goabie-Guide/pages/hunters-notes/icons/-status-Severe_Waterblight" width="16px">  
-<img src="images/MH3icon-Lance.png" width="16px"> Doom Crown | 280 <img src="Monster-Hunter-Tri---Goabie-Guide/pages/hunters-notes/icons/-status-Severe_Waterblight" width="16px">  
-<img src="images/MH3icon-Lance.png" width="16px"> Diablos Spear | 250 <img src="Monster-Hunter-Tri---Goabie-Guide/pages/hunters-notes/icons/-status-Severe_Waterblight" width="16px">  
-<img src="images/MH3icon-Lance.png" width="16px"> Elder Babel Spr (R) | 300 <img src="Monster-Hunter-Tri---Goabie-Guide/pages/hunters-notes/icons/-status-Severe_Fireblight" width="16px">  
-<img src="images/MH3icon-Long_Sword.png" width="16px"> Tenebra D | 560 <img src="Monster-Hunter-Tri---Goabie-Guide/pages/hunters-notes/icons/-status-Severe_Iceblight" width="16px">  
-<img src="images/MH3icon-Switch_Axe.png" width="16px"> Sinister Saints | 500 <img src="Monster-Hunter-Tri---Goabie-Guide/pages/hunters-notes/icons/-status-Severe_Fireblight" width="16px">  
+<img src="/images/MH3icon-Sword_and_Shield.png" width="16px"> Odyssey (Arena SnS) | 350 <img src="/images/-status-Severe_Waterblight" width="16px">  
+<img src="images/MH3icon-Lance.png" width="16px"> Doom Crown | 280 <img src="/images/-status-Severe_Waterblight" width="16px">  
+<img src="images/MH3icon-Lance.png" width="16px"> Diablos Spear | 250 <img src="/images/-status-Severe_Waterblight" width="16px">  
+<img src="images/MH3icon-Lance.png" width="16px"> Elder Babel Spr (R) | 300 <img src="/images/-status-Severe_Fireblight" width="16px">  
+<img src="images/MH3icon-Long_Sword.png" width="16px"> Tenebra D | 560 <img src="/images/-status-Severe_Iceblight" width="16px">  
+<img src="images/MH3icon-Switch_Axe.png" width="16px"> Sinister Saints | 500 <img src="/images/-status-Severe_Fireblight" width="16px">  
 
 If you want status awakening, look below.
 
