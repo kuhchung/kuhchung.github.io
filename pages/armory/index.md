@@ -264,12 +264,12 @@ Total: FreeElemnt +15, Swimming +10, Elemental +10, Status -12
 For elemental awakening. There are a select few weapons where this is worthwhile, which makes it kinda cool. A *lot* of room for decorations; I think Speed Sharpening is mandatory.
 
 A list of worthwhile weapons (Note: never Greatsword or Hammer!)  
-Odyssey (Arena SnS)  
-Doom Crown  
-Diablos Spear  
-Elder Babel Spr (R)  
-Tenebra D  
-Sinister Saints  
+<img src="images/MH3icon-Sword_and_Shield.png" width="16px"> Odyssey (Arena SnS)  
+<img src="images/MH3icon-Lance.png" width="16px"> Doom Crown  
+<img src="images/MH3icon-Lance.png" width="16px"> Diablos Spear  
+<img src="images/MH3icon-Lance.png" width="16px"> Elder Babel Spr (R)  
+<img src="images/MH3icon-Long_Sword.png" width="16px"> Tenebra D  
+<img src="images/MH3icon-Switch_Axe.png" width="16px"> Sinister Saints  
 
 If you want status awakening, look below.
 
@@ -279,7 +279,7 @@ If you want status awakening, look below.
 
 Active Skills:  Awaken, Sharpness +1, Earplugs
 
-<img src="images/MH3icon-Hammer.png" width="16px">Iron Devil | OOO (FreeElemnt 4)  
+<img src="images/MH3icon-Hammer.png" width="16px"> Iron Devil | OOO (FreeElemnt 4)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Helios Helm+ | OOO  (Handicraft 4)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Helios Mail+  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Lagiacrus Vambraces+ | O (FreeElement1)   
