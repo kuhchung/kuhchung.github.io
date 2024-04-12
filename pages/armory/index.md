@@ -264,18 +264,23 @@ Total: FreeElemnt +15, Swimming +10, Elemental +10, Status -12
 For elemental awakening. There are a select few weapons where this is worthwhile, which makes it kinda cool. A *lot* of room for decorations; I think Speed Sharpening is mandatory.
 
 A list of worthwhile weapons (Note: never Greatsword or Hammer!)  
-<img src="images/MH3icon-Sword_and_Shield.png" width="16px"> Odyssey (Arena SnS)  
-<img src="images/MH3icon-Lance.png" width="16px"> Doom Crown  
-<img src="images/MH3icon-Lance.png" width="16px"> Diablos Spear  
-<img src="images/MH3icon-Lance.png" width="16px"> Elder Babel Spr (R)  
-<img src="images/MH3icon-Long_Sword.png" width="16px"> Tenebra D  
-<img src="images/MH3icon-Switch_Axe.png" width="16px"> Sinister Saints  
+<img src="images/MH3icon-Sword_and_Shield.png" width="16px"> Odyssey (Arena SnS) | 350 <img src="pages/hunters-notes/icons/-status-Severe_Waterblight" width="16px">
+<img src="images/MH3icon-Lance.png" width="16px"> Doom Crown | 280 <img src="pages/hunters-notes/icons/-status-Severe_Waterblight" width="16px">
+<img src="images/MH3icon-Lance.png" width="16px"> Diablos Spear | 250 <img src="pages/hunters-notes/icons/-status-Severe_Waterblight" width="16px">
+<img src="images/MH3icon-Lance.png" width="16px"> Elder Babel Spr (R) | 300 <img src="pages/hunters-notes/icons/-status-Severe_Fireblight" width="16px">
+<img src="images/MH3icon-Long_Sword.png" width="16px"> Tenebra D | 560 <img src="pages/hunters-notes/icons/-status-Severe_Iceblight" width="16px">
+<img src="images/MH3icon-Switch_Axe.png" width="16px"> Sinister Saints | 500 <img src="pages/hunters-notes/icons/-status-Severe_Fireblight" width="16px">
 
 If you want status awakening, look below.
 
 ---
 
 ### Status Awakening
+
+<p float="left">
+<img src="images/awaken-status.png" width="48%">
+<img src="images/awaken-status-skills.png" width="48%">
+<p float="left">
 
 Active Skills:  Awaken, Sharpness +1, Earplugs
 
@@ -595,7 +600,9 @@ Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
 ---
 
 ## Status Gunning
-Use <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Light Bowgun/Jhen Cannon (O) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Chaos Wing. Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up (but it can be very nice.)  You don't need Status Atk Up.
+Use <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Light Bowgun/Jhen Cannon (O) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Chaos Wing. 
+
+Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up (but it can be very nice.)  You don't need Status Atk Up.
 
 Light Bowgun barrel gives more flexibility and loads more ammo types than Jhen Cannon. If you're unsure of how the fight is going to go and want a safety net, use Light Bowgun.
 
@@ -614,15 +621,15 @@ Available Slots:  O x3(/4), OOO x2; (Talisman)
 <p float="left">
 Active Skills:  Recoil Down +2, Bonus Shot, Bombardier, Element Atk Up  
 
-<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Blizzard Cannon |  <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Thundacrus Rex; O (Rapid Fire +1) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px">  Chaos Wing
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Blizzard Cannon |  <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Thundacrus Rex; O (Rapid Fire 1) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px">  Chaos Wing
 
-<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+ | O (Elemental +1)  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+  | OOO (Elemental +4)  
-<img src="images/MH3icon-3-Arms.png" width="16px"> Mutsu/Amagi Kote+ | OOO (Rapid Fire +4)  
-<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+ | O (Recoil +1)  
-<img src="images/MH3icon-5-Legs.png" width="16px"> Legiacrus Leggings+ | (Elemental +1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+ | O (Elemental 1)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+  | OOO (Elemental 4)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Mutsu/Amagi Kote+ | OOO (Rapid Fire 4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+ | O (Recoil 1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Legiacrus Leggings+ | (Elemental 1)  
 
-Bomb Boost 7 | O (Rapid Fire +1)  
+Bomb Boost 7 | O (Rapid Fire 1)  
 
 For a blend of status and ice elemental shooting. Useful against Diablos and Alatreon, notably that you can still fire ice and deal damage instead of being rendered ineffective once your status ammo is exhausted!
 
