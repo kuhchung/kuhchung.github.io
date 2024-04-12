@@ -264,12 +264,12 @@ Total: FreeElemnt +15, Swimming +10, Elemental +10, Status -12
 For elemental awakening. There are a select few weapons where this is worthwhile, which makes it kinda cool. A *lot* of room for decorations; I think Speed Sharpening is mandatory.
 
 A list of worthwhile weapons (Note: never Greatsword or Hammer!)  
-Odyssey (Arena SnS)  
-Doom Crown  
-Diablos Spear  
-Elder Babel Spr (R)  
-Tenebra D  
-Sinister Saints  
+<img src="images/MH3icon-Sword_and_Shield.png" width="16px"> Odyssey (Arena SnS)  
+<img src="images/MH3icon-Lance.png" width="16px"> Doom Crown  
+<img src="images/MH3icon-Lance.png" width="16px"> Diablos Spear  
+<img src="images/MH3icon-Lance.png" width="16px"> Elder Babel Spr (R)  
+<img src="images/MH3icon-Long_Sword.png" width="16px"> Tenebra D  
+<img src="images/MH3icon-Switch_Axe.png" width="16px"> Sinister Saints  
 
 If you want status awakening, look below.
 
@@ -279,7 +279,7 @@ If you want status awakening, look below.
 
 Active Skills:  Awaken, Sharpness +1, Earplugs
 
-<img src="images/MH3icon-Hammer.png" width="16px">Iron Devil | OOO (FreeElemnt 4)  
+<img src="images/MH3icon-Hammer.png" width="16px"> Iron Devil | OOO (FreeElemnt 4)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Helios Helm+ | OOO  (Handicraft 4)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Helios Mail+  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Lagiacrus Vambraces+ | O (FreeElement1)   
@@ -608,18 +608,22 @@ Available Slots:  O x3(/4), OOO x2; (Talisman)
 ---
 
 ### Akiko's Ice Elemental Status Blend
+<p float="left">
+<img src="images/akiko-ice-ele-status.png" width="48%">
+<img src="images/akiko-ice-ele-status-skills.png" width="48%">
+<p float="left">
+Active Skills:  Recoil Down +2, Bonus Shot, Bombardier, Element Atk Up  
 
- <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Blizzard Cannon |  <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px">  Chaos Wing
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Blizzard Cannon |  <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Thundacrus Rex; O (Rapid Fire +1) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px">  Chaos Wing
 
-<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+  
-<img src="images/MH3icon-3-Arms.png" width="16px"> Mutsu Kote+  
-<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+  
-<img src="images/MH3icon-5-Legs.png" width="16px"> Legiacrus Leggings+  
+<img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+ | O (Elemental +1)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Lagiacrus Vest+  | OOO (Elemental +4)  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Mutsu/Amagi Kote+ | OOO (Rapid Fire +4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Uragaan Coat+ | O (Recoil +1)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Legiacrus Leggings+ | (Elemental +1)  
 
-Bomb Boost 7 O
+Bomb Boost 7 | O (Rapid Fire +1)  
 
-(TODO: model and gemming)
 For a blend of status and ice elemental shooting. Useful against Diablos and Alatreon, notably that you can still fire ice and deal damage instead of being rendered ineffective once your status ammo is exhausted!
 
 Cool set! Thanks to Akiko for contributing.
