@@ -2,7 +2,7 @@
 
 ## <a href="Great-Jaggi.md" > <img src="icons/great-jaggi.png" > Great Jaggi </img></a>
 
-<h2 style='text-align: right;'><a href='Qurupeco.md"> <img src="icons/qurupeco.png" /> Qurupeco </img></a></h2>
+<h2 style='text-align: right;'><a href="Qurupeco.md"> <img src="icons/qurupeco.png" /> Qurupeco </img></a></h2>
 
 ## <img src="icons/royal-ludroth.png" > Royal Ludroth
 
