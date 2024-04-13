@@ -8,7 +8,7 @@ After returning to the game after a whole decade, I found myself relearning thin
 Let's do this!
 
 ## Articles
-[My notes on monsters](pages/hunters-notes)  
+[My notes on monsters](pages/hunters-notes/index.md)  
 [My weapon guide](pages/weapon-guide)  
 
 [Frequently Asked Questions](pages/FAQ.md)  
