@@ -4,34 +4,34 @@
 
 <h2 style='text-align: right;'><a href="Qurupeco.md"> <img src="icons/qurupeco.png" /> Qurupeco </img></a></h2>
 
-## <img src="icons/royal-ludroth.png" > Royal Ludroth
+## <a href="Royal-Ludroth.md" ><img src="icons/royal-ludroth.png" > Royal Ludroth </img></a>
 
-<h2 style='text-align: right;'> <img src="icons/barroth.png" /> Barroth </h2>
+<h2 style='text-align: right;'> <a href="Barroth.md"><img src="icons/barroth.png" /> Barroth </img></a></h2>
 
-## <img src="icons/gobul.png" > Gobul
+## <a href="Gobul.md"><img src="icons/gobul.png" > Gobul </img></a>
 
-<h2 style='text-align: right;'> <img src="icons/rathian.png" /> Rathian </h2>
+<h2 style='text-align: right;'> <a href="Rathian.md"><img src="icons/rathian.png" /> Rathian </img></a></h2>
 
-## <img src="icons/great-baggi.png" > Great Baggi
+## <a href="Great-Baggi.md" ><img src="icons/great-baggi.png" > Great Baggi </img></a>
 
-<h2 style='text-align: right;'> <img src="icons/gigginox.png" /> Gigginox </h2>
+<h2 style='text-align: right;'><a href="Gigginox.md"> <img src="icons/gigginox.png" /> Gigginox </img></a></h2>
 
-## <img src="icons/lagiacrus.png" > Lagiacrus
+## <a href="Great-Baggi.md" ><img src="icons/lagiacrus.png" > Lagiacrus</img></a>
 
-<h2 style='text-align: right;'> <img src="icons/rathalos.png" /> Rathalos </h2>
+<h2 style='text-align: right;'><a href="Rathalos.md"> <img src="icons/rathalos.png" /> Rathalos </img></a></h2>
 
-## <img src="icons/barioth.png" > Barioth
+## <a href="Barioth.md" ><img src="icons/barioth.png" > Barioth</img></a>
 
-<h2 style='text-align: right;'> <img src="icons/diablos.png" /> Diablos </h2>
+<h2 style='text-align: right;'><a href="Diablos.md"> <img src="icons/diablos.png" /> Diablos </img></a></h2>
 
-## <img src="icons/uragaan.png" > Uragaan
+## <a href="Uragaan.md" ><img src="icons/uragaan.png" > Uragaan</img></a>
 
-<h2 style='text-align: right;'> <img src="icons/agnaktor.png" /> Agnaktor </h2>
+<h2 style='text-align: right;'><a href="Agnaktor.md"> <img src="icons/agnaktor.png" /> Agnaktor </img></a></h2>
 
-## <img src="icons/ceadeus.png" > Ceadeus
+## <a href="Ceadeus.md" ><img src="icons/ceadeus.png" > Ceadeus</img></a>
 
-<h2 style='text-align: right;'> <img src="icons/jhen-mohran.png" /> Jhen Mohran </h2>
+<h2 style='text-align: right;'><a href="Jhen-Mohran.md"> <img src="icons/jhen-mohran.png" /> Jhen Mohran </img></a></h2>
 
-## <img src="icons/alatreon.png" > Alatreon
+## <a href="Alatreon.md" ><img src="icons/alatreon.png" > Alatreon</img></a>
 
-<h2 style='text-align: right;'> <img src="icons/deviljho.png" /> Deviljho </h2>
+<h2 style='text-align: right;'><a href="Deviljho.md"> <img src="icons/deviljho.png" /> Deviljho </img></a></h2>
