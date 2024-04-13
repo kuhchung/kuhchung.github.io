@@ -1,8 +1,8 @@
 # Hunter's Notes - Index
 
-## <a href="Great-Jaggi.md" > <img src="icons/great-jaggi.png" > Great Jaggi </img></a>
+<p font-size="20px;"><a href="Great-Jaggi.md" > <img src="icons/great-jaggi.png" > Great Jaggi </img></a></p>
 
-<h2 style='text-align: right;'> <img src="icons/qurupeco.png" /> Qurupeco </h2>
+<p font-size="20px;" style='text-align: right;'><a href='Qurupeco.md"> <img src="icons/qurupeco.png" /> Qurupeco </img></a></p>
 
 ## <img src="icons/royal-ludroth.png" > Royal Ludroth
 
