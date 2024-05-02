@@ -344,6 +344,26 @@ Style! Note that this costs a Stout Horn for your decoration.
 
 ---
 
+### Endgame GS Standard Redux #2
+
+A new version of the above with higher armor and a lesser talisman requirement! This one only needs Crit Draw7 O once again.
+
+Active Skills:  Sharpness +1, Earplugs, Critical Draw, Focus
+
+<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O (Crit Draw 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Selene/Helios Helm+ | OOO (FastCharge 4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Hinata/Yamato Kote+ | OOO (FastCharge 4)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO  (Critical Draw 3, Handicraft 1)
+<img src="images/MH3icon-5-Legs.png" width="16px"> Helios Greaves  
+Talisman:  Crit Draw +7 O (Handicraft 1)  
+
+Total:  Handicraft +15, Crit Draw +10, FastCharge +10, Hearing +10
+
+This still costs a stout horn, but with a much more common talisman.
+
+---
+
 ### Endgame GS Standard No Earplugs
 <p float="left">
 <img src="images/endgame-gs-no-earplugs.png" width="48%">
