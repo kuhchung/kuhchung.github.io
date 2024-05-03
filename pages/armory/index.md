@@ -354,7 +354,7 @@ Active Skills:  Sharpness +1, Earplugs, Critical Draw, Focus
 <img src="images/MH3icon-1-Head.png" width="16px"> Selene/Helios Helm+ | OOO (FastCharge 4)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Hinata/Yamato Kote+ | OOO (FastCharge 4)  
-<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO  (Critical Draw 3, Handicraft 1)
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO  (Critical Draw 3, Handicraft 1)  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Helios Greaves  
 Talisman:  Crit Draw +7 O (Handicraft 1)  
 
