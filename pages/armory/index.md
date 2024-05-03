@@ -416,7 +416,7 @@ Total: Handicraft +15, C +10, Crit Draw +10, Tremor Res +10, Hearing +10
 
 This set has 4 or 5 slots, depending on your talisman. If you have the perfect rolled +10 +3 O, you won't need to use a stout horn on a decoration. Otherwise, just fill in the 5 slots to complete Critical Draw and Tremor-Proof.
 
-The perfect rolled C+10 A+3 O would be Crit Draw 3 or Tremor Res 3. I am not sure if they exist.
+The perfect rolled C+10 A+3 O would be Crit Draw 3 or Tremor Res 3.  
 
 In my opinion, Trap Master is the big C skill winner here. Big surprise.
 
