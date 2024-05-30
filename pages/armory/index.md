@@ -790,4 +790,84 @@ This is pretty niche, but is extremely flexible with all those slots and talisma
 
 ## Black Leather Pants Adrenaline
 
-These don't exist in the private server beta yet. I will port over the sets soon.
+Available for farming in the event quest Rage Match (Tri Server Project, when?)
+
+At the cost of lower defense, you can squeeze in an extra skill using Black Leather Pants instead of [Barroth Adrenaline](#barroth-adrenaline).
+
+
+---
+
+### BLP Blade Flexible
+<p float="left">
+<img src="images/blp-blademaster-flexible.png" width="48%">
+<img src="images/blp-blademaster-flexible-skills.png" width="48%">
+<p float="left">
+Active Skills:  Adrenaline +2, Sharpness +1  
+  
+Available Slots:  OOO; (Weapon); (Talisman)
+
+<img src="images/MH3icon-1-Head.png" width="16px"> Vangis Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Helios Mail+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces+ | OOO  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil+ | OOO (Handicraft 4)  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Black Leather Pants  
+
+Helm Total: Handicraft +15, Potential +15  
+
+I personally only use BLP blademaster when evade lancing Deviljho, so I will talisman and socket for evasion. Pictured is an Evasion+5 Stun+10 talisman that I had lying around. Obviously any Evasion+5 or better talisman will suffice.
+
+You can probably make this another way by using Vangis Vambraces, freeing up the OOO slot in your waist,  and some sort of C+10 Potential+3 O talisman. Feel free to play around with it.
+
+If you have evasion god and want to max out evade lancing, see below...
+
+---
+
+### BLP Blade Evasion God
+<p float="left">
+<img src="images/blp-blademaster-evasion-god.png" width="48%">
+<img src="images/blp-blademaster-evasion-god-skills.png" width="48%">
+<p float="left">
+Active Skills:  Adrenaline +2, Sharpness +1, Evasion +1, Attack Up (S), Detect  
+  
+Available Slots: None!  
+
+Weapon - O (Handicraft 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Vangis Helm  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Vangis Mail  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Vambraces+ | OOO (Handicraft 4)   
+<img src="images/MH3icon-4-Waist.png" width="16px"> Vangis Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Black Leather Pants  
+Talisman: Evasion +7 OO (Evasion 3)  
+
+Total: Handicraft +15, Potential +15, Evasion +10, Psychic +10, Attack +10  
+
+This is the *only* set that I use the vaunted evasion god talisman. I don't really think it's that important of a talisman, really.
+
+Have fun carting to Deviljho!
+
+---
+
+### BLP Pierce 2
+<p float="left">
+<img src="images/blp-pierce2.png" width="48%">
+<img src="images/blp-pierce2-skills.png" width="48%">
+<p float="left">
+Active Skills:  (Adrenaline +2), Pierce S All Up, Pierce S Boost, (flexible)  
+  
+Available Slots: (Waist); (Talisman)
+
+Weapon - Frame | Barrel O (Pierce S+) | Stock O (Potential 1)
+<img src="images/MH3icon-1-Head.png" width="16px"> Diablos Cap+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Diablos Vest+  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Guards+ | OOO (Pierce S+ 2, Pierce S+ 1)
+<img src="images/MH3icon-4-Waist.png" width="16px"> 
+<img src="images/MH3icon-5-Legs.png" width="16px"> Black Leather Pants  
+
+Total: Potential +14, Pierce S+ +15, PierceS Up +10
+
+For loading and firing Pierce1 and Pierce2. I use this vs Deviljho, Gobul, Agnaktor, and the Rathians. You can run either of my pierce gun combinations (Rathling+ | Devil'sGrin | Diablazooka or Thundacrus Rex | Devil's Grin | Thundacrus Rex.)
+
+You can customize the waist and talisman as you see fit. Since I use this vs Deviljho, I also run evasion. Pictured is Barioth Coat+ OOO (Potential 1, Evasion 3) and an Evasion+6 Combo Rate+10 talisman.
+
+Another option would be Alloy Coat+ or Rathalos Coat+ if you want to try to get Critical Eye with your talisman.
+
