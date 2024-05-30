@@ -876,7 +876,7 @@ Active Skills:  (Adrenaline +2), Pierce S All Up, Pierce S Boost, (flexible)
   
 Available Slots: (Waist); (Talisman)
 
-Weapon - Frame | Barrel O (Pierce S+) | Stock O (Potential 1)
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Frame | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Devil's Grin O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Stock O  
 <img src="images/MH3icon-1-Head.png" width="16px"> Diablos Cap+  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Diablos Vest+  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Guards+ | OOO (Pierce S+ 2, Pierce S+ 1)  
