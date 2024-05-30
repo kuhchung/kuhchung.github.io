@@ -879,8 +879,8 @@ Available Slots: (Waist); (Talisman)
 Weapon - Frame | Barrel O (Pierce S+) | Stock O (Potential 1)
 <img src="images/MH3icon-1-Head.png" width="16px"> Diablos Cap+  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Diablos Vest+  
-<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Guards+ | OOO (Pierce S+ 2, Pierce S+ 1)
-<img src="images/MH3icon-4-Waist.png" width="16px"> 
+<img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Guards+ | OOO (Pierce S+ 2, Pierce S+ 1)  
+<img src="images/MH3icon-4-Waist.png" width="16px"> (flexible - see below)    
 <img src="images/MH3icon-5-Legs.png" width="16px"> Black Leather Pants  
 
 Total: Potential +14, Pierce S+ +15, PierceS Up +10
