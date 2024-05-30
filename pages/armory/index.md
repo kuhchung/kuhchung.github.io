@@ -885,7 +885,7 @@ Weapon - Frame | Barrel O (Pierce S+) | Stock O (Potential 1)
 
 Total: Potential +14, Pierce S+ +15, PierceS Up +10
 
-For loading and firing Pierce1 and Pierce2. I use this vs Deviljho, Gobul, Agnaktor, and the Rathians. You can run either of my pierce gun combinations (Rathling+ | Devil'sGrin | Diablazooka or Thundacrus Rex | Devil's Grin | Thundacrus Rex.)
+For loading and firing Pierce1 and Pierce2. I use this vs Deviljho, Gobul, Agnaktor, and the Rathians. You can run either of my pierce gun combinations (Rathling+ | Devil's Grin | Diablazooka or Thundacrus Rex | Devil's Grin | Thundacrus Rex.)
 
 You can customize the waist and talisman as you see fit. Since I use this vs Deviljho, I also run evasion. Pictured is Barioth Coat+ OOO (Potential 1, Evasion 3) and an Evasion+6 Combo Rate+10 talisman.
 
