@@ -872,18 +872,18 @@ Have fun carting to Deviljho!
 <img src="images/blp-pierce2.png" width="48%">
 <img src="images/blp-pierce2-skills.png" width="48%">
 <p float="left">
-Active Skills:  (Adrenaline +2), Pierce S All Up, Pierce S Boost, (flexible)  
+Active Skills:  Adrenaline +2, Pierce S All Up, Pierce S Boost, (flexible)  
   
 Available Slots: (Waist); (Talisman)
 
-<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Frame | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Devil's Grin O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Stock O  
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Frame | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Devil's Grin O (Potential 1) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Stock O (Pierce S+ 1)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Diablos Cap+  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Diablos Vest+  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Diablos Guards+ | OOO (Pierce S+ 2, Pierce S+ 1)  
 <img src="images/MH3icon-4-Waist.png" width="16px"> (flexible - see below)    
 <img src="images/MH3icon-5-Legs.png" width="16px"> Black Leather Pants  
 
-Total: Potential +14, Pierce S+ +15, PierceS Up +10
+Total: Potential +15, Pierce S+ +15, PierceS Up +10
 
 For loading and firing Pierce1 and Pierce2. I use this vs Deviljho, Gobul, Agnaktor, and the Rathians. You can run either of my pierce gun combinations (Rathling+ | Devil's Grin | Diablazooka or Thundacrus Rex | Devil's Grin | Thundacrus Rex.)
 
