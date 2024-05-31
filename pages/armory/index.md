@@ -861,7 +861,7 @@ Talisman: Evasion +7 OO (Evasion 3)
 
 Total: Handicraft +15, Potential +15, Evasion +10, Psychic +10, Attack +10  
 
-This is the *only* set that I use the vaunted evasion god talisman. I don't really think it's that important of a talisman, really.
+This is the *only* set that I use the vaunted evasion god talisman. I don't think it's that important of a talisman, really.
 
 Have fun carting to Deviljho!
 
