@@ -60,14 +60,14 @@ Once you hit 4★ Moga Village quests, you unlock the Tundra. Make sure to grab 
 > 
 > If you're just in your room making hunt supplies, putting on full Chainmail can be a big help.
 
-## The Moga Mogul Empire
+## The Moga Mogul Empire (SCATTERFISH!!)
 
 At about this point, you should have some farms upgraded all the way (10 days) and probably 2 boats with access to Moga Shallows, as well as some Commodities under your belt to trade. Here is what I do:
 
 - Set the Argosy Captain to visit only the farming location for the shortest journey until you get the discount(s) you want.  
 - When Fish Finder is on discount, trade all my common commodities to stockpile them! Even better if something of ours sells for extra value.  
 - Plant Stormsender Seeds with Dung.  
-- Send your boats to Moga Shallows and use Fish Finder.  
+- Send your boats to Moga Shallows and use Fish Finder.  Scatterfish time, baby!  
 
 <p float="left">
 <img src="images/de-wa-come-back-soon.png" width="48%">
