@@ -299,6 +299,7 @@ Barroth+ (pieces endgame viable) (use LR barry arms if no wyvern stones)
 
 ---
 
+
 ### Rathian High Grade Earplugs
 <p float="left">
 <img src="images/hge-rathian-mix.png" width="48%">
@@ -317,6 +318,30 @@ Available Slots:  O; (Weapon); (Talisman)
 This is for Gigginox and Alatreon, if you really want it.
 
 If you want standard grade earplugs, just overforge my [low rank set](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/progression.md#low-rank-rathian-mix). It uses three of the same pieces anyways.
+
+---
+
+### Early HR Pierce
+<p float="left">
+<img src="images/early-hr-pierce.png" width="48%">
+<img src="images/early-hr-pierce-skills.png" width="48%">
+<p float="left">
+Active Skills:  Pierce S Boost, PierceS Lv1 Up
+  
+Available Slots:  3x OO ; (Talisman)
+
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Jaggid Fire | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Barrozooka O (PierceS Up) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Thundacrus  
+<img src="images/MH3icon-1-Head.png" width="16px"> Alloy Helm+ | OO  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Diablos Vest  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Dialos Guards  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Coat+ | OO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Alloy Leggings+  
+
+Total: Pierce S+ +11, PierceS Up +10, SpeedSetup +5, Expert +5
+
+We can't get Diablos+ materials yet, but you can use this as a stopgap to fire the far superior Pierce ammo while still upgrading to partial HR defensive values. I use the Alloy Helm+ because Alloy Cap+ doesn't provide any relevant extra armor skills. Therefore, we can choose the higher defensive blademaster piece.
+
+I would finish out Trapmaster and Critical Eye, but it is totally up to you. I would recommend **against** gemming for Pierce S+ ALL Up. You do not need to load more Pierce 2 (it's rapid fired.)
 
 ---
 
