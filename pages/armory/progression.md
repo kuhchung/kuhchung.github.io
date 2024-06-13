@@ -330,7 +330,7 @@ Active Skills:  Pierce S Boost, PierceS Lv1 Up
   
 Available Slots:  3x OO ; (Talisman)
 
-<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Jaggid Fire | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Barrozooka O (PierceS Up) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Thundacrus  
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Jaggid Fire | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Barrozooka O (PierceS Up) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Thundacrus OO  
 <img src="images/MH3icon-1-Head.png" width="16px"> Alloy Helm+ | OO  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Diablos Vest  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Dialos Guards  
