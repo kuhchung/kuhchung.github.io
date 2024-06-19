@@ -48,7 +48,11 @@ It seems natural to get to at least AuS, but the customization is entirely up to
 
 ---
 
+<details> 
+<summary> Endgame Standard Earplugs 2 </summary>
+
 ### Endgame Standard Earplugs 2
+
 <p float="left">
 <img src="images/endgame-standard-earplugs-2.png" width="48%">
 <img src="images/endgame-standard-earplugs-2-skills.png" width="48%">
@@ -67,9 +71,15 @@ Total:  Handicraft +14, Hearing +10, Attack +6
 
 Another way to achieve the same loadout as above. The Attack +6 goes really well with a Queen talisman that has C+10 Atk+3 O.
 
+</details> 
+
 ---
 
+<details>
+<summary> Endgame High Grade Earplugs </summary>
+
 ### Endgame High Grade Earplugs
+
 <p float="left">
 <img src="images/endgame-hge.png" width="48%">
 <img src="images/endgame-hge-skills.png" width="48%">
@@ -90,9 +100,15 @@ This is *the* high grade earplugs loadout. Put the handicraft deco in the weapon
 
 If you want a headless one though...
 
+</details>
+
 ---
 
+<details>
+<summary> Endgame Headless High Grade Earplugs </summary>
+
 ### Endgame Headless High Grade Earplugs
+
 <p float="left">
 <img src="images/endgame-scuffed-high-grade-earplugs.png" width="48%">
 <img src="images/endgame-scuffed-high-grade-earplugs-skills.png" width="48%">
@@ -115,9 +131,15 @@ Truth is, there's a lot of ways to make less optimal versions of Sharpness+1 and
 
 Note that this setup is actually great if you want to Greatsword and have a dual tremor res crit draw O tali. Put on Diablos Helm+ and rock S+1, HGE, Critical Draw, and Tremor-Proof!
 
+</details> 
+
 ---
 
+<details>
+<summary> Endgame Standard No Earplugs </summary>
+
 ### Endgame Standard No Earplugs
+
 <p float="left">
 <img src="images/endgame-standard-no-earplugs.png" width="48%">
 <p float="left">
@@ -135,9 +157,15 @@ Total:  Handicraft +15, Psychic +15, Attack +15
 
 Yes, this is just full Deviljho. Not many slots to work with. However, if you're willing to lose some Attack, you can get...
 
+</details>
+
 ---
 
+<details>
+<summary> Evade Lance </summary>
+
 ### Endgame Standard No Earplugs Flexible | Evade Lance
+
 <p float="left">
 <img src="images/endgame-standard-no-earplugs-flexible.png" width="48%">
 <p float="left">
@@ -157,9 +185,15 @@ In my opinion, losing one level of attack is worth being able to gem in other st
 
 If you're looking for an evade lancer set, this is it!
 
+</details>
+
 ---
 
+<details>
+<summary> Elemental Focus </summary>
+
 ### Elemental Enjoyers (2 slotted weapon)
+
 <p float="left">
 <img src="images/elemental-enjoyer.png" width="48%">
 <img src="images/elemental-enjoyer-skills.png" width="48%">
@@ -180,7 +214,12 @@ I'd rather use a standard sharpness mix, but that's me. With a 2 slot weapon and
 
 This is kind of nice with the two slot high element weapons, like Barbrian Sharq, Abyssal Striker, Sabertooth (G), etc.
 
+</details>
+
 ---
+
+<details>
+<summary> Elemental Focus 2 </summary>
 
 ### Elemental Enjoyers (no slots)
 <p float="left">
@@ -203,7 +242,12 @@ Total:  Handicraft +16, Element +8, Attack +10
 
 Attack +5/6 OO goes well with this set. Note that I don't particularly like either of these elemental sets.
 
+</details>
+
 ---
+
+<details>
+<summary> Guard Lance </summary>
 
 ### Steel Guard Lancing
 <p float="left">
@@ -224,9 +268,15 @@ Total:  Handicraft +15, Guard +10, Sharpener +10, Attack +7
 
 This is what I have for Guard Lancing that doesn't require a Guard skill in the talisman. You need one more Handicraft point in the tali. Funny enough, C+10 Atk+3 O fits extremely well into this set once more to tack on another C skill as well as AuS, but that is not at all mandatory. 
 
+</details>
+
 ---
 
+<details>
+<summary> My Weapon Hates Handicraft </summary>
+
 ### Alloy+ is Bae
+
 <p float="left">
 <img src="images/alloy+is-bae.png" width="48%">
 <p float="left">
@@ -247,7 +297,12 @@ Since Alloy+ already has the best C skills in the game, I just shove Attack 3 ge
 
 Notably, this is available as soon as you unlock HR31! It's a very good progression set.
 
+</details>
+
 ---
+
+<details>
+<summary> Elemental Awakening (is mostly dumb) </summary>
 
 ### Elemental Awakening
 
@@ -279,7 +334,13 @@ A list of worthwhile weapons (Note: never Greatsword or Hammer!)
 
 If you want status awakening, look below.
 
+
+</details>
+
 ---
+
+<details>
+<summary> Status Awakening (is REALLY dumb) </summary>
 
 ### Status Awakening
 
@@ -301,13 +362,19 @@ Total: Handicraft +15, Hearing +10, FreeElemnt +15
 
 I think the only weapon this set is worth it on is Iron Devil.
 
+</details>
+
 ---
 
 ## Great Sword Sets
 
 Okay, these require Crit Draw talismans. I warned you!
 
+<details>
+<summary> Endgame GS Standard </summary>
+
 ### Endgame GS Standard
+
 <p float="left">
 <img src="images/endgame-gs-standard.png" width="48%">
 <img src="images/endgame-gs-standard-skills.png" width="48%">
@@ -328,9 +395,15 @@ If your Critical Draw talisman is only 7, you could use the very expensive and i
 
 If you have Crit Draw +6 OO, you can do the following for higher defense...
 
+</details>
+
 ---
 
+<details>
+<summary> Endgame GS Standard Redux</summary>
+
 ### Endgame GS Standard Redux
+
 <p float="left">
 <img src="images/endgame-gs-standard-redux.png" width="48%">
 <p float="left">
@@ -348,7 +421,12 @@ Total:  Handicraft +15, Crit Draw +10, FastCharge +10, Hearing +10
 
 Style! Note that this costs a Stout Horn for your decoration.
 
+</details>
+
 ---
+
+<details>
+<summary> Endgame GS Standard Redux 2</summary>
 
 ### Endgame GS Standard Redux #2
 
@@ -368,9 +446,15 @@ Total:  Handicraft +15, Crit Draw +10, FastCharge +10, Hearing +10
 
 This still costs a stout horn, but with a much more common talisman.
 
+</details>
+
 ---
 
+<details>
+<summary> Endgame GS Standard No Earplugs</summary>
+
 ### Endgame GS Standard No Earplugs
+
 <p float="left">
 <img src="images/endgame-gs-no-earplugs.png" width="48%">
 <img src="images/endgame-gs-no-earplugs-skills.png" width="48%">
@@ -391,19 +475,30 @@ For when earplugs don't help. I've seen Item Use Up and Capture Guru as the most
 
 If your talisman is Crit Draw 6, then you don't have to blow a stout horn for the decoration. Just use two Crit Draw 1 decorations instead.
 
+</details>
+
 ---
 
+<details>
+<summary> Pickle Eater </summary>
+
 ### Pickle Eater
+
 Active Skills:  Sharpness +1, Critical Draw, High Grade Earplugs, (Tremor-Proof)
 
 See <a href="#endgame-headless-high-grade-earplugs"> here </a> and put on Diablos Helm+. Your talisman only needs to be Crit Draw 5 or better.
 
 If you have a talisman with both Tremor Res and Crit Draw skills, you may be able to get both! This is a set for hunting Diablos and Deviljho.
 
+</summary>
+
 ---
 
+<details>
+<summary> Bomb Breaker </summary>
 
 ### Bomb Breaker
+
 <p float="left">
 <img src="images/bomb-breaker.png" width="48%">
 <img src="images/bomb-breaker-skills.png" width="48%">
@@ -428,10 +523,15 @@ In my opinion, Trap Master is the big C skill winner here. Big surprise.
 
 I think Tremor-Proof buys you more openings vs Uragaan, and Focus may not be super relevant vs him anyway. I'm a terrible GS, so take this with a grain of salt. Still, the set has a lot of fine skills.
 
+</details>
+
 ---
 
+<details>
+<summary> Punish Draw </summary>
 
 ### Punishing Meme
+
 <p float="left">
 <img src="images/punishing-meme.png" width="48%">
 <img src="images/punishing-meme-skills.png" width="48%">
@@ -450,11 +550,19 @@ Total:  Handicraft +15, Crit Draw +10, PunishDraw +10, Hearing +10
 
 If you're into that sort of thing.
 
+</details>
+
 ---
 
 ## Pierce Gunning
 
+For all of the below pierce gunning sets, the waist and leggings are up to you! For evasion, use Barioth+ Coat and Barioth- Leggings. For adrenaline, use Barroth+ Coat and Barroth+ Leggings, or when Black Leather Pants is in the game, use that.
+
+<details>
+<summary> Close Range High Deviation </summary>
+
 ### Deviating Uragaan Smasher
+
 <p float="left">
 <img src="images/dev-ura-smasher.png" width="48%">
 <img src="images/dev-ura-smasher-skills.png" width="48%">
@@ -476,11 +584,19 @@ This gun loads 10 pierce1 rounds and fires at 0.6 range with high L deviation. T
 
 If you don't have/can't get a Stout Horn for the chest piece, the low rank Diablos Vest is only one point worse than the high rank one.
 
+One way deviation is not an issue, since the trajectory of the bullet is completely predictable. It allows you to use Felyne Temper for free without suffering misfired shots.
+
 I've named this gun the Uragaan smasher because it obliterates the poor guy. In the Advanced quest Heroes Wanted, 60 Adrenaline Pierce S Lv1 shots and 2 Large Barrel Bomb+ will put one of them low enough to capture!
+
+</summary>
 
 ---
 
+<details>
+<summary> Medium Range Straight Shootin' </summary>
+
 ### Straight Shooters
+
 <p float="left">
 <img src="images/straight-shooters.png" width="48%">
 <img src="images/straight-shooters-skills.png" width="48%">
@@ -502,7 +618,12 @@ Also like above, substitute low rank chest if you need to.
 
 This gun wants to fire straight through the longest part of the body. Fire straight into Deviljho or Agnaktor's face and thru the body, for example.
 
+</details>
+
 ---
+
+<details>
+<summary> Straight Shooters Alternate Gun </summary>
 
 ### Straight Shooters (Alternate Gun)
 
@@ -510,9 +631,15 @@ This gun wants to fire straight through the longest part of the body. Fire strai
 
 This gun loads more Pierce 1 shots than the above, making it more comfortable to use. Ultimately, it depends if you want 2 or 3 decoration slots in the gun. If you want 3, use the Thundacrus Rex combination above. If you only need 2, I recommend this one.
 
+</summary>
+
 ---
 
+<details>
+<summary> Long Range Straight Shooters </summary>
+
 ### World Eater Gun
+
 <p float="left">
 <img src="images/world-eater-gun.png" width="48%">
 <p float="left">
@@ -521,13 +648,17 @@ The same as above, but change the gun parts to
 
 Note that this gun has a folding frame so it is very immobile. It is used in World Eater speedruns, but can also be used freestyle in that fight. Its range is 0.96 so you can fire a little more comfortably vs the big guy, but whether or not it's better than just firing regular old 0.8 range bullets with a medium bowgun probably depends on the player.
 
-For all of the above pierce gunning sets, the waist and leggings are up to you! For evasion, use Barioth+ Coat and Barioth- Leggings. For adrenaline, use Barroth+ Coat and Barroth+ Leggings, or when Black Leather Pants is in the game, use that.
+</details>
 
 ---
 
 ## Normal and Elemental Gunning
 
+<details>
+<summary> Normal Meme (Don't Use This. Seriously.) </summary>
+
 ### Normal Meme
+
 <p float="left">
 <img src="images/normal-meme+.png" width="32%">
 <img src="images/normal-meme-skills+.png" width="32%">
@@ -548,11 +679,17 @@ Total: Normal S Up +10, Normal S+ +10
 
 Look, no pants!
 
-Sorry, Normal shot is sort of a meme. It's kind of good vs Qurupeco.
+Sorry, Normal shot is just terrible. It's kind of good vs Qurupeco.
+
+</details>
 
 ---
 
+<details>
+<summary> Elemental DPS </summary>
+
 ### Elemental Rapid Fire Bonus Shot
+
 <p float="left">
 <img src="images/elemental-rapid-fire-bonus-shot.png" width="48%">
 <img src="images/elemental-rapid-fire-bonush-shot-skills+.png" width="48%">
@@ -572,9 +709,15 @@ Total: Rapid Fire +10, Elemental +10
 
 For the head piece, you could wear Barrage Earring (meh), or any earring of your choice, or Barroth Helm+/Cap+ and a potential talisman. Or whatever you want!
 
+</details>
+
 ---
 
+<details>
+<summary> Elemental HBG Evasion Up </summary>
+
 ### Ghost Rider Rapid Fire Bonus Shot
+
 <p float="left">
 <img src="images/ghost-rider-rapid-fire-bonus-shot.png" width="32%">
 <img src="images/ghost-rider-rapid-fire-bonus-shot-skills.png" width="32%">
@@ -597,9 +740,15 @@ We get more raw on the gun, and Evasion Up is there to make up for the lack of m
 
 The listed guns are for rapid firing fire shots. I find the other elemental shots bad/useless, but you can just switch the barrel and stock to find ones that load the ammo type you want.
 
+</details>
+
 ---
 
+<details>
+<summary> I Want to Cheese Alatreon! </summary>
+
 ### Deep Fried Alatreon
+
 <p float="left">
 <img src="images/deep-fried-alatreon-front.png" width="32%">
 <img src="images/deep-fried-alatreon-skills+.png" width="32%">
@@ -623,9 +772,15 @@ Honestly, there's probably a cheaper way to make this without requiring a Clust 
 
 Look at the Uragaan+ and Jhen+ pieces, check your talismans, and try it out.
 
+</details>
+
 ---
 
+<details>
+<summary> Speedrun Gun </summary>
+
 ## Status Gunning
+
 Use <img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Thundacrus Rex | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Light Bowgun/Jhen Cannon (O) | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Chaos Wing. 
 
 Get Recoil Down +2, Trapmaster, and Bombardier. The rest is irrelevant. You don't need Load Up (but it can be very nice.)  You don't need Status Atk Up.
@@ -638,9 +793,15 @@ Active Skills:  Defense Up (S), Recoil Down +2, Bombardier, Slow Eater
 
 Available Slots:  O x3(/4), OOO x2; (Talisman)
 
+</details>
+
 ---
 
+<details>
+<summary> Ice Status Hybrid </summary>
+
 ### Akiko's Ice Elemental Status Blend
+
 <p float="left">
 <img src="images/akiko-ice-ele-status.png" width="48%">
 <img src="images/akiko-ice-ele-status-skills.png" width="48%">
@@ -661,6 +822,8 @@ For a blend of status and ice elemental shooting. Useful against Diablos and Ala
 
 Cool set! Thanks to Akiko for contributing.
 
+</details>
+
 ---
 
 ## Status Melee Sets
@@ -670,7 +833,11 @@ Note: These are very, very flexible. Mine are just some simple examples.
 In my opinion, if you run paralyze, then trapmaster is mandatory.  
 If you run sleep, bombardier is mandatory.
 
+<details>
+<summary> Generic Status </summary>
+
 ### Blast Earring, anyone?
+
 <p float="left">
 <img src="images/blast-earring-anyone+.png" width="48%">
 <img src="images/blast-earring-anyone-skills+.png" width="48%">
@@ -689,9 +856,15 @@ Total: Sharpness +10, Status +10, SpeedSetup +10
 
 Plenty of room to add other skills of your choice.
 
+</details>
+
 ---
 
+<details>
+<summary> Guard Lance Status </summary>
+
 ### Blast Earring, anyone? Lance Remix
+
 <p float="left">
 <img src="images/blast-earring-anyone-lance-remix.png" width="48%">
 <img src="images/blast-earring-anyone-lance-remix-skills+.png" width="48%">
@@ -710,9 +883,15 @@ Total: Sharpness +9, Status +10, Guard +10
 
 For people who like guard lancing. Note the Bnah boots are low rank!
 
+</details>
+
 ---
 
+<details>
+<summary> Blademaster Sleep Bomb </summary>
+
 ### Who Needs Blast Earring?
+
 <p float="left">
 <img src="images/who-needs-blast-earring.png" width="48%">
 <img src="images/who-needs-blast-earring-skills.png" width="48%">
@@ -733,6 +912,8 @@ Total:  Bombardier +8, Status +10, Sharpness +10
 There are still five slots left in the armor, and I haven't even included a talisman here. Put in the bomb boost gem to make sure you reach Bombardier.
 
 If you have Bomb Boost +5 SpeedSetup +10 tali, you can even leave off the Uragaan Helm+.
+
+</details>
 
 ---
 
