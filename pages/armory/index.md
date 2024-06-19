@@ -190,7 +190,7 @@ If you're looking for an evade lancer set, this is it!
 ---
 
 <details>
-<summary> Elemental Focus </summary>
+<summary> Elemental Enjoyers (2 slot weapon) </summary>
 
 ### Elemental Enjoyers (2 slotted weapon)
 
@@ -219,7 +219,7 @@ This is kind of nice with the two slot high element weapons, like Barbrian Sharq
 ---
 
 <details>
-<summary> Elemental Focus 2 </summary>
+<summary> Elemental Enjoyers (no slot weapon) </summary>
 
 ### Elemental Enjoyers (no slots)
 <p float="left">
