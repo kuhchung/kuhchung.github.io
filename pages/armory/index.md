@@ -21,7 +21,8 @@ Not endgame HR yet but still looking for some armor? Try [progression](progressi
 
 ## General Melee Sets
 
-### Endgame Standard Earplugs
+<details> 
+### <summary> Endgame Standard Earplugs </summary>
 <p float="left">
 <img src="images/endgame-standard-earplugs.png" width="48%">
 <img src="images/endgame-standard-earplugs-skills.png" width="48%">
@@ -39,6 +40,8 @@ Available Slots:  OOO x2; (Talisman); (Weapon)
 Total:  Handicraft +15, Hearing +10, Attack +5  
 
 It seems natural to get to at least AuS, but the customization is entirely up to you. A common favorite loadout of mine is Sharpness +1, Earplugs, AuS, Trapmaster, Sharpener. That would require a SpeedSetup +10 OO or comparable talisman.
+
+</details>
 
 ---
 
