@@ -490,7 +490,7 @@ See <a href="#endgame-headless-high-grade-earplugs"> here </a> and put on Diablo
 
 If you have a talisman with both Tremor Res and Crit Draw skills, you may be able to get both! This is a set for hunting Diablos and Deviljho.
 
-</summary>
+</details>
 
 ---
 
@@ -588,7 +588,7 @@ One way deviation is not an issue, since the trajectory of the bullet is complet
 
 I've named this gun the Uragaan smasher because it obliterates the poor guy. In the Advanced quest Heroes Wanted, 60 Adrenaline Pierce S Lv1 shots and 2 Large Barrel Bomb+ will put one of them low enough to capture!
 
-</summary>
+</details>
 
 ---
 
@@ -631,7 +631,7 @@ This gun wants to fire straight through the longest part of the body. Fire strai
 
 This gun loads more Pierce 1 shots than the above, making it more comfortable to use. Ultimately, it depends if you want 2 or 3 decoration slots in the gun. If you want 3, use the Thundacrus Rex combination above. If you only need 2, I recommend this one.
 
-</summary>
+</details>
 
 ---
 
