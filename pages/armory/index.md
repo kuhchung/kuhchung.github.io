@@ -22,7 +22,8 @@ Not endgame HR yet but still looking for some armor? Try [progression](progressi
 ## General Melee Sets
 
 <details> 
-### <summary> Endgame Standard Earplugs </summary>
+<summary> Endgame Standard Earplugs </summary>
+### Endgame Standard Earplugs  
 <p float="left">
 <img src="images/endgame-standard-earplugs.png" width="48%">
 <img src="images/endgame-standard-earplugs-skills.png" width="48%">
