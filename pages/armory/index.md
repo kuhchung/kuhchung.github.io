@@ -924,7 +924,11 @@ My whole purpose with these, aside from having fun and carting stupidly, is to b
 
 **Beware: these require good potential talismans.**
 
+<details>
+<summary> Adrenaline Earplugs </summary>
+
 ### Adrenaline Earplugs  
+
 <p float="left">
 <img src="images/adrenaline-earplugs.png" width="48%">
 <img src="images/adrenaline-earplugs-skills.png" width="48%">
@@ -948,9 +952,15 @@ With potential god (potential7 OO), I use the helm. This also grants AuS. The ca
 
 If you have a good Potential +5/6 C+10 talisman, feel free to run that for the extra C skill!
 
+</details>
+
 ---
 
+<details>
+<summary> Adrenaline No Earplugs </summary>
+
 ### Adrenaline No Earplugs
+
 <p float="left">
 <img src="images/adrenaline-no-earplugs-helm+.png" width="48%">
 <img src="images/adrenaline-no-earplugs-cap+.png" width="48%">
@@ -973,7 +983,12 @@ Since this is non earplugs, I use this set with a lance, but of course, you can 
 
 With Potential 6 OO and Sabertooth (G), this set (pictured) actually reaches AuL even with the Barroth Helm+! All the powah!
 
+</details>
+
 ---
+
+<details>
+<summary> Adrenaline No Handicraft </summary>
 
 ### Adrenaline No Handicraft
 
@@ -993,6 +1008,8 @@ For those non Sharpness +1 weapons (Flame Tempest, Reaver "Calamity"). If you wa
 
 This is pretty niche, but is extremely flexible with all those slots and talisman unused.
 
+</details>
+
 ---
 
 ## Black Leather Pants Adrenaline
@@ -1004,7 +1021,11 @@ At the cost of lower defense, you can squeeze in an extra skill using Black Leat
 
 ---
 
+<details>
+<summary> BLP Blade Flexible </summary>
+
 ### BLP Blade Flexible
+
 <p float="left">
 <img src="images/blp-blademaster-flexible.png" width="48%">
 <img src="images/blp-blademaster-flexible-skills.png" width="48%">
@@ -1027,9 +1048,15 @@ You can probably make this another way by using Vangis Vambraces, freeing up the
 
 If you have evasion god and want to max out evade lancing, see below...
 
+</details>
+
 ---
 
+<details>
+<summary> BLP Blade Evasion God </summary>
+
 ### BLP Blade Evasion God
+
 <p float="left">
 <img src="images/blp-blademaster-evasion-god.png" width="48%">
 <img src="images/blp-blademaster-evasion-god-skills.png" width="48%">
@@ -1052,9 +1079,15 @@ This is the *only* set that I use the vaunted evasion god talisman. I don't thin
 
 Have fun carting to Deviljho!
 
+</details>
+
 ---
 
+<details>
+<summary> BLP Pierce 1+2 </summary>
+
 ### BLP Pierce 2
+
 <p float="left">
 <img src="images/blp-pierce2.png" width="48%">
 <img src="images/blp-pierce2-skills.png" width="48%">
@@ -1077,4 +1110,6 @@ For loading and firing Pierce1 and Pierce2. I use this vs Deviljho, Gobul, Agnak
 You can customize the waist and talisman as you see fit. Since I use this vs Deviljho, I also run evasion. Pictured is Barioth Coat+ OOO (Potential 1, Evasion 3) and an Evasion+6 Combo Rate+10 talisman.
 
 Another option would be Alloy Coat+ or Rathalos Coat+ if you want to try to get Critical Eye with your talisman.
+
+</details>
 
