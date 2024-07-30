@@ -357,6 +357,7 @@ Active Skills:  Awaken, Sharpness +1, Earplugs
 <img src="images/MH3icon-3-Arms.png" width="16px"> Lagiacrus Vambraces+ | O (FreeElement1)   
 <img src="images/MH3icon-4-Waist.png" width="16px"> Helios Coil  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Escadora Scale  
+Talisman: OO or better  
 
 Total: Handicraft +15, Hearing +10, FreeElemnt +15
 
