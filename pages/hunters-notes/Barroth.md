@@ -30,7 +30,9 @@ Barroth's elemental weakness actually varies depending on whether or not he's co
 
 If Barroth is in the area with his mud pool, he can go and roll in the mud. Note: his tail is an active hurtzone when he does this, and will trip you. This slathers his entire body in mud once more.
 
-Note that once you break either Barroth's scalp or claws, they can never be mudbound again. That, and the fact that he can't re-mud unless in his starting zone, guides my recommendation to bring fire.
+Note that once you break either Barroth's scalp or claws, they can never be mudbound again.
+
+If you are in a team, I would bring fire because I'd expect it to be mostly clean. Otherwise, bring water.
 
 ## Evasion and Avoidance
 Barroth actually has two forward charges, though they might appear quite similar. The first one is from long range, where the tail backswings to the right. The other is at close range, which includes a head fling upwards and a tailswing to the left. The tailswing to the right (far charge) is an active hurtzone. The tailswing to the left (close charge) is not.  
