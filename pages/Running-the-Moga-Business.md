@@ -97,9 +97,12 @@ Now that you aren't constantly going broke forging armors and weapons, it might 
 
 - Honey. Honey honey honey. Put these on 10 cycles with Bizzy Bees. Trade for Bizzy Bees. FARM HONEY.  
 - Flashbugs (FLASH BOMBS!)  
-- Godbugs (ingredient for Max Potion)  
+- Godbugs (ingredient for Max Potion, Lifepowder)  
 - Might Seed  
-- Dragon Toadstool  
+- Blue Mushroom (ingredient for Nutrients/Mega Nutrients)  
+
+If Loc Lac vendors provide it, don't farm it!
+
 
 ## Cycling your days
 Once your farm and fish empire is running, *always* sleep at night. This allows your boats and farm to advance another half day, accelerating their output.
