@@ -31,7 +31,7 @@ If you deal a *lot* of fire damage (Agnaktor Firelance, Dancing Hellfire, fire b
 Seriously, four fire gunners can back lock Lagi for the whole fight.
 
 ## Avoidance and Evasion
-The double hipcheck is really dangerous guys. I don't know what to tell you. Evade through it with evasion+1 I guess.
+The double hipcheck is really dangerous. If you are centered with Lagiacrus, go left. Two left hops with lance, or one left fade with longsword, and you cannot be touched barring some wall nonsense. If you are not centered enough to go left, going right will dodge the first hipcheck, but you will be in the hurtbox for the second check. You will have to i-frame it or guard. 
 
 On the headwhip tailswing, if you're near the head, rolling at the last moment toward the little crook in the curve of his neck will get you out unscathed. You'll be staggered briefly from water pressure, but otherwise unharmed.
 
