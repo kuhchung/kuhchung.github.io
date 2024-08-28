@@ -16,7 +16,7 @@
 
 <h2 style='text-align: right;'><a href="Gigginox.md"> <img src="icons/gigginox.png" /> Gigginox </img></a></h2>
 
-## <a href="Great-Baggi.md" ><img src="icons/lagiacrus.png" > Lagiacrus</img></a>
+## <a href="Lagiacrus.md" ><img src="icons/lagiacrus.png" > Lagiacrus</img></a>
 
 <h2 style='text-align: right;'><a href="Rathalos.md"> <img src="icons/rathalos.png" /> Rathalos </img></a></h2>
 
