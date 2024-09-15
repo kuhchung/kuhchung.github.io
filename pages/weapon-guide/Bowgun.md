@@ -50,6 +50,8 @@ I gotchu fam.
 
 Here it is in progression order:
 
+** All gun constructions are Frame, Barrel, Stock! This is the order that you put the three pieces together in the menu, top to bottom.**
+
 Light - Heavy - Heavy  
 Royal - Tropeco - Tropeco (for poisoning bugs and fire shooting)  
 Royal - Royal - Tropeco (for barroth)  
