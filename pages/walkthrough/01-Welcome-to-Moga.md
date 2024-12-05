@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=lVaIXspLZ2A&list=PLJm1iEzW-kshQbjFixM73Tz7mIK0vn
 
 ### Checklist
 - Collect 1500z from Chief
-- - Buy a full set of Leather Armor from Outfitter
+    - Buy a full set of Leather Armor from Outfitter
 - Deliver raw meat to Junior at base camp wreckage
 
 Pick your preferred weapon, get out there, and do what the game says! Pretty simple. Then return to Moga.
@@ -21,7 +21,7 @@ You might buy some bug nets here. I like to catch spider webs from the bug spot 
 Then, go out and kill jaggis plus whatever else you feel like until you have 30 resource points. Collect from some bone piles while you're at it - Mystery Bones, Monster Bone S, everything helps.
 
 - Collect 500z from Chief
-- - Buy Iron Pickaxes
+    - Buy Iron Pickaxes
 - Mine iron ore from area 4
 - Complete Wyverian Artisan's request
 
@@ -33,7 +33,7 @@ Don't forget to deposit stuff from your pouch into your supply box!
 
 - Collect 3 Fishing Harpoon from Chief
 - Poke a fish
-- - Mine from area 12
+    - Mine from area 12
 
 The big fish in area 11 only need a stab from the fishing harpoon to leave a corpse for carving. Other things, like sharqs and catfish, need to be morted (hit until limping), then stabbed with the harpoon. If you try to kill it with only the harpoon, you will be very sad.
 
