@@ -6,6 +6,8 @@ My goal for all of these sets is to *not* dictate what talismans you must use, w
 
 Not endgame HR yet but still looking for some armor? Try [progression](progression.md).
 
+Looking for really off-beat, bad builds that I have personally built and hand tested? Try [Who Let Him Cook](who-let-him-cook.md)?
+
 ## Contents
 
 - [General Melee Sets](#general-melee-sets)
@@ -299,7 +301,7 @@ Talisman: Guard Up +6 Sharpener +3 O or Guard Up +6 OO or better
 
 Total: Handicraft +15, Guard +10, Sharpener +11, Guard Boost +10
 
-Huge thanks to my friend misc for this set! If you want to put helmet on and guard through every single attack in the game (Lagi large electric field, Alatreon fireballs), then this is the set for you!
+Huge thanks to my friend misc for this set! If you want to put the proverbial helmet on and guard through every single attack in the game (Lagi large electric field, Alatreon fireballs), then this is the set for you!
 
 If you're using Sabertooth, it's a little easier since you have an extra slot to work with.
 
