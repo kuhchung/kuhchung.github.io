@@ -273,6 +273,41 @@ This is what I have for Guard Lancing that doesn't require a Guard skill in the 
 ---
 
 <details>
+<summary> Guard Boost Lance </summary>
+
+### Sharpness +1 Guard Boost Lance
+
+Warning: this requires a fairly strict talisman.
+
+Also, please be sure to read Guard vs Guard Up carefully!
+
+<p float="left">
+<img src="images/s1-guard-boost-lance.png" width="48%">
+<img src="images/s1-guard-boost-lance-skills.png" width="48%">
+<p float="left">
+Active Skills: Sharpness +1, Guard Boost, Guard +1, Speed Sharpen
+
+Available Slots: Nope.
+
+<img src="images/MH3icon-Lance.png" width="16px"> Alatreon Gleam | O or Sabertooth (G) | OO (Handicraft 1)
+<img src="images/MH3icon-1-Head.png" width="16px"> Damascus Helm | OOO (Handicraft 4)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Damascus Mail | OOO (Handicraft 4)   
+<img src="images/MH3icon-3-Arms.png" width="16px"> Steel Vambraces+ | O (Guard Up 1)   
+<img src="images/MH3icon-4-Waist.png" width="16px"> Steel Coil+ | O (Guard 1)   
+<img src="images/MH3icon-5-Legs.png" width="16px"> Vangis Greaves | OOO (Handicraft 4)   
+Talisman: Guard Up +6 Sharpener +3 O or Guard Up +6 OO or better
+
+Total: Handicraft +15, Guard +10, Sharpener +11, Guard Boost +10
+
+Huge thanks to my friend misc for this set! If you want to put helmet on and guard through every single attack in the game (Lagi large electric field, Alatreon fireballs), then this is the set for you!
+
+If you're using Sabertooth, it's a little easier since you have an extra slot to work with.
+
+</details>
+
+---
+
+<details>
 <summary> My Weapon Hates Handicraft </summary>
 
 ### Alloy+ is Bae
