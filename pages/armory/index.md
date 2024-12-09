@@ -289,7 +289,7 @@ Active Skills: Sharpness +1, Guard Boost, Guard +1, Speed Sharpen
 
 Available Slots: Nope.
 
-<img src="images/MH3icon-Lance.png" width="16px"> Alatreon Gleam | O or Sabertooth (G) | OO (Handicraft 1)
+<img src="images/MH3icon-Lance.png" width="16px"> Alatreon Gleam | O or Sabertooth (G) | OO (Handicraft 1)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Damascus Helm | OOO (Handicraft 4)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Damascus Mail | OOO (Handicraft 4)   
 <img src="images/MH3icon-3-Arms.png" width="16px"> Steel Vambraces+ | O (Guard Up 1)   
