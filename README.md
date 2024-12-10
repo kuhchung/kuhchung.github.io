@@ -21,6 +21,7 @@ If you want to look at **armor sets** I've collated (you do), [here they are.](p
 
 ## Resources
 Good external references:  
+[MH Tribrary - Gale's Damage Calculator](https://mhtribrary.com/)  
 [Quest Reward guide](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/60448)  
 [Melee Damage Formula](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/59207)  
 [Bowgun Damage Formula](https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs/59704)  
