@@ -13,7 +13,7 @@ Looking for really off-beat, bad builds that I have personally built and hand te
 - [General Melee Sets](#general-melee-sets)
 - [Great Sword Sets](#great-sword-sets)
 - [Pierce Gunning](#pierce-gunning)
-- [Normal, Elemental, and Clust Gunning](#normal-and-elemental-gunning)
+- [Normal, Elemental, and Clust Gunning](#elemental-gunning)
 - [Status Gunning](#status-gunning)
 - [Status Melee Sets](#status-melee-sets)
 - [Barroth Adrenaline](#barroth-adrenaline)
