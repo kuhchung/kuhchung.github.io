@@ -61,6 +61,8 @@ And it's the *only* thing pellet is good at. Besides getting your teammates to h
 
 On top of that, these armor pieces conflict with adrenaline and expert, for Pete's sake.
 
+It's pretty drippy though.
+
 --- 
 
 ### Normy 
@@ -74,12 +76,12 @@ Active Skills:  Normal S Boost, Normal S All Up
 
 Available Slots:  O x3, OOO x2; (Legs); (Talisman)
 
-<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Chaos Wing | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Jhen Cannon O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Aquamatic "Needler" O; or Vulcannon
-<img src="images/MH3icon-1-Head.png" width="16px"> Agnaktor Cap+
-<img src="images/MH3icon-2-Chest.png" width="16px"> Agnaktor Vest+ | O
-<img src="images/MH3icon-3-Arms.png" width="16px"> Agnaktor Guards+ | OOO
-<img src="images/MH3icon-4-Waist.png" width="16px"> Agnaktor Coat+ | OOO
-<img src="images/MH3icon-5-Legs.png" width="16px"> None
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Chaos Wing | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Jhen Cannon O | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Aquamatic "Needler" O; or Vulcannon  
+<img src="images/MH3icon-1-Head.png" width="16px"> Agnaktor Cap+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Agnaktor Vest+ | O  
+<img src="images/MH3icon-3-Arms.png" width="16px"> Agnaktor Guards+ | OOO  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Agnaktor Coat+ | OOO  
+<img src="images/MH3icon-5-Legs.png" width="16px"> None  
 
 Total: Normal S Up +10, Normal S+ +10
 
