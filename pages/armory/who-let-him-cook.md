@@ -9,7 +9,7 @@ These are my experimental builds that are... not safe for life. Use these at you
 <img src="images/kabum-skills.png" width="48%">
 <p float="left">
 
-<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Rathling Gun+ | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Chaos wing | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> - Chaos Wing - Poison Stinger O (Recoil 1)  
+<img src="images/MH3icon-Bowgun-1-Frame.png" width="16px"> Rathling Gun+ | <img src="images/MH3icon-Bowgun-2-Barrel.png" width="16px"> Chaos wing | <img src="images/MH3icon-Bowgun-3-Stock.png" width="16px"> Poison Stinger O (Recoil 1)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Uragaan Cap+ | O (Bomb Boost 2)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Mutsu Muneate+ | O (Recoil 1)   
 <img src="images/MH3icon-3-Arms.png" width="16px"> Barroth Guards+ | O (Recoil 4)  
