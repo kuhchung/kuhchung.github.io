@@ -364,30 +364,52 @@ Lagiacrus overforge
 
 ---
 
-### Early Vangis
+### HR31 Vangis
 <p float="left">
-<img src="images/early-vangis.png" width="48%">
-<img src="images/early-vangis-skills.png" width="48%">
+<img src="images/hr31-vangis.png" width="48%">
+<img src="images/hr31-vangis-skills.png" width="48%">
+<p float="left">
+Active Skills:  Sharpness +1, Attack Up S, Detect
+  
+Available Slots:  
+
+Any Weapon O | (handicraft 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Rathian Cap+ | OOO (attack 5)  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Alloy Mail+ | OO (handicraft 1, handicraft 1)
+<img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves  
+Talisman: At least O (handicraft 1)
+
+Total:  Handicraft +15, Attack +10, Attack +10
+
+This requires a lot of Deviljho farming when you are HR31, which means you are likely getting carried by higher ranked players. If so, this is the best set that I've found that has a good blend of high rank defense as well as endgame premium skills.
+
+The chest piece can be anything that's 2-slotted. Alloy+ exists so I used that. In the picture I'm actually wearing Bnahabra+, but ignore that.
+
+---
+
+### HR40 Vangis
+<p float="left">
+<img src="images/hr40-vangis.png" width="48%">
+<img src="images/hr40-vangis-skills.png" width="48%">
 <p float="left">
 Active Skills:  Sharpness +1, Attack Up S, Detect
   
 Available Slots:  (Talisman)
 
 Any Weapon O | (handicraft 1)  
-<img src="images/MH3icon-1-Head.png" width="16px"> Any Helm | OO (handicraft 1, handicraft 1)  
+<img src="images/MH3icon-1-Head.png" width="16px"> Rathian Cap++ | OOO (attack 5)  
 <img src="images/MH3icon-2-Chest.png" width="16px"> Vangis Mail  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
-<img src="images/MH3icon-5-Legs.png" width="16px"> Alloy Greaves  
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves  
 
-Total:  Handicraft +15, Attack +11, Psychic +10  
-Total without helm/weapon: Handicraft +12, Attack +11, Psychic +10  
+Total:  Handicraft +15, Attack +13, Hearing +10, Psychic +7  
 
-If you have high ranked people in your city willing to hunt early Deviljho with you via Jaggia Menace, then you can make this set once you gather the Dragonbone relics in the Tundra. Eat for Felyne Explorer, go hunt Great Baggi, et voila!
+To get Dragonbone Relics, eat for Felyne Explorer, then choose Great Baggi. Gather from the bone pile.
 
-This is like Tri's version of that Ceanataur set that gives Honed Blade in 4U early game low rank.
-
-If you're lucky enough to get a Deviljho Gem, you can use Vangis Coil instead of Selene/Helios Coil. If you don't want to put a handicraft decoration in your weapon, you can use Skull Mask. Really, if you remove the helmet and weapon, you just need three more handicraft points however you like to get it. Pictured is the Lagiacrus Helm, because I have it sitting around from low rank.
+If you want higher armor values but want to give up earplugs, you can replace the legs with Alloy+ and swap the attack decoration in the cap for hearing. You can figure it out from there.
 
 ---
 
