@@ -356,7 +356,7 @@ Available Slots:
 
 Any Weapon O | (handicraft 1)  
 <img src="images/MH3icon-1-Head.png" width="16px"> Rathian Cap+ | OOO (attack 5)  
-<img src="images/MH3icon-2-Chest.png" width="16px"> Alloy Mail+ | OO (handicraft 1, handicraft 1)
+<img src="images/MH3icon-2-Chest.png" width="16px"> Alloy Mail+ | OO (handicraft 1, handicraft 1)  
 <img src="images/MH3icon-3-Arms.png" width="16px"> Vangis Vambraces  
 <img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves  
