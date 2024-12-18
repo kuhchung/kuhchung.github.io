@@ -350,7 +350,7 @@ I would finish out Trapmaster and Critical Eye, but it is totally up to you. I w
 <img src="images/hr31-vangis.png" width="48%">
 <img src="images/hr31-vangis-skills.png" width="48%">
 <p float="left">
-Active Skills:  Sharpness +1, Attack Up S, Detect
+Active Skills:  Sharpness +1, Attack Up S, Earplugs  
   
 Available Slots:  
 
