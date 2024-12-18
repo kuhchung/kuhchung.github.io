@@ -345,25 +345,6 @@ I would finish out Trapmaster and Critical Eye, but it is totally up to you. I w
 
 ---
 
-## HR41-50
-New priority weapons available:  
-Lance: Sabertooth (G), Agnaktor Firelance  
-SnS: Djinn, Nardebosche  
-Longsword: Dancing Hellfire  
-Hammer: Iron Impact  
-Bowgun: Thundacrus Rex frame and stock  
-
-[Diablos+ Gunner](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#deviating-uragaan-smasher)  
-Believe it or not, this is endgame!
-
-Baggi+/Diablos+ mix/overforge
-
-Rathalos overforge
-
-Lagiacrus overforge
-
----
-
 ### HR31 Vangis
 <p float="left">
 <img src="images/hr31-vangis.png" width="48%">
@@ -386,6 +367,25 @@ Total:  Handicraft +15, Attack +10, Attack +10
 This requires a lot of Deviljho farming when you are HR31, which means you are likely getting carried by higher ranked players. If so, this is the best set that I've found that has a good blend of high rank defense as well as endgame premium skills.
 
 The chest piece can be anything that's 2-slotted. Alloy+ exists so I used that. In the picture I'm actually wearing Bnahabra+, but ignore that.
+
+---
+
+## HR41-50
+New priority weapons available:  
+Lance: Sabertooth (G), Agnaktor Firelance  
+SnS: Djinn, Nardebosche  
+Longsword: Dancing Hellfire  
+Hammer: Iron Impact  
+Bowgun: Thundacrus Rex frame and stock  
+
+[Diablos+ Gunner](https://github.com/kuhchung/Monster-Hunter-Tri---Goabie-Guide/blob/main/pages/armory/index.md#deviating-uragaan-smasher)  
+Believe it or not, this is endgame!
+
+Baggi+/Diablos+ mix/overforge
+
+Rathalos overforge
+
+Lagiacrus overforge
 
 ---
 
