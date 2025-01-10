@@ -39,6 +39,10 @@ Seriously, his beak is super duper vulnerable! It takes 70% (cutting) or 90% (im
 
 You can watch me hammering it in my progression series [here](https://youtu.be/Rt5HOZTzQhc?t=1116). I really wrecked him.
 
+## Away With Thee!
+If Qurupeco successfully summons a monster (surprise!), the fight becomes extremely chaotic. Not to mention, he may summon a monster that is beyond your rank...
+
+Some monsters that Qurupeco summons are not very receptive to dung bombing, so you should... dung bomb Qurupeco itself! Qurupeco zones at like I swear 99%.
 
 ## Avoidance and Evasion
 His acid spit always goes left to right (from our POV.)
