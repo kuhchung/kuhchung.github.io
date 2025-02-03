@@ -14,7 +14,7 @@ You should not be performing combos with this weapon, unless it involves hitting
 This is sort of covered by the "Don't combo!" topic, but avoid/never upswing. This launches teammates.
 
 ## Hit and Run
-Greatsword is a hit and run weapon. Barring special circumstances (Jhen Mohran), every Greatsword set runs Critical Draw. You will perform a draw attack on the monster, charged or not, sheathe, and then go for your next opening.
+Greatsword is a hit and run weapon. Barring special circumstances (Jhen Mohran, some teched out speedrun), every Greatsword set runs Critical Draw. You will perform a draw attack on the monster, charged or not, sheathe, and then go for your next opening.
 
 The majority of your openings are going to come during monster turns. Aim for where the monster is going to be, not where the monster currently is, and charge up!
 
