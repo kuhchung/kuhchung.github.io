@@ -26,7 +26,7 @@ The event quest World Eater drops a lot of Timeworn Charms. People used to speed
 
 >> World Eater is *the* reason to get into gunning, if you haven't already tried it yet.
 
-Otherwise, just keep doing high level hunt quests and pray.
+Otherwise, just keep doing high level hunt quests and pray. Diablos is the 2nd best target.
 
 ## Loc Lac
 > I did my urgent, but I don't see the next rank of quests in Loc Lac! Why?
