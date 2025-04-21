@@ -26,8 +26,15 @@ If you hit X after 4-6 spins, you will get the golfswing.
 
 If you do nothing, you will get the undesirable swing again.
 
-## Hammer loop
+## Hammer Bread and Butter Combat Loop
 Barring monsters with problematic heads, I would say that superpounds comprise 90% of your attacks. The remaining 10% will just be random attacks of opportunity that you can sneak in.
+
+If the monster has a standard turn turn (or Barioth's single turn), then it is likely hammer bait. This is *so* easy and yet so many hammers do not understand how to do this.
+
+Say Rathian or Rathalos charges past you and you're chasing them. Stand behind them, *release as they begin their first turn*, and watch your super pound bonk them when they complete their 180 degree about face.
+> If you go for the monster's body all the time and cannot hit a standard turn timing, then you are a hammer noob. Sorry!
+
+If all you do is start with this superpound timing, and go for triples during KO, you will be better than 90% of hammers online.
 
 ## Damage Optimization
 You've scored a KO! Great! Now **stop charging superpounds** and go for triple pounds! If you were mid charge, just roll out of it!! You'll deal more damage and be less disruptive.
