@@ -406,7 +406,9 @@ I think the only weapon this set is worth it on is Iron Devil.
 
 ## Great Sword Sets
 
-Okay, these require Crit Draw talismans. I warned you!
+Okay, these optimal sets require really good Crit Draw talismans. I warned you!
+
+If you don't have the required talisman, you can always just use generic endgame standard sets and put in critical draw or focus. Up to you.
 
 <details>
 <summary> Endgame GS Standard </summary>
