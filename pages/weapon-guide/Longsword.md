@@ -31,9 +31,9 @@ Spirit 1, X, Spirit 2, X, Spirit 3, fade, A, then return to Spirit 1.
 
 You want to perform the finisher when the monster is entering free movement again.
 
-## Trust yourself
+## Trust Yourself
 It is tempting to try to get the roundlsash all the time. What if we lose red and go all the way back down to no spirit color?!
 
 If you take a bunch of hits in the process of mashing to maintain red, you will do less overall damage, and likely will have missed out on proper openings to maintain your spirit color. Trust in your own skill, do not trade, and wait for the proper opening. You have longer than you think.
 
-If you lose red, whatever, Just build it up again. It happens, especially if the monster is zoning, or Agnaktor is trolling.
+If you lose red, whatever, just build it up again. It happens, especially if the monster is zoning, or Agnaktor is trolling.
