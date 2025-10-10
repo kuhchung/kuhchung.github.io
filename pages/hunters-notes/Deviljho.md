@@ -71,3 +71,5 @@ Deviljho invades a lot of hunts as soon as high rank starts (Qurupeco surprise!)
 
 ## Random Useless Trivia
 Deviljho will eat captured boss monsters. Nothing graphic happens though, and the captured boss monster will not despawn.
+
+DEVILJHO DOES NOT EAT HIS OWN TAIL. *sigh*

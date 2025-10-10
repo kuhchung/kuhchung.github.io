@@ -21,25 +21,23 @@ Rage Tells: White smoke
 Barroth is widely considered one of the first walls in Monster Hunter Tri, and for good reason. His head hitzone causes your weapons to bounce, meaning that if you mash, you will flinch and then eat his rush. He moves quickly, and his backstep-turn is nigh unpunishable. And he hits hard! This guy is genuinely harder than many monsters that come after him, so here we go!
 
 ## Dealing Damage
-**DO NOT BRING HAMMER UNLESS YOU WANT TO DEAL NO DAMAGE.** His head hitzone is 1) really difficult to hammer, and 2) **takes very little damage.** Seriously, you move from the head to the claws and you will do twice as much damage. Unless you like the challenge of hammering this guy, and more power to you, *do not bring hammer.*
+**DO NOT BRING HAMMER PLANNING TO HIT THE HEAD A TON.** His head hitzone is 1) really difficult to hammer, and 2) **takes very little damage.** Seriously, you move from the head to the claws and you will do twice as much damage. Unless you like the challenge of trying to KO this guy a lot, do not bother focusing the head in free movement!
 
 Barroth's best hitzone is his claws. His best elemental hitzone is his head, but there's a funny caveat...
 
 ### Adaptive Elemental Weakness
-Barroth's elemental weakness actually varies depending on whether or not he's covered in mud. If he's muddy, he's weak to water. If he's clean, he's weak to fire. I personally recommend packing fire if you're trying to element match. If you're elemental gunning, bring a gun that fires both, but I would rapid fire fire.
+Barroth's elemental weakness actually varies depending on whether or not he's covered in mud. If he's muddy, he's weak to water. If he's clean, he's weak to fire. If you're elemental gunning, bring a gun that fires both, but I would rapid fire fire. Bomb the mud off the head (or maybe a hammer can remove his crest), and his head is permanently a 50% fire hitzone now.
 
 If Barroth is in the area with his mud pool, he can go and roll in the mud. Note: his tail is an active hurtzone when he does this, and will trip you. This slathers his entire body in mud once more.
 
 Note that once you break either Barroth's scalp or claws, they can never be mudbound again.
-
-If you are in a team, I would bring fire because I'd expect it to be mostly clean. Otherwise, bring water.
 
 ## Evasion and Avoidance
 Barroth actually has two forward charges, though they might appear quite similar. The first one is from long range, where the tail backswings to the right. The other is at close range, which includes a head fling upwards and a tailswing to the left. The tailswing to the right (far charge) is an active hurtzone. The tailswing to the left (close charge) is not.  
 (TODO: pic)
 > You cannot be hurt by this tailswing.
 
-During Barroth's big mud fling attack, there is a relatively safe but very pixelly perfect place you can be. You can either be out behind the edge of his extended tail if your weapon reaches, or otherwise, **be flush in line directly with his left hind foot.** This place is safe from the mudballs... mostly. It's quite picky.
+During Barroth's big mud fling attack, there is a relatively safe but very pixelly perfect place you can be. **Be flush in line directly with his left hind foot.** This place is safe from the mudballs... mostly. It's quite picky.
 (TODO: pic)
 > Fun fact: Barroth cannot do the mud fling attack when you've cleaned his entire body.
 
