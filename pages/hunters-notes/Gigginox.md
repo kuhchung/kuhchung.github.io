@@ -54,6 +54,8 @@ TODO: check G0/1/2 for common Gigginox attacks.
 ## Turnapound
 Standard turnapound. Stand behind it, and release the superpound as it begins its first turn.
 
+I actually have some sick openings to exploit, but they are quite difficult positioning.
+
 ## Reward Oddities
 Fearsome Maw requires *both* a head and a body break.
 
