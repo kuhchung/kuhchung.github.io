@@ -157,7 +157,10 @@ I skipped the chest piece to cheap out on Leader's Crests. But if you're plannin
 
 ---
 
-Steel for Guard Lance, highly recommend. Head and legs can be anything. Maybe something that can combine with whatever talismans you have available.
+### Steel 
+Full Steel for Guard Lance, highly recommend. Head and legs can be anything. Maybe something that can combine with whatever talismans you have available.
+
+---
 
 ### Bowguns Checkpoint
 
