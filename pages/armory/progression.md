@@ -194,7 +194,7 @@ Available Slots: (Talisman)
 <img src="images/MH3icon-4-Waist.png" width="16px"> Alloy Faulds O  (Sharpener +2)  
 <img src="images/MH3icon-5-Legs.png" width="16px"> Lagiacrus Greaves | OO  (SpeedSetup+2, SpeedSetup +2)
 
-Yes, you *can* wear full Lagiacrus, but that takes two extra horns and gives you Status Atk Down. By the way, Status Atk Down **affects tranqs.** I get that question so many times. Well, now you don't have to deal with it with Alloyiacrus!
+Yes, you *can* wear full Lagiacrus, but that takes **three** extra horns (arguably the hardest mat) and gives you Status Atk Down. By the way, Status Atk Down **affects tranqs.** I get that question so many times. Well, with Alloyiacrus, now you don't have to deal with it!
 
 --- 
 
