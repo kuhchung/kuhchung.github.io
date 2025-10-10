@@ -182,8 +182,8 @@ Longsword and Switch Axe: Sorry they are so garbage I wouldn't even use them at 
 
 ### Alloyiacrus Blademaster
 <p float="left">
-<img src="images/lagi-alloy.png" width="48%">
-<img src="images/lagi-alloy-skills.png" width="48%">
+<img src="images/alloy-lagi.png" width="48%">
+<img src="images/alloy-lagi-skills.png" width="48%">
 <p float="left">
 Active Skills: Element Atk Up, Speed Sharpener, Trapmaster
 
