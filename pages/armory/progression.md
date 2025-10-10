@@ -196,6 +196,8 @@ Available Slots: (Talisman)
 
 Yes, you *can* wear full Lagiacrus, but that takes two extra horns and gives you Status Atk Down. By the way, Status Atk Down **affects tranqs.** I get that question so many times. Well, now you don't have to deal with it with Alloyiacrus!
 
+--- 
+
 ### Rathalos Without Plate
 
 <p float="left">
