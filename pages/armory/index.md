@@ -524,11 +524,21 @@ If your talisman is Crit Draw 6, then you don't have to blow a stout horn for th
 
 ### Pickle Eater
 
+<img src="images/MH3icon-Great_Sword.png" width="16px"> Anguish (P) | O  
+<img src="images/MH3icon-1-Head.png" width="16px"> Diablos Helm+  
+<img src="images/MH3icon-2-Chest.png" width="16px"> Selene/Helios Mail+
+<img src="images/MH3icon-3-Arms.png" width="16px"> Selene/Helios Vambraces+
+<img src="images/MH3icon-4-Waist.png" width="16px"> Selene/Helios Coil
+<img src="images/MH3icon-5-Legs.png" width="16px"> Selene/Helios Greaves(+)
+Talisman: Crit Draw +5 OR Crit Draw +5 Tremor-Proof +3 O OR Tremor-Proof +5 Crit Draw +3
+
 Active Skills:  Sharpness +1, Critical Draw, High Grade Earplugs, (Tremor-Proof)
 
-See <a href="#endgame-headless-high-grade-earplugs"> here </a> and put on Diablos Helm+. Your talisman only needs to be Crit Draw 5 or better.
+Your talisman only needs to be Crit Draw 5 or better.
 
-If you have a talisman with both Tremor Res and Crit Draw skills, you may be able to get both! This is a set for hunting Diablos and Deviljho.
+This is a variation using the template <a href="#endgame-headless-high-grade-earplugs"> here </a>.
+
+If you have a talisman with both Tremor Res and Crit Draw skills, you may be able to get both! This is a set for hunting Diablos and Deviljho. Note to self: check the talismans. I created this from memory, but I know something like this exists.
 
 </details>
 
